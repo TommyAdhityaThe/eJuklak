@@ -1,3 +1,15 @@
+1. Masih belum tau mau diisi apa
+
+    1.1. a
+
+    1.2. b
+
+    1.3. c
+
+    1.4. d
+
+    1.5. Daftar Dosen FTIS;Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
+
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
