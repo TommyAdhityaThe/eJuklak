@@ -1,3 +1,4 @@
+//IVAN
 "Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia".
 
 FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
@@ -22,7 +23,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 3.	Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
 4.	Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
 
-
+//TOMMY
 1. An item in an enumerated (ordered) list  
     1.1. a
 
@@ -80,26 +81,46 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 | 28.,Maria,Anestasia, SSi (ITB), MSi (ITB):,Kalkulus 2, Persamaan Diferensial,Biasa, Kalkulus Vektor.,Email: maria.anestasia@unpar.ac.id                                                        |
 
 
+//ALEX
+|No| Tables   |  
+|----------:|:----------|
+|22	|Janto Vincent Sulungbudi, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.|
+||Email: janto@UNPAR.ac.id,janto.sulungbudi@gmail.com.|
+|23|Lionov, SKom (UNPAR), MSc. (Utrecht Univ. - Belanda):Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi. |
+||	Email: lionov@unpar.ac.id.|
+|24|Livia Owen, SSi (UNPAR), MSi(ITB): Kalkulus Vektor, Komputasi Matematika, Fisika Matematik II.|
+||Email: livia.owen@unpar.ac.id|
+|25|Luciana Abednego, SKom (UNPAR), MT (ITB): Logika Informatika, Algoritma dan Struktur Data, Grafika Komputer.|
+||Email: luciana@unpar.ac.id|
+|26|Taufik Limansyah, SSi (UNPAR), Studi S-2 Teknik Industri di UNPAR : Kalkulus I, Kalkulus II, Fisika Matematik I.|
+||Email: taufik.limansyah@unpar.ac.id|
+|27|Thomas Anung Basuki, ST (ITB), MKom (UI), Dr. (University of Pisa - Italia): Pengantar Sistem Cerdas, Rekayasa Perangkat Lunak, Penulisan Ilmiah.|
+||Email: anung@unpar.ac.id|
+|28|Maria Anestasia, SSi (ITB), MSi (ITB): Kalkulus 2, Persamaan Diferensial Biasa, Kalkulus Vektor.|
+||Email: marianestasia@unpar.ac.id|
 
-//bates testing
-1. Masih belum tau mau diisi apa
-
-    1.1. a
-
-    1.2. b
-
-    1.3. c
-
-    1.4. d
-
-    1.5. Daftar Dosen FTIS;Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-//bates testing
+||Golongan III|
+|:----------:|:----------:|
+|29|Chandra Wijaya, SKom (UNPAR), MT (ITB):	Jaringan Komputer, Sistem Digital|
+||Email: chandraw@unpar.ac.id|
+|30|Elok Fidiani, SSi (UGM), MSc (TU Dresden): Fisika Dasar, Fisika Statistik, Pengantar Fisika Material,Nanoteknologi dan Lingkungan. |
+||Email: elokfidiani@unpar.ac.id, elokfidiani@gmail.com. |
+|31|	Flaviana Catherine, SSi (UNPAR), MSi (ITB): Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran,	Fisika Instrumentasi Medis |
+||Email: flaviana@UNPAR.ac.id.|
+|32|Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan. |
+||Email: haryanto.siahaan@gmail.com|
+|33|Kian Ming, SSi (UNPAR), S-2 (ITB): Fisika Dasar, Teori Relativitas, Kosmologi Relativistik |
+||Email: kian.ming@UNPAR.ac.id.|
+|34|Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven - Belanda) PDEng (Universiteit Eindhoven - Belanda): Struktur Diskret, Kriptografi, Logika Informatika.|
+||Email: mariskha@unpar.ac.id |
+|35|Pascal Alfadian, SKom (UNPAR), MCom (NUS - SIngapore): Analisis dan Desain Berorientasi Objek, Pemrograman Berbasis Objek|
+||Email: pascal@unpar.ac.id|
+|36|Risti Suryantari, SSi (UGM), MSc (UGM): Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.|
+||Email: ristisuryantari@UNPAR.ac.id.|
+|37|Husnul Hakim, SKom (ITS), MT (ITB): Pemrograman Berorientasi Objek, Algoritma dan Struktur Data|
+||Email: husnulhakim@unpar.ac.id|
+|38|Vania Natali, S.Kom (UNPAR), studi S2 - ITB|
+||Email: vania.natali@unpar.ac.id|
 
 
 Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015
