@@ -85,7 +85,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 //ALEX
 
-|No| Tables   |  
+|||
 |----------:|:----------|
 |22	|Janto Vincent Sulungbudi, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.|
 ||Email: janto@UNPAR.ac.id,janto.sulungbudi@gmail.com.|
