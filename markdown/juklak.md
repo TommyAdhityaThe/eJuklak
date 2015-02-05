@@ -1,4 +1,5 @@
 //IVAN
+
 "Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia".
 
 FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
@@ -24,6 +25,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 4.	Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
 
 //TOMMY
+
 1. An item in an enumerated (ordered) list  
     1.1. a
 
@@ -82,6 +84,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 
 //ALEX
+
 |No| Tables   |  
 |----------:|:----------|
 |22	|Janto Vincent Sulungbudi, SSi (ITB): Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.|
