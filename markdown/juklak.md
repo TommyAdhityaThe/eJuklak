@@ -437,9 +437,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 ...
 
-
-
-tes golo
+//ALEX
 * Guru Besar 
       1. Prof B. Suprapto Brotosiswojo, Dr.,(Purdue University,USA),Fisika,,Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.
          Email: bensupra@unpar.ac.id
