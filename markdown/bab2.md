@@ -107,45 +107,45 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Kimia
 
-	10. 	Kode = AMS106
+	10. 		Kode = AMS106
 		 	
-		Mata Kuliah = Kalkulus II
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Kimia
+			Mata Kuliah = Kalkulus II
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Kimia
 
-	11. 	Kode = AMS101
-		 	
-		Mata Kuliah = Matematika 1
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Sipil
+	11. 		Kode = AMS101
+			 	
+			Mata Kuliah = Matematika 1
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Sipil
 
-	12. 	Kode = AMS102
+	12. 		Kode = AMS102
 		 	
-		Mata Kuliah = Matematika 2
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Sipil
+			Mata Kuliah = Matematika 2
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Sipil
 
-	13. 	Kode = AMS201
+	13. 		Kode = AMS201
 		 	
-		Mata Kuliah = Matematika 3
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Sipil
+			Mata Kuliah = Matematika 3
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Sipil
 
-	14. 	Kode = AMS202
+	14. 		Kode = AMS202
 		 	
-		Mata Kuliah = Matematika 4
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Sipil
+			Mata Kuliah = Matematika 4
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Sipil
 	
 
 
