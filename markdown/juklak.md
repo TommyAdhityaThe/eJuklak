@@ -64,6 +64,58 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 3.	Memiliki kemampuan memodelkan dan menyelesaikan permasalahan matematika, fisika, atau permasalahan di berbagai bidang (interdisiplin), dan khusus untuk sarjana Teknik Informatika mampu membangun perangkat lunak dan menyesuaikan diri terhadap perkembangan teknologi informasi; 
 4.	Memiliki wawasan yang luas tentang perkembangan Ilmu Matematika, Fisika, atau Teknik Informatika, dan penerapannya dan mampu bersaing di tataran nasional maupun internasional.  
 
+Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
+
+####1.2.4 Sasaran FTIS
+
+Sasaran FTIS adalah sebagai berikut :
+
+1. Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
+2. Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
+3. Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
+4. Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
+
+###1.3 Keberhasilan FTIS
+
+Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain. 
+Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang studi S-2 di luar negeri. 
+Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (Association of Computing Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
+
+###1.4 Pengelola Fakultas
+
+    Senat FTIS
+    Ketua = Agus Sukmana, SSi, MSc 
+    Sekretaris = Philips Nicolas Gunawidjaja, BSc, PhD
+
+    Dekanat
+    Dekan = Paulus Cahyono Tjiang, SSi, PhD. 
+    WD I (Akademik) = Dr. Thomas Anung Basuki
+    WD II (Keuangan dan Sumberdaya) = Maria Anestasia, SSi, MSi
+    WD III (Kemahasiswaan dan Alumni) = Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
+    
+    Program Studi Matematika
+    Ketua = Dr. Ferry Jaya Permana
+    Sekretaris = Livia Owen, SSi, Msi
+    
+    Program Studi Fisika
+    Ketua = Philips Nicolas Gunawidjaja, BSc, PhD
+    KaLab. Fisika Dasar = Risti Suryantari, S.Si., M.Si.
+    KaLab. Elektronika & Fisika Lanjut = Janto V. Sulungbudi, Drs.
+    
+    Program Studi Teknik Informatika
+    Ketua = Dr. Thomas Anung Basuki
+    Sekretaris = Lionov, SKom, MSc
+    KaLab. Komputasi = Chandra Wijaya, ST, MT
+    
+    Tata Usaha
+    Kepala = Pranyoto Teguh Imanto
+    Kasubag Akademik = Petrus Purnomo
+    Kasubag Keuangan & Kepegawaian = Budi Santoso
+    Kasubag Kemahasiswaan & Alumni = Fransiscus Sudarno
+    Kasubag Umum & Perlengkapan = Walip, A.Md
+    Staf Akademik = Rikie Setiawan, S.AB.
+    Staf Keuangan & Kepegawaian = Filifo Zebua, Dwina Irlistriarti, Dra.
+
 //TOMMY
 
 1. An item in an enumerated (ordered) list  
@@ -361,70 +413,4 @@ nasional maupun internasional.
 
 //Henry
 
-Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-#### 1.2.4 SASARAN FTIS
-
-Sasaran FTIS adalah sebagai berikut :
-
-1. Tercapainya sistem pengelolaan  yang profesional dan berkualitas.
-2. Mencapai efektivitas dan efisiensi pemanfaatan sarana, prasarana dan dana untuk menjamin keberlanjutan dan keunggulan.
-3. Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
-4. Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
-
-### 1.3 Keberhasilan FTIS
-
-Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 
-1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan 
-tersebut, terutama dari prodi Teknik Informatika, membawa pula 
-sertifikasi internasional di bidang sistem teknologi jaringan melalui 
-program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di 
-perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan 
-beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen 
-Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). 
-Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan 
-lain-lain. Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah 
-bergelar Doktor atau PhD dan 26 dosen telah berijasah S-2. Saat ini 3 
-orang dosen sedang studi S-3 di luar negeri, 4 orang dosen sedang studi 
-S-3 di dalam negeri, 1 orang dosen studi S-2 di dalam negeri dan 1 orang 
-studi S-2 di luar negeri. Sejak tahun 2000, FTIS secara rutin mengirim 
-tim untuk mengikuti kompetisi pemrograman tingkat internasional yang 
-diselenggarakan oleh organisasi ACM (Association of Computing 
-Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti 
-kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan 
-sebagainya. 
-
-###1.4 Pengelola Fakultas
-
-    Senat FTIS
-    Ketua = Agus Sukmana, SSi, MSc 
-    Sekretaris = Philips Nicolas Gunawidjaja, BSc, PhD
-
-    Dekanat
-    Dekan = Paulus Cahyono Tjiang, SSi, PhD. 
-    WD I (Akademik) = Dr. Thomas Anung Basuki
-    WD II (Keuangan dan Sumberdaya) = Maria Anestasia, SSi, MSi
-    WD III (Kemahasiswaan dan Alumni) = Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
-    
-    Program Studi Matematika
-    Ketua = Dr. Ferry Jaya Permana
-    Sekretaris = Livia Owen, SSi, Msi
-    
-    Program Studi Fisika
-    Ketua = Philips Nicolas Gunawidjaja, BSc, PhD
-    KaLab. Fisika Dasar = Risti Suryantari, S.Si., M.Si.
-    KaLab. Elektronika & Fisika Lanjut = Janto V. Sulungbudi, Drs.
-    
-    Program Studi Teknik Informatika
-    Ketua = Dr. Thomas Anung Basuki
-    Sekretaris = Lionov, SKom, MSc
-    KaLab. Komputasi = Chandra Wijaya, ST, MT
-    
-    Tata Usaha
-    Kepala = Pranyoto Teguh Imanto
-    Kasubag Akademik = Petrus Purnomo
-    Kasubag Keuangan & Kepegawaian = Budi Santoso
-    Kasubag Kemahasiswaan & Alumni = Fransiscus Sudarno
-    Kasubag Umum & Perlengkapan = Walip, A.Md
-    Staf Akademik = Rikie Setiawan, S.AB.
-    Staf Keuangan & Kepegawaian = Filifo Zebua, Dwina Irlistriarti, Dra.
