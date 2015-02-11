@@ -36,7 +36,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ####2.3.1 Kuliah Layanan Program Studi Matematika
 
 1.	Kode = AMS100
-2.	
+	
 	Mata Kuliah = Matematika Informatika
 
 	SKS = 4
@@ -44,7 +44,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 	Prodi yang dilayani = Teknik Informatika
 
 2. 	Kode = AMS100
-3. 	
+ 	
 	Mata Kuliah = Matematika Informatika
 
 	SKS = 4
