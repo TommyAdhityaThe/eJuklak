@@ -33,6 +33,17 @@ Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa seb
 ###2.3 Matakuliah Layanan
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
+####2.3.1 Kuliah Layanan Program Studi Matematika
+
+1.	Kode = AMS100
+	Mata Kuliah = Matematika Informatika
+	SKS = 4
+	Prodi yang dilayani = Teknik Informatika
+2. 	Kode = AMS100
+	Mata Kuliah = Matematika Informatika
+	SKS = 4
+	Prodi yang dilayani = Teknik Informatika
+
 
 <hr>
 
