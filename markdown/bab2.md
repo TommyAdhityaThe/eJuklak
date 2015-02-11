@@ -43,14 +43,38 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 	
 		Prodi yang dilayani = Teknik Informatika
 	
-	2. 	Kode = AMS100
+	2. 	Kode = AMS200
 	 	
-		Mata Kuliah = Matematika Informatika
+		Mata Kuliah = Probabilitas dan Statistika
+	
+		SKS = 3
+	
+		Prodi yang dilayani = Teknik Informatika
+	
+	3. 	Kode = AMS107
+		 	
+		Mata Kuliah = Fisika Matematika I
 	
 		SKS = 4
 	
-		Prodi yang dilayani = Teknik Informatika
-
+		Prodi yang dilayani = Fisika
+	
+	4. 	Kode = AMS108
+		 	
+		Mata Kuliah = Fisika Matematika II
+	
+		SKS = 4
+	
+		Prodi yang dilayani = Fisika
+	
+	5. 	Kode = AMS103
+		 	
+		Mata Kuliah = Kalkulus I
+	
+		SKS = 2
+	
+		Prodi yang dilayani = Teknik Industri
+	
 
 
 <hr>
