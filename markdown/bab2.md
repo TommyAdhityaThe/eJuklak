@@ -35,77 +35,77 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 
 ####2.3.1 Kuliah Layanan Program Studi Matematika
 
-	1.	Kode = AMS100
+	1.		Kode = AMS100
 		
-		Mata Kuliah = Matematika Informatika
+			Mata Kuliah = Matematika Informatika
 	
-		SKS = 4
+			SKS = 4
 	
-		Prodi yang dilayani = Teknik Informatika
+			Prodi yang dilayani = Teknik Informatika
 	
-	2. 	Kode = AMS200
+	2. 		Kode = AMS200
 	 	
-		Mata Kuliah = Probabilitas dan Statistika
+			Mata Kuliah = Probabilitas dan Statistika
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Informatika
 	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Informatika
-	
-	3. 	Kode = AMS107
+	3. 		Kode = AMS107
 		 	
-		Mata Kuliah = Fisika Matematika I
+			Mata Kuliah = Fisika Matematika I
+		
+			SKS = 4
+		
+			Prodi yang dilayani = Fisika
 	
-		SKS = 4
-	
-		Prodi yang dilayani = Fisika
-	
-	4. 	Kode = AMS108
+	4. 		Kode = AMS108
 		 	
-		Mata Kuliah = Fisika Matematika II
+			Mata Kuliah = Fisika Matematika II
+		
+			SKS = 4
+		
+			Prodi yang dilayani = Fisika
 	
-		SKS = 4
-	
-		Prodi yang dilayani = Fisika
-	
-	5. 	Kode = AMS103
+	5. 		Kode = AMS103
 		 	
-		Mata Kuliah = Kalkulus I
-	
-		SKS = 2
-	
-		Prodi yang dilayani = Teknik Industri
+			Mata Kuliah = Kalkulus I
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Industri
 
-	6. 	Kode = AMS104
+	6. 		Kode = AMS104
 		 	
-		Mata Kuliah = Kalkulus II
-	
-		SKS = 2
-	
-		Prodi yang dilayani = Teknik Industri
+			Mata Kuliah = Kalkulus II
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Industri
 
-	7. 	Kode = AMS203
+	7. 		Kode = AMS203
 		 	
-		Mata Kuliah = Matriks dan Ruang Vektor
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Industri
+			Mata Kuliah = Matriks dan Ruang Vektor
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Industri
 
-	8. 	Kode = AMS204
+	8. 		Kode = AMS204
 		 	
-		Mata Kuliah = Kalkulus Peubah Banyak
-	
-		SKS = 2
-	
-		Prodi yang dilayani = Teknik Industri
+			Mata Kuliah = Kalkulus Peubah Banyak
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Industri
 
-	9. 	Kode = AMS105
+	9. 		Kode = AMS105
 		 	
-		Mata Kuliah = Kalkulus I
-	
-		SKS = 3
-	
-		Prodi yang dilayani = Teknik Kimia
+			Mata Kuliah = Kalkulus I
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Kimia
 
 	10. 	Kode = AMS106
 		 	
