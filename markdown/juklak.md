@@ -121,7 +121,11 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 | Guru Besar                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Prof B. Suprapto Brotosiswojo, Dr.,(Purdue University,USA),Fisika,,Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.,Email: bensupra@unpar.ac.id |
+| 1. Prof B. Suprapto Brotosiswojo, Dr.,(Purdue University,USA)
+
+Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam.
+
+Email: bensupra@unpar.ac.id |
 
 | Lektor Kepala                                                                                                                                                                                                                    |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
