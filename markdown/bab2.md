@@ -74,6 +74,30 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		SKS = 2
 	
 		Prodi yang dilayani = Teknik Industri
+
+	6. 	Kode = AMS103
+		 	
+		Mata Kuliah = Kalkulus I
+	
+		SKS = 2
+	
+		Prodi yang dilayani = Teknik Industri
+
+	7. 	Kode = AMS103
+		 	
+		Mata Kuliah = Kalkulus I
+	
+		SKS = 2
+	
+		Prodi yang dilayani = Teknik Industri
+
+	8. 	Kode = AMS103
+		 	
+		Mata Kuliah = Kalkulus I
+	
+		SKS = 2
+	
+		Prodi yang dilayani = Teknik Industri
 	
 
 
