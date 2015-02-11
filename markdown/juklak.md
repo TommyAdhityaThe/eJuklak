@@ -358,7 +358,7 @@ menyesuaikan diri terhadap perkembangan teknologi informasi;
 Teknik Informatika, dan penerapannya dan mampu bersaing di tataran 
 nasional maupun internasional. 
 
-
+//Henry
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
 #### 1.2.4 SASARAN FTIS
@@ -392,17 +392,37 @@ Machinery), kompetisi jaringan komputer CISCO NetRiders, mengikuti
 kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan 
 sebagainya. 
 
-### 1.4 Pengelola Fakultas
+###1.4 Pengelola Fakultas
 
-* **Senat FTIS**
-    * **Ketua**: Agus Sukmana, SSi, MSc
-    * **Sekretaris**: Philips Nicolas Gunawidjaja, BSc, PhD
-* **Dekanat**
-    * **Dekan**: Paulus Tjahjono Tjiang, SSi, PhD.
-    * **WD 1 (Akademik)**: Dr. Thomas Anung Basuki
-    * ...
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-...
+    Senat FTIS
+    Ketua = Agus Sukmana, SSi, MSc 
+    Sekretaris = Philips Nicolas Gunawidjaja, BSc, PhD
+
+    Dekanat
+    Dekan = Paulus Cahyono Tjiang, SSi, PhD. 
+    WD I (Akademik) = Dr. Thomas Anung Basuki
+    WD II (Keuangan dan Sumberdaya) = Maria Anestasia, SSi, MSi
+    WD III (Kemahasiswaan dan Alumni) = Dr.rer.nat. Cecilia E. Nugraheni, ST,MT
+    
+    Program Studi Matematika
+    Ketua = Dr. Ferry Jaya Permana
+    Sekretaris = Livia Owen, SSi, Msi
+    
+    Program Studi Fisika
+    Ketua = Philips Nicolas Gunawidjaja, BSc, PhD
+    KaLab. Fisika Dasar = Risti Suryantari, S.Si., M.Si.
+    KaLab. Elektronika & Fisika Lanjut = Janto V. Sulungbudi, Drs.
+    
+    Program Studi Teknik Informatika
+    Ketua = Dr. Thomas Anung Basuki
+    Sekretaris = Lionov, SKom, MSc
+    KaLab. Komputasi = Chandra Wijaya, ST, MT
+    
+    Tata Usaha
+    Kepala = Pranyoto Teguh Imanto
+    Kasubag Akademik = Petrus Purnomo
+    Kasubag Keuangan & Kepegawaian = Budi Santoso
+    Kasubag Kemahasiswaan & Alumni = Fransiscus Sudarno
+    Kasubag Umum & Perlengkapan = Walip, A.Md
+    Staf Akademik = Rikie Setiawan, S.AB.
+    Staf Keuangan & Kepegawaian = Filifo Zebua, Dwina Irlistriarti, Dra.
