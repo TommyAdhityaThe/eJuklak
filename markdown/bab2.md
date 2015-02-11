@@ -147,6 +147,101 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Sipil
 	
+####2.3.2 Kuliah Layanan Program Studi Fisika
+
+	1.		Kode = APS181
+		
+			Mata Kuliah = Fisika Dasar
+	
+			SKS = 4
+	
+			Prodi yang dilayani = Matematika
+	
+	2. 		Kode = APS182
+	 	
+			Mata Kuliah = Fisika Dasar
+		
+			SKS = 3
+		
+			Prodi yang dilayani = Teknik Sipil
+	
+	3. 		Kode = APS183
+		 	
+			Mata Kuliah = Fisika Dasar I
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Industri
+	
+	4. 		Kode = APS184
+		 	
+			Mata Kuliah = Fisika Dasar II
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Industri
+
+	5. 		Kode = APS185
+		 	
+			Mata Kuliah = Fisika Dasar I
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Kimia
+
+	6. 		Kode = APS186
+		 	
+			Mata Kuliah = Fisika Dasar II
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Teknik Kimia
+
+	7. 		Kode = APS187
+		 	
+			Mata Kuliah = Praktikum Fisika Dasar
+		
+			SKS = 1
+		
+			Prodi yang dilayani = Matematika
+
+	8. 		Kode = APS188
+		 	
+			Mata Kuliah = Praktikum Fisika Dasar
+		
+			SKS = 1
+		
+			Prodi yang dilayani = Teknik Sipil
+
+	9. 		Kode = APS189
+		 	
+			Mata Kuliah = Praktikum Fisika Dasar
+		
+			SKS = 1
+		
+			Prodi yang dilayani = Teknik Industri
+
+	10. 		Kode = FFT113
+		 	
+			Mata Kuliah = Kosmologi
+		
+			SKS = 2
+		
+			Prodi yang dilayani = Filsafat
+
+####2.3.3 Kuliah Layanan Program Studi Teknik Informatika
+
+	1.		Kode = AKS144
+		
+			Mata Kuliah = Pemrograman Komputer
+	
+			SKS = 3
+	
+			Prodi yang dilayani = Matematika
+
+###2.4 Matakuliah Umum
+
+Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
 
 <hr>
