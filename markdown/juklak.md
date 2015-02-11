@@ -359,6 +359,7 @@ Teknik Informatika, dan penerapannya dan mampu bersaing di tataran
 nasional maupun internasional. 
 
 //Henry
+
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
 #### 1.2.4 SASARAN FTIS
