@@ -250,6 +250,27 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 	2.	Kode : MKU002
 		Mata Kuliah : Pendidikan Kewarganegaraan
 		SKS : 2
+	3.	Kode : MKU003
+		Mata Kuliah : Agama Katolik
+		SKS : 2
+	4.	Kode : MKU004
+		Mata Kuliah : Fenomenologi Agama
+		SKS : 2
+	5.	Kode : MKU008
+		Mata Kuliah : Etika
+		SKS : 2
+	6.	Kode : MKU009
+		Mata Kuliah : Bahasa Indonesia
+		SKS : 2
+	7.	Kode : MKU010
+		Mata Kuliah : Bahasa Inggris
+		SKS : 2
+	8.	Kode : MKU011
+		Mata Kuliah : Estetika
+		SKS : 2
+	9.	Kode : MKU012
+		Mata Kuliah : Logika
+		SKS : 2
 
 
 <hr>
