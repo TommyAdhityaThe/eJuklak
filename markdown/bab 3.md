@@ -15,5 +15,42 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 ####3.1.1 Perwalian dan Penentuan Mata Kuliah
 Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar matakuliah yang akan diikuti pada semester yang bersangkutan.
 Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:
-a. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
-b. 
+   a. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.
+   b.	Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.
+   c.	Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.
+   d.	Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :
+
+tabel
+
+  Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian : 
+    * 1 jam kuliah
+    * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+    * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, rumah, dsb)
+    
+Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
+
+Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan masalah akademik dan non-akademik yang dirasakan dapat mengganggu studi mahasiswa yang bersangkutan di FTIS . Namun perlu diperhatikan bahwa dosen wali hanya bertindak sebagai penasehat/pemberi saran berdasarkan pengalamannya. Penyelesaian masalah sepenuhnya berada di tangan mahasiswa yang mengalaminya.
+
+####3.1.2 	Pendaftaran Mata Kuliah
+Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url https://mhs.akad.unpar/), login menggunakan username dari account student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan. 
+Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa wajib memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
+
+      Catatan:
+      Jika karena sesuatu hal mahasiswa tidak dapat mengikuti tahap perwalian dan perencanaan studi, maka mahasiswa         tersebut dapat diwakilkan olehmahasiswa FTIS UNPAR, dengan mengisi formulir terkait di Tata Usaha FTIS. Jumlah        beban maksimum untuk perwalian dan perencanaan studi yang diwakilkan adalah 10 sks. Tata cara perwalian dan           perencanaan studi yang diwakilkan tetap mengikuti prosedur di atas.
+
+####3.1.3 Tahap Perkuliahan Awal
+Kuliah, responsi, dan praktikum perdana adalah penting, karena pada umumnya dosen menjelaskan berbagai tata cara, bobot penilaian dan tata tertib pelaksanaan kegiatan perkuliahan terkait. Karena itu hendaknya mahasiswa telah hadir sejak awal perkuliahan ini. Jika terpaksa tidak hadir karena sesuatu hal, mahasiswa perlu segera menanyakan tata cara dan tata tertib tersebut kepada dosen atau rekan mahasiswa yang mempunyai catatan yang lengkap.
+####3.1.4 Perubahan Rencana Studi
+Jika selama satu minggu pertama kuliah, mahasiswa hendak mengubah rencana studi yang telah dilakukan, maka mahasiswa tersebut perlu mengikuti tahap perubahan rencana studi. Namun disarankan agar mahasiswa berusaha sedapat mungkin menghindari tahap perubahan rencana studi ini, karena cenderung merugikan diri sendiri dari segi waktu maupun efisiensi studi.
+
+###3.2 Kegiatan Perkuliahan
+Setiap mahasiswa yang telah memiliki KTM dan telah menyelesaikan kewajiban pembayarannya, pada dasarnya berhak mengikuti seluruh kegiatan akademik sesuai dengan kesepakatan hasil perwalian (ditunjukkan melalui email konfirmasi hasil pengisian FRS dan/atau PRS). Hak ini tentunya masih dapat diubah oleh dosen terkait, jika dinilai bahwa kelakuan dan unjuk-kerja mahasiswa itu tidak memadai. 
+Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh mahasiswa maupun dosen kepada pihak yang berkepentingan, yaitu dosen wali, pimpinan jurusan / program studi, dan pimpinan FTIS.
+Perincian kegiatan perkuliahan adalah sebagai berikut :
+
+1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan :
+* a
+* b
+2. 
+
