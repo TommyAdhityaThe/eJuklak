@@ -1,3 +1,16 @@
+#BAB 4
+##EVALUASI KEBERHASILAN BELAJAR
+<hr>
+Evaluasi keberhasilan belajar yang diuraikan berikut ini berdasarkan kepada :
+
+1.	Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 tentang Evaluasi Keberhasilan Belajar Dalam Mata Kuliah Dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana Dan Program Diploma-III di Lingkungan Universitas Katolik Parahyangan.
+2.	Keputusan Dekan No. III/FMIPA/2007-04/396-SK tentang Evaluasi Keberhasilan Belajar Tahap Pertama Dan Tahap Kedua Pada Program Stratum-1 Di Lingkungan Fakultas Matematika Dan Ilmu Pengetahuan Alam Universitas Katolik Parahyangan.
+
+
+
+
+------------------------BATAS----------------------
+
 #BAB 2
 ##PENYELENGGARAAN MATA KULIAH
 <hr>
