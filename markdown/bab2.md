@@ -243,6 +243,14 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
+####2.4.1 Susunan Matakuliah Umum
+	1.	Kode : MKU001
+		Mata Kuliah : Pendidikan Pancasila
+		SKS : 2
+	2.	Kode : MKU002
+		Mata Kuliah : Pendidikan Kewarganegaraan
+		SKS : 2
+
 
 <hr>
 
