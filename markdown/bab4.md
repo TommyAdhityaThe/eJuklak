@@ -86,8 +86,22 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
+**--------------------TABEL BELUM YAKIN PASTI PADA BARIS 4 NYA-----------------------**
+
 |     IPK     |                                               Yudisium                                               |
 |:-----------:|:----------------------------------------------------------------------------------------------------:|
 | 2,00 – 2,75 | Memuaskan                                                                                            |
 | 2,76 – 3,50 | Sangat Memuaskan                                                                                     |
 | 3,51 – 4,00 | Dengan Pujian (masa studi terpakai ≤ 9 semester);Sangat Memuaskan (masa studi terpakai > 9semester) |
+
+###4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
+
+Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08/148 tentang Standar Kemampuan Bahasa Inggris Mahasiswa Universitas Katolik Parahyangan, mulai mahasiswa angkatan 2006 dan selanjutnya, setiap mahasiswa program Sarjana dan Pascasarjana wajib memiliki kemampuan bahasa Inggris yang dinyatakan berdasarkan hasil tes di PBB (Pusat Pendidikan Berkelanjutan) UNPAR, atau pada lembaga penyelenggara tes resmi di luar UNPAR, dengan skor minimal sebagai berikut:
+
+1.	Skor 500 (limaratus) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes tertulis (paper-based TOEFL), atau
+2.	Skor 59-60 (lima puluh sembilan sampai enam puluh) yang diperoleh melalui pelaksanaan test TOEFL dengan metode tes melalui internet (internet-based TOEFL), atau
+3.	Skor 173 (seratus tujuh puluh tiga) yang diperoleh melalui pelaksanaan tes TOEFL dengan metode tes menggunakan komputer (computer-based TOEFL), atau
+4.	Skor 5,0 (lima koma nol) yang diperoleh melalui pelaksanaan IELTS.
+
+Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
+
