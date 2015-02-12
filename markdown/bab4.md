@@ -142,3 +142,23 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 ![](images/lampiran4-4.png)
 ![](images/lampiran4-5.png)
 ![](images/lampiran4-6.png)
+
+#LAMPIRAN 5
+<hr>
+![](images/lampiran5-1.png)
+![](images/lampiran5-2.png)
+![](images/lampiran5-3.png)
+
+#LAMPIRAN 6
+<hr>
+![](images/lampiran6-1.png)
+![](images/lampiran6-2.png)
+
+#LAMPIRAN 7
+<hr>
+![](images/lampiran7-1.png)
+![](images/lampiran7-1.png)
+![](images/lampiran7-1.png)
+![](images/lampiran7-1.png)
+![](images/lampiran7-1.png)
+![](images/lampiran7-1.png)
