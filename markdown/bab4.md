@@ -86,7 +86,7 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-**--------------------TABEL BELUM YAKIN PASTI PADA BARIS 4 NYA-----------------------**
+**--------------------TABEL BELUM YAKIN PASTI PADA BARIS 4 NYA, KARENA DIPISAHKAN DENGAN ";"-----------------------**
 
 |     IPK     |                                               Yudisium                                               |
 |:-----------:|:----------------------------------------------------------------------------------------------------:|
