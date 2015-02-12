@@ -303,5 +303,32 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 **Matakuliah yang saling menggantikan : Agama Katolik - Fenomenologi Agama**
 
+###2.5 Kurikulum Program Studi Matematika
+####2.5.1 Susunan Mata Kuliah
+*	Semester 1
+	1.	Kode : 
+		Nama : 
+		APR : 
+		SKS : 
+	2.	Kode : 
+		Nama : 
+		APR : 
+		SKS : 
+	3.	Kode : 
+		Nama : 
+		APR : 
+		SKS : 
+	4.	Kode : 
+		Nama : 
+		APR : 
+		SKS : 
+*	Semester 2
+*	Semester 3
+*	Semester 4
+*	Semester 5
+*	Semestar 6
+*	Semester 7
+*	Semester 8
+
 <hr>
 
