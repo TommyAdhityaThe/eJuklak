@@ -313,7 +313,6 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 		APR : R
 		
 		SKS : 4
-		
 	2.	Kode : AMS123
 
 		Nama : Pemecahan Masalah Matematika
@@ -321,7 +320,6 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 		APR : -
 
 		SKS : 3
-
 	3.	Kode : AMS151
 	
 		Nama : Statistika Elementer
@@ -329,7 +327,6 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 		APR : -
 
 		SKS : 4
-
 	4.	Kode : APS181
 
 		Nama : Fisika Dasar
@@ -344,22 +341,64 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 		APR : R
 
 		SKS : 2
-	6.	Kode : APS181
+	6.	Kode : MKU010
 
-		Nama : Fisika Dasar
+		Nama : Bahasa Inggris
 
-		APR : R, P
+		APR : -
 
-		SKS : 4
-	7.	Kode : APS181
-
-		Nama : Fisika Dasar
-
-		APR : R, P
-
-		SKS : 4
+		SKS : 2
 
 *	Semester 2
+	1.	Kode : AMS122
+
+		Nama : Kalkulus II
+
+		APR : -
+
+		SKS : 4
+	2.	Kode : AMS124
+
+		Nama : Matematika Diskret
+
+		APR : -
+
+		SKS : 4
+	3.	Kode : AMS126
+
+		Nama : Aljabar Matriks
+
+		APR : -
+
+		SKS : 4
+	4.	Kode : AIF112
+
+		Nama : Pemrograman Komputer
+
+		APR : -
+
+		SKS : 3
+	5.	Kode : MKU011
+
+		Nama : Estetika
+
+		APR : -
+
+		SKS : 2
+	6.	Kode : MKU003
+
+		Nama : Agama Katolik +
+
+		APR : -
+
+		SKS : 2
+	7.	Kode : MKU004
+
+		Nama : Fenomenologi Agama +
+
+		APR : -
+
+		SKS : 2
 *	Semester 3
 *	Semester 4
 *	Semester 5
