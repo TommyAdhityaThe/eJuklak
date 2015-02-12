@@ -107,6 +107,7 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 
 #LAMPIRAN 1
 ##JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
+<hr>
 
 |        Kegiatan        |        Semester Ganjil       |          Semester Genap         |
 |:----------------------:|:----------------------------:|:-------------------------------:|
@@ -120,6 +121,7 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 
 #LAMPIRAN 2
 ##JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015
+<hr>
 
 |              Tahap              |    Semester Ganjil   |    Semester Genap   |
 |:-------------------------------:|:--------------------:|:-------------------:|
@@ -128,7 +130,9 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 
 #LAMPIRAN 3
 ##SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
+<hr>
 
 **-------------------------------HARUSNYA ADA TABEL TAPI BELUM DIMASUKKIN---------------------------**
 
 #LAMPIRAN 4
+<hr>
