@@ -90,4 +90,4 @@ IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh ma
 |:-----------:|:----------------------------------------------------------------------------------------------------:|
 | 2,00 – 2,75 | Memuaskan                                                                                            |
 | 2,76 – 3,50 | Sangat Memuaskan                                                                                     |
-| 3,51 – 4,00 | Dengan Pujian (masa studi terpakai ≤ 9 semester)  Sangat Memuaskan (masa studi terpakai > 9semester) |
+| 3,51 – 4,00 | Dengan Pujian (masa studi terpakai ≤ 9 semester);Sangat Memuaskan (masa studi terpakai > 9semester) |
