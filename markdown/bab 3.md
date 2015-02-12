@@ -50,7 +50,7 @@ Jika ada masalah tentang ini, hal ini perlu dilaporkan secara tertulis oleh maha
 Perincian kegiatan perkuliahan adalah sebagai berikut :
 
 1. **Kegiatan tatap muka (kuliah) dalam kelas (1 jam/SKS)**, yang sebaiknya dimanfaatkan secara maksimal dengan :
-* a
-* b
+   * a
+   * b
 2. 
 
