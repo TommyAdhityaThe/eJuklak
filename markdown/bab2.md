@@ -305,7 +305,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 ###2.5 Kurikulum Program Studi Matematika
 ####2.5.1 Susunan Mata Kuliah
-	*	Semester 1
+	Semester 1
 		1.	Kode : AMS121
 	
 			Nama : Kalkulus I 
@@ -349,7 +349,9 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 	
 			SKS : 2
 	
-	*	Semester 2
+	
+
+	Semester 2
 		1.	Kode : AMS122
 	
 			Nama : Kalkulus II
@@ -399,7 +401,12 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 			APR : -
 	
 			SKS : 2
-*	Semester 3
+	
+
+
+	Semester 3
+	
+	
 *	Semester 4
 *	Semester 5
 *	Semestar 6
