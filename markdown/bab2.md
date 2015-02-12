@@ -337,6 +337,27 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 		APR : R, P
 
 		SKS : 4
+	5.	Kode : MKU012
+
+		Nama : Logika
+
+		APR : R
+
+		SKS : 2
+	6.	Kode : APS181
+
+		Nama : Fisika Dasar
+
+		APR : R, P
+
+		SKS : 4
+	7.	Kode : APS181
+
+		Nama : Fisika Dasar
+
+		APR : R, P
+
+		SKS : 4
 
 *	Semester 2
 *	Semester 3
