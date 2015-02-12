@@ -305,100 +305,100 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 ###2.5 Kurikulum Program Studi Matematika
 ####2.5.1 Susunan Mata Kuliah
-*	Semester 1
-	1.	Kode : AMS121
-
-		Nama : Kalkulus I 
-		
-		APR : R
-		
-		SKS : 4
-	2.	Kode : AMS123
-
-		Nama : Pemecahan Masalah Matematika
-
-		APR : -
-
-		SKS : 3
-	3.	Kode : AMS151
+	*	Semester 1
+		1.	Kode : AMS121
 	
-		Nama : Statistika Elementer
-
-		APR : -
-
-		SKS : 4
-	4.	Kode : APS181
-
-		Nama : Fisika Dasar
-
-		APR : R, P
-
-		SKS : 4
-	5.	Kode : MKU012
-
-		Nama : Logika
-
-		APR : R
-
-		SKS : 2
-	6.	Kode : MKU010
-
-		Nama : Bahasa Inggris
-
-		APR : -
-
-		SKS : 2
-
-*	Semester 2
-	1.	Kode : AMS122
-
-		Nama : Kalkulus II
-
-		APR : -
-
-		SKS : 4
-	2.	Kode : AMS124
-
-		Nama : Matematika Diskret
-
-		APR : -
-
-		SKS : 4
-	3.	Kode : AMS126
-
-		Nama : Aljabar Matriks
-
-		APR : -
-
-		SKS : 4
-	4.	Kode : AIF112
-
-		Nama : Pemrograman Komputer
-
-		APR : -
-
-		SKS : 3
-	5.	Kode : MKU011
-
-		Nama : Estetika
-
-		APR : -
-
-		SKS : 2
-	6.	Kode : MKU003
-
-		Nama : Agama Katolik +
-
-		APR : -
-
-		SKS : 2
-	7.	Kode : MKU004
-
-		Nama : Fenomenologi Agama +
-
-		APR : -
-
-		SKS : 2
+			Nama : Kalkulus I 
+			
+			APR : R
+			
+			SKS : 4
+		2.	Kode : AMS123
+	
+			Nama : Pemecahan Masalah Matematika
+	
+			APR : -
+	
+			SKS : 3
+		3.	Kode : AMS151
+		
+			Nama : Statistika Elementer
+	
+			APR : -
+	
+			SKS : 4
+		4.	Kode : APS181
+	
+			Nama : Fisika Dasar
+	
+			APR : R, P
+	
+			SKS : 4
+		5.	Kode : MKU012
+	
+			Nama : Logika
+	
+			APR : R
+	
+			SKS : 2
+		6.	Kode : MKU010
+	
+			Nama : Bahasa Inggris
+	
+			APR : -
+	
+			SKS : 2
+	
+	*	Semester 2
+		1.	Kode : AMS122
+	
+			Nama : Kalkulus II
+	
+			APR : -
+	
+			SKS : 4
+		2.	Kode : AMS124
+	
+			Nama : Matematika Diskret
+	
+			APR : -
+	
+			SKS : 4
+		3.	Kode : AMS126
+	
+			Nama : Aljabar Matriks
+	
+			APR : -
+	
+			SKS : 4
+		4.	Kode : AIF112
+	
+			Nama : Pemrograman Komputer
+	
+			APR : -
+	
+			SKS : 3
+		5.	Kode : MKU011
+	
+			Nama : Estetika
+	
+			APR : -
+	
+			SKS : 2
+		6.	Kode : MKU003
+	
+			Nama : Agama Katolik +
+	
+			APR : -
+	
+			SKS : 2
+		7.	Kode : MKU004
+	
+			Nama : Fenomenologi Agama +
+	
+			APR : -
+	
+			SKS : 2
 *	Semester 3
 *	Semester 4
 *	Semester 5
