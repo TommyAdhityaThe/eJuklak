@@ -306,22 +306,38 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 ###2.5 Kurikulum Program Studi Matematika
 ####2.5.1 Susunan Mata Kuliah
 *	Semester 1
-	1.	Kode : 
-		Nama : 
-		APR : 
-		SKS : 
-	2.	Kode : 
-		Nama : 
-		APR : 
-		SKS : 
-	3.	Kode : 
-		Nama : 
-		APR : 
-		SKS : 
-	4.	Kode : 
-		Nama : 
-		APR : 
-		SKS : 
+	1.	Kode : AMS121
+
+		Nama : Kalkulus I 
+		
+		APR : R
+		
+		SKS : 4
+		
+	2.	Kode : AMS123
+
+		Nama : Pemecahan Masalah Matematika
+
+		APR : -
+
+		SKS : 3
+
+	3.	Kode : AMS151
+	
+		Nama : Statistika Elementer
+
+		APR : -
+
+		SKS : 4
+
+	4.	Kode : APS181
+
+		Nama : Fisika Dasar
+
+		APR : R, P
+
+		SKS : 4
+
 *	Semester 2
 *	Semester 3
 *	Semester 4
