@@ -596,5 +596,188 @@ Semester 8 (Total 15 SKS)
 	
 			SKS : 9
 
+####2.5.2 Mata Kuliah Pilihan Program Studi Matematika
+
+Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
+
+#####Kelompok Bidang Kajian : Rekayasa Keuangan
+
+Matematika Asuransi
+	1.	Kode : AMS330
+
+		Nama : Pengantar Matematika Asuransi
+
+		SKS : 3 
+	2.	Kode : AMS331
+	
+		Nama : Matematika Asuransi
+
+		SKS : 3 
+	3.	Kode : AMS431
+
+		Nama : Metoda Statistika Asuransi
+
+		SKS : 3
+	4.	Kode : AMS432
+
+		Nama : Teori Risiko
+
+		SKS : 3
+	5.	Kode : AMS430
+
+		Nama : Kapita Selekta Matematika Asuransi
+
+		SKS : 3
+
+Matematika Keuangan
+	1.	Kode : AMS341
+
+		Nama : Komputasi Keuangan
+
+		SKS : 3 
+	2.	Kode : AMS342
+	
+		Nama : Matematika Keuangan
+
+		SKS : 3 
+	3.	Kode : AMS343
+
+		Nama : Analisis Deret Waktu
+
+		SKS : 3
+	4.	Kode : AMS441
+
+		Nama : Teori Manajemen Investasi
+
+		SKS : 3
+	5.	Kode : AMS442
+
+		Nama : Ekonometrika Keuangan
+
+		SKS : 3
+	6.	Kode : AMS440
+		
+		Nama : Kapita Selekta Matematika Keuangan
+
+		SKS : 3
+
+#####Kelompok Bidang Kajian : Rekayasa Keuangan
+
+Optimasi dan Teori Kontrol
+	1.	Kode : AMS361
+
+		Nama : Pemrograman NonLinear
+
+		SKS : 3 
+	2.	Kode : AMS461
+	
+		Nama : Kontrol Optimum
+
+		SKS : 3 
+	3.	Kode : AMS462
+
+		Nama : Kontrol Linear
+
+		SKS : 3
+
+Statistika & Penelitian Operasional
+	1.	Kode : AMS352
+
+		Nama : Pemrograman Stokastik
+
+		SKS : 3 
+	2.	Kode : AMS353
+	
+		Nama : Pengendalian Mutu
+
+		SKS : 3 
+	3.	Kode : AMS354
+
+		Nama : Model Statistika
+
+		SKS : 3
+	4.	Kode : AMS451
+
+		Nama : Teori Permainan
+
+		SKS : 3
+	5.	Kode : AMS452
+
+		Nama : Proyek Pemodelan
+
+		SKS : 3
+	6.	Kode : AMS453
+
+		Nama : Statistika Multivariant
+
+		SKS : 3 
+	7.	Kode : AMS454
+	
+		Nama : Statistika Non Parameter
+
+		SKS : 3 
+	8.	Kode : AMS455
+
+		Nama : Perancangan Percobaan
+
+		SKS : 3
+	9.	Kode : AMS456
+
+		Nama : Teori Antrian
+
+		SKS : 3
+	10.	Kode : AMS457
+
+		Nama : Keandalan
+
+		SKS : 3
+	11.	Kode : AMS350
+
+		Nama : Kapita Selekta Statistika
+
+		SKS : 3 
+	12.	Kode : AMS450
+	
+		Nama : Kapita Selekta Penelititan Operasional
+
+		SKS : 3
+		
+Matematika Terapan
+
+	1.	Kode : AMS471
+
+		Nama : Sistem Dinamik
+
+		SKS : 3 
+	2.	Kode : AMS472
+	
+		Nama : Matematika Biologi
+
+		SKS : 3 
+	3.	Kode : AMS371
+
+		Nama : Persamaan Diferensial Parsial
+
+		SKS : 3
+	4.	Kode : AMS372
+
+		Nama : Metoda Matematika Lanjut
+
+		SKS : 3
+	5.	Kode : AMS374
+
+		Nama : Analisis Numerik
+
+		SKS : 3
+	6.	Kode : AMS470
+
+		Nama : Kapita Selekta Matematika Terapan
+
+		SKS : 3
+
+#####Lain - Lain
+
+
+
 <hr>
 
