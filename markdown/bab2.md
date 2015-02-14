@@ -1609,9 +1609,8 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 		SKS : 3 
 
 Komposisi Kuliah wajib dan pilihan adalah
-
-•	Kuliah Wajib = 120 sks 
-•	Kuliah Pilihan = 24 sks 
+*	Kuliah Wajib = 120 sks 
+*	Kuliah Pilihan = 24 sks 
 
 Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
 
@@ -1650,7 +1649,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 		Deskripsi Mata Kuliah : Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.
 		
-Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.
+		Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.
 
 		
 	6.	Kode MK : APS106 (prasyarat APS105)
@@ -1659,7 +1658,7 @@ Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan 
 
 		Deskripsi Mata Kuliah : Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.
 		
-Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.
+		Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.
 
 	7.	Kode MK : APS107
 	
