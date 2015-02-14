@@ -1627,7 +1627,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 		Nama Mata Kuliah : Pemrograman Komputer (*Computer Programming*)
 
 		Deskripsi Mata Kuliah : Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.
-		
 	2.	Kode MK : APS101
 	
 		Nama Mata Kuliah : Pengenalan Program Studi Fisika (*Introduction to Physics Studies*)
@@ -1698,61 +1697,122 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 		Nama Mata Kuliah : Fisika Matematika III (*Mathematical Physics III*)
 
 		Deskripsi Mata Kuliah : Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.
-	14.	Kode MK : AMS261 (prasyarat AMS126, AMS221)
+	14.	Kode MK : APS208 (prasyarat APS207)
 	
-		Nama Mata Kuliah : Optimasi (*Optimization*)
+		Nama Mata Kuliah : Fisika Matematika IV (*Mathematical Physics IV*)
 
-		Deskripsi Mata Kuliah : Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.
-	15.	Kode MK : AMS272 (prasyarat AMS122, AMS126)
+		Deskripsi Mata Kuliah : Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.
+	15.	Kode MK : APS213 (prasyarat APS112, APS108)
 	
-		Nama Mata Kuliah : Persamaan Diferensial Biasa (*Ordinary Differential Equations*)
+		Nama Mata Kuliah : Gelombang (*Waves*)
 
-		Deskripsi Mata Kuliah : Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.
-	16.	Kode MK : AMS273 (prasyarat AMS126, AMS151, AMS221)
-	
-		Nama Mata Kuliah : Komputasi Matematika (*Computational Mathematics*)
-
-		Deskripsi Mata Kuliah : Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.
-	17.	Kode MK : AMS321 (prasyarat AMS221)
-	
-		Nama Mata Kuliah : Fungsi Kompleks (*Functions of A Complex Variable*)
-
-		Deskripsi Mata Kuliah : Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.
-	
-	18.	Kode MK : AMS351 (prasyarat AMS251)
-	
-		Nama Mata Kuliah : Proses Stokastik (*Stochastic Processes*)
-
-		Deskripsi Mata Kuliah : Distribusi eksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.
+		Deskripsi Mata Kuliah : Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang.
 		
-	19.	Kode MK : AMS373 (prasyarat AMS273)
+		Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.
+	16.	Kode MK : APS215 (prasyarat APS106, APS108)
 	
-		Nama Mata Kuliah : Metode Numerik (*Numerical Methods*)
+		Nama Mata Kuliah : Fisika Thermal (*Thermal Physics*)
 
-		Deskripsi Mata Kuliah : Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.
+		Deskripsi Mata Kuliah : Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika.  
+		Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis. 
+Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.
+	17.	Kode MK : APS216 (prasyarat APS215, APS207)
+	
+		Nama Mata Kuliah : Fisika Statistik (*Statistical Physics*)
+
+		Deskripsi Mata Kuliah : Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.
+	18.	Kode MK : APS222 (prasyarat APS106, APS207, APS213)
+	
+		Nama Mata Kuliah : Listrik Magnet (*Electricity and Magnetism*)
+
+		Deskripsi Mata Kuliah : Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.
+	19.	Kode MK : APS225 (prasyarat APS124)
+	
+		Nama Mata Kuliah : Laboratorium Fisika Modern (*Modern Physics Laboratory*)
+
+		Deskripsi Mata Kuliah : Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.
+	20.	Kode MK : APS233 (prasyarat APS108, APS132)
+	
+		Nama Mata Kuliah : Elektronika I (*Electronics I*)
+
+		Deskripsi Mata Kuliah : Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.
+	21.	Kode MK : APS234 (prasyarat APS233, APS207)
+	
+		Nama Mata Kuliah : Elektronika II (*Electronics II*)
+
+		Deskripsi Mata Kuliah : Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.
+	22.	Kode MK : APS304
+	
+		Nama Mata Kuliah : Teknik Presentasi (*Presentation Skills*)
+
+		Deskripsi Mata Kuliah : Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.
+	23.	Kode MK : APS323
 		
-	20.	Kode MK : AMS322 (prasyarat AMS321)
-	
-		Nama Mata Kuliah : Analisis Real (*Real Analysis*)
+		Nama Mata Kuliah : Elektrodinamika (*Electrodynamics*)
 
-		Deskripsi Mata Kuliah : Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.
+		Deskripsi Mata Kuliah : Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.
+	24.	Kode MK : APS327 (prasyarat APS208)
 		
-	21.	Kode MK : AMS491 (prasyarat AMS126, AMS221, AMS253, AMS272, AMS273)
-	
-		Nama Mata Kuliah : Pemodelan Matematika (*Mathematical Modelling*)
-
-		Deskripsi Mata Kuliah : Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.
+		Nama Mata Kuliah : Fisika Kuantum (*Quantum Physics*)
 		
-	22.	Kode MK : AMS490 (prasyarat lulus minimal 110 SKS)
-	
-		Nama Mata Kuliah : Seminar (*Seminar*)
-
-		Deskripsi Mata Kuliah : Studi pusaka, penulisan dan presentasi karya ilmiah.
+		Deskripsi Mata Kuliah : Kuliah ini membahas fenomena-fenomena yang ditemukan pada awal lahirnya teori kuantum, seperti fenomena kuantisasi dan dualisme partikel gelombang, dan teori-teori yang dibangun untuk menjelaskan fenomena-fenomena tersebut (prinsip gelombang dalam pemahaman teori kuantum, persamaan Schrodinger). Aplikasi teori kuantum diarahkan pada masalah-masalah yang sederhana dalam aplikasi persamaan Schrodinger, teori perturbasi serta pembahasan tentang momentum sudut dan spin partikel. Pada akhirnya, akan dibahas pula sebuah pandangan alternatif terhadap teori kuantum melalui path integral yang dikembangkan oleh Feynman. Melalui mata kuliah ini mahasiswa diharapkan dapat memahami secara kualitatif dan kuantitatif fenomena kuantum yang sangat berbeda dengan fenomena fisika klasik.
+	25.	Kode MK : APS328 (prasyarat APS327, APS208)
 		
-	23.	Kode MK : AMS499 (prasyarat AMS490 Minimal C)
-	
-		Nama Mata Kuliah : Skripsi (*Final Project*)
+		Nama Mata Kuliah : Mekanika Kuantum (*Quantum Mechanics*)
+		
+		Deskripsi Mata Kuliah : Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.
+	26.	Kode MK : APS335 (prasyarat APS234)
+		
+		Nama Mata Kuliah : Lab. Fisika Instrumentasi (*Instrumentation Physics Laboratory*)
+		
+		Deskripsi Mata Kuliah : Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi.
+	27.	Kode MK : APS341 (prasyarat APS208, APS106)
+		
+		Nama Mata Kuliah : Pengantar Fisika Nuklir (*Introduction to Nuclear Physics*)
+		
+		Deskripsi Mata Kuliah : Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.
+<hr>
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
 
-		Deskripsi Mata Kuliah : Studi pustaka, penulisan dan penyajian lisan skripsi.
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
+
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
+
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
+
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
+
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
+
+24.	Kode MK :
+		
+		Nama Mata Kuliah :
+		
+		Deskripsi Mata Kuliah : 
+
 <hr>
 
