@@ -849,7 +849,7 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 
 ####2.5.3 Peta dan Prasyarat Mata Kuliah
 
-Peta dan prasyarat mate kuliah ditunjukkan pada Gambar 1.
+Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 ####2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
@@ -891,5 +891,65 @@ Peta dan prasyarat mate kuliah ditunjukkan pada Gambar 1.
 		Nama Mata Kuliah : Kalkulus Vektor (*Vector Calculus*)
 
 		Deskripsi Mata Kuliah : Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.
+		
+	8.	Kode MK : AMS231, AMS122
+	
+		Nama Mata Kuliah : Teori Suku Bunga (*Theory of Interest*)
+
+		Deskripsi Mata Kuliah : Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.
+		
+	9.	Kode MK : AMS251, AMS122
+	
+		Nama Mata Kuliah : Teori Peluang (*Probability Theory*)
+
+		Deskripsi Mata Kuliah : Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.
+		
+	10.	Kode MK : AMS253, APS181, AMS151
+	
+		Nama Mata Kuliah : Komputasi Statistika (*Statistical Computation*)
+
+		Deskripsi Mata Kuliah : Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.
+		
+	11.	Kode MK : AMS271, AMS126
+	
+		Nama Mata Kuliah : Metode Matematika (*Mathematical Methods*)
+
+		Deskripsi Mata Kuliah : Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan *Discrete Fourier Transform*.
+		
+	12.	Kode MK : AMS222, AMS126
+	
+		Nama Mata Kuliah : Aljabar Linear (*Linear Algebra*)
+
+		Deskripsi Mata Kuliah : Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.
+		
+	13.	Kode MK : AMS252, AMS251
+	
+		Nama Mata Kuliah : Statistika Matematika (*Mathematical Statistics*)
+
+		Deskripsi Mata Kuliah : Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi
+		
+	14.	Kode MK : AMS261, AMS126, AMS221
+	
+		Nama Mata Kuliah : Optimasi (*Optimization*)
+
+		Deskripsi Mata Kuliah : Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.
+		
+	15.	Kode MK : AMS272, AMS122, AMS126
+	
+		Nama Mata Kuliah : Persamaan Diferensial Biasa (*Ordinary Differential Equations*)
+
+		Deskripsi Mata Kuliah : Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.
+		
+	16.	Kode MK : AMS273, AMS126, AMS151, AMS221
+	
+		Nama Mata Kuliah : Komputasi Matematika (*Computational Mathematics*)
+
+		Deskripsi Mata Kuliah : Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.
+		
+	8.	Kode MK : AMS231, AMS122
+	
+		Nama Mata Kuliah : Teori Suku Bunga (*Theory of Interest*)
+
+		Deskripsi Mata Kuliah : Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.
 <hr>
 
