@@ -305,7 +305,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 ###2.5 Kurikulum Program Studi Matematika
 ####2.5.1 Susunan Mata Kuliah
-Semester 1
+Semester 1 (Total 19 SKS)
 
 		1.	Kode : AMS121
 	
@@ -352,7 +352,7 @@ Semester 1
 	
 	
 
-Semester 2
+Semester 2 (Total 19 SKS)
 
 		1.	Kode : AMS122
 	
@@ -406,14 +406,195 @@ Semester 2
 	
 
 
-Semester 3
+Semester 3 (Total 18 SKS)
+
+		1.	Kode : AMS221
+	
+			Nama : Kalkulus Vektor
+	
+			APR : R
+	
+			SKS : 4
+		2.	Kode : AMS231
+	
+			Nama : Teori Suku Bunga
+	
+			APR : -
+	
+			SKS : 3
+		3.	Kode : AMS251
+	
+			Nama : Teori Peluang
+	
+			APR : -
+	
+			SKS : 4
+		4.	Kode : AMS253
+	
+			Nama : Komputasi Statistika
+	
+			APR : -
+	
+			SKS : 2
+		5.	Kode : AMS271
+	
+			Nama : Metoda Matematika
+	
+			APR : -
+	
+			SKS : 3
+		6.	Kode : MKU008
+	
+			Nama : Etika
+	
+			APR : R
+	
+			SKS : 2
 	
 	
-*	Semester 4
-*	Semester 5
-*	Semestar 6
-*	Semester 7
-*	Semester 8
+Semester 4 (Total 18 SKS)
+
+		1.	Kode : AMS222
+	
+			Nama : Aljabar Linear
+	
+			APR : R
+	
+			SKS : 4
+		2.	Kode : AMS252
+	
+			Nama : Statistika Matematika
+	
+			APR : -
+	
+			SKS : 4
+		3.	Kode : AMS261
+	
+			Nama : Optimasi
+	
+			APR : -
+	
+			SKS : 4
+		4.	Kode : AMS272
+	
+			Nama : Persamaan Diferensial Biasa
+	
+			APR : -
+	
+			SKS : 4
+		5.	Kode : AMS273
+	
+			Nama : Komputasi Matematika
+	
+			APR : -
+	
+			SKS : 2
+
+Semester 5 (Total 19 SKS)
+
+		1.	Kode : AMS321
+	
+			Nama : Fungsi Kompleks
+	
+			APR : -
+	
+			SKS : 4
+		2.	Kode : AMS351
+	
+			Nama : Proses Stokastik
+	
+			APR : -
+	
+			SKS : 4
+		3.	Kode : AMS373
+	
+			Nama : Metoda Numerik
+	
+			APR : -
+	
+			SKS : 3
+		4.	Kode : MKU002
+	
+			Nama : Pendidikan Kewarganegaraan
+	
+			APR : -
+	
+			SKS : 2
+		5.	Kode : ABCXYZ
+	
+			Nama : Pilihan
+	
+			APR : -
+	
+			SKS : 6
+
+Semester 6 (Total 18 SKS)
+		1.	Kode : AMS322
+	
+			Nama : Analisis Real
+	
+			APR : R
+	
+			SKS : 4
+		2.	Kode : MKU009
+	
+			Nama : Bahasa Indonesia
+	
+			APR : -
+	
+			SKS : 2
+		3.	Kode : ABCXYZ
+	
+			Nama : Pilihan
+	
+			APR : -
+	
+			SKS : 12
+
+Semester 7 (Total 18 SKS)
+		1.	Kode : AMS490
+	
+			Nama : Seminar
+	
+			APR : -
+	
+			SKS : 3
+		2.	Kode : AMS491
+	
+			Nama : Pemodelan Matematika
+	
+			APR : -
+	
+			SKS : 4
+		3.	Kode : MKU001
+	
+			Nama : Pancasila
+	
+			APR : -
+	
+			SKS : 2
+		4.	Kode : ABCXYZ
+	
+			Nama : Pilihan
+	
+			APR : -
+	
+			SKS : 9
+Semester 8 (Total 15 SKS)
+		1.	Kode : AMS499
+	
+			Nama : Skripsi
+	
+			APR : -
+	
+			SKS : 6
+		2.	Kode : ABCXYZ
+	
+			Nama : Pilihan
+	
+			APR : -
+	
+			SKS : 9
 
 <hr>
 
