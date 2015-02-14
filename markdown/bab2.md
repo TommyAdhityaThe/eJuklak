@@ -603,6 +603,7 @@ Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Re
 #####Kelompok Bidang Kajian : Rekayasa Keuangan
 
 Matematika Asuransi
+
 	1.	Kode : AMS330
 
 		Nama : Pengantar Matematika Asuransi
@@ -630,6 +631,7 @@ Matematika Asuransi
 		SKS : 3
 
 Matematika Keuangan
+
 	1.	Kode : AMS341
 
 		Nama : Komputasi Keuangan
@@ -664,6 +666,7 @@ Matematika Keuangan
 #####Kelompok Bidang Kajian : Rekayasa Keuangan
 
 Optimasi dan Teori Kontrol
+
 	1.	Kode : AMS361
 
 		Nama : Pemrograman NonLinear
@@ -681,6 +684,7 @@ Optimasi dan Teori Kontrol
 		SKS : 3
 
 Statistika & Penelitian Operasional
+
 	1.	Kode : AMS352
 
 		Nama : Pemrograman Stokastik
