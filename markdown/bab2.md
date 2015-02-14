@@ -107,7 +107,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Kimia
 
-	10. 		Kode = AMS106
+	10. 	Kode = AMS106
 		 	
 			Mata Kuliah = Kalkulus II
 		
@@ -115,7 +115,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Kimia
 
-	11. 		Kode = AMS101
+	11. 	Kode = AMS101
 			 	
 			Mata Kuliah = Matematika 1
 		
@@ -123,7 +123,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Sipil
 
-	12. 		Kode = AMS102
+	12. 	Kode = AMS102
 		 	
 			Mata Kuliah = Matematika 2
 		
@@ -131,7 +131,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Sipil
 
-	13. 		Kode = AMS201
+	13. 	Kode = AMS201
 		 	
 			Mata Kuliah = Matematika 3
 		
@@ -139,7 +139,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Sipil
 
-	14. 		Kode = AMS202
+	14. 	Kode = AMS202
 		 	
 			Mata Kuliah = Matematika 4
 		
@@ -221,7 +221,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Industri
 
-	10. 		Kode = FFT113
+	10. 	Kode = FFT113
 		 	
 			Mata Kuliah = Kosmologi
 		
@@ -274,31 +274,31 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 ####2.4.2 Uraian Singkat Matakuliah Umum
 	1.	Nama MK (Prasyarat) : MKU001
-		Nama Matakuliah : Pendidikan Pancasila
+		Nama Matakuliah : Pendidikan Pancasila (*Pancasila Education*)
 		Deskripsi Matakuliah : Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.
 	2.	Nama MK (Prasyarat) : MKU002
-		Nama Matakuliah : Pendidikan Kewarganegaraan
+		Nama Matakuliah : Pendidikan Kewarganegaraan (*Civils*)
 		Deskripsi Matakuliah : Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.
 	3.	Nama MK (Prasyarat) : MKU003
-		Nama Matakuliah : Agama Katolik
+		Nama Matakuliah : Agama Katolik (*Catholic Religion*)
 		Deskripsi Matakuliah : Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.
 	4.	Nama MK (Prasyarat) : MKU004
-		Nama Matakuliah : Fenomenologi Agama
+		Nama Matakuliah : Fenomenologi Agama (*Phenomenology of Religion*)
 		Deskripsi Matakuliah : Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.
 	5.	Nama MK (Prasyarat) : MKU008
-		Nama Matakuliah : Etika
+		Nama Matakuliah : Etika (*Ethics*)
 		Deskripsi Matakuliah : Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.
 	6.	Nama MK (Prasyarat) : MKU009
-		Nama Matakuliah : Bahasa Indonesia
+		Nama Matakuliah : Bahasa Indonesia (*Indonesian*)
 		Deskripsi Matakuliah : Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.
 	7.	Nama MK (Prasyarat) : MKU010
-		Nama Matakuliah : Bahasa Inggris
+		Nama Matakuliah : Bahasa Inggris (*English*)
 		Deskripsi Matakuliah : Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (vocabularies). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.
 	8.	Nama MK (Prasyarat) : MKU011
-		Nama Matakuliah : Estetika
+		Nama Matakuliah : Estetika (*Esthetics*)
 		Deskripsi Matakuliah : Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat
 	9.	Nama MK (Prasyarat) : MKU012
-		Nama Matakuliah : Logika
+		Nama Matakuliah : Logika (*Logics*)
 		Deskripsi Matakuliah : Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (fallacies) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik
 
 **Matakuliah yang saling menggantikan : Agama Katolik - Fenomenologi Agama**
@@ -855,30 +855,41 @@ Peta dan prasyarat mate kuliah ditunjukkan pada Gambar 1.
 
 	1.	Kode MK : AMS121
 	
-		Nama Mata Kuliah : Kalkulus I (Calculus I)
+		Nama Mata Kuliah : Kalkulus I (*Calculus I*)
 
 		Deskripsi Mata Kuliah : Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.
 		
 	2.	Kode MK : AMS123
 	
-		Nama Mata Kuliah : Pemecahan Masalah Matematika (Mathematical Problem Solving)
+		Nama Mata Kuliah : Pemecahan Masalah Matematika (*Mathematical Problem Solving*)
 
 		Deskripsi Mata Kuliah : Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.
 	3.	Kode MK : AMS151
 	
-		Nama Mata Kuliah : Statistika Elementer (Elementary Statistics)
+		Nama Mata Kuliah : Statistika Elementer (*Elementary Statistics*)
 
 		Deskripsi Mata Kuliah : Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.
 	4.	Kode MK : AMS121, AMS122
 	
-		Nama Mata Kuliah : Kalkulus II (Calculus II)
+		Nama Mata Kuliah : Kalkulus II (*Calculus II*)
 
 		Deskripsi Mata Kuliah : Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.
-	5.	Kode MK : AMS123,124
+	5.	Kode MK : AMS123, AMS124
 	
-		Nama Mata Kuliah : Matematika Diskret (Discrete Mathematics)
+		Nama Mata Kuliah : Matematika Diskret (*Discrete Mathematics*)
 
 		Deskripsi Mata Kuliah : Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.
-			
+		
+	6.	Kode MK : AMS126
+	
+		Nama Mata Kuliah : Aljabar Matriks (*Matrix Algebra*)
+
+		Deskripsi Mata Kuliah : Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.
+		
+	7.	Kode MK : AMS221, AMS122
+	
+		Nama Mata Kuliah : Kalkulus Vektor (*Vector Calculus*)
+
+		Deskripsi Mata Kuliah : Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.
 <hr>
 
