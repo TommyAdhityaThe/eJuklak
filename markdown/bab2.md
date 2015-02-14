@@ -12,7 +12,7 @@ Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, 
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**. 
 
 ###2.1 Matakuliah Pilihan
-Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi:
+Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi: 
 
 1.	Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
 2.	Untuk Fisika, 24 SKS yang dapat diambil dari seluruh prodidi UNPAR.
