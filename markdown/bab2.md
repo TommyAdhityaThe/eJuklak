@@ -529,6 +529,7 @@ Semester 5 (Total 19 SKS)
 			SKS : 6
 
 Semester 6 (Total 18 SKS)
+
 		1.	Kode : AMS322
 	
 			Nama : Analisis Real
@@ -552,6 +553,7 @@ Semester 6 (Total 18 SKS)
 			SKS : 12
 
 Semester 7 (Total 18 SKS)
+
 		1.	Kode : AMS490
 	
 			Nama : Seminar
@@ -581,6 +583,7 @@ Semester 7 (Total 18 SKS)
 	
 			SKS : 9
 Semester 8 (Total 15 SKS)
+
 		1.	Kode : AMS499
 	
 			Nama : Skripsi
@@ -781,7 +784,101 @@ Matematika Terapan
 
 #####Lain - Lain
 
+	1.	Kode : AMS323
 
+		Nama : Geometri
 
+		SKS : 3 
+	2.	Kode : AMS324
+	
+		Nama : Teori Bilangan
+
+		SKS : 3 
+	3.	Kode : AMS344
+
+		Nama : Komputasi Saintifik
+
+		SKS : 3
+	4.	Kode : AMS421
+
+		Nama : Struktur Aljabar
+
+		SKS : 3 
+	5.	Kode : AMS422
+	
+		Nama : Kriptografi
+
+		SKS : 3 
+	6.	Kode : AMS423
+
+		Nama : Teori Graf
+
+		SKS : 3
+	7.	Kode : AMS424
+
+		Nama : Struktur Aljabar Lanjut
+
+		SKS : 3 
+	8.	Kode : AMS425
+	
+		Nama : Analisis Lanjut
+
+		SKS : 3 
+	9.	Kode : AMS480
+
+		Nama : Kapita Selekta Pembelajaran Matematika
+
+		SKS : 3
+	10.	Kode : AMS381
+
+		Nama : Inovasi Pembelajaran Matematika
+
+		SKS : 3 
+	11.	Kode : AMS382
+	
+		Nama : Pembelajaran Matematika Sekolah
+
+		SKS : 3 
+	12.	Kode : AMS481
+
+		Nama : Kerja Praktek
+
+		SKS : 3
+
+Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut. Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
+
+####2.5.3 Peta dan Prasyarat Mata Kuliah
+
+Peta dan prasyarat mate kuliah ditunjukkan pada Gambar 1.
+
+####2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
+
+	1.	Kode MK : AMS121
+	
+		Nama Mata Kuliah : Kalkulus I (Calculus I)
+
+		Deskripsi Mata Kuliah : Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.
+		
+	2.	Kode MK : AMS123
+	
+		Nama Mata Kuliah : Pemecahan Masalah Matematika (Mathematical Problem Solving)
+
+		Deskripsi Mata Kuliah : Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.
+	3.	Kode MK : AMS151
+	
+		Nama Mata Kuliah : Statistika Elementer (Elementary Statistics)
+
+		Deskripsi Mata Kuliah : Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.
+	4.	Kode MK : AMS121, AMS122
+	
+		Nama Mata Kuliah : Kalkulus II (Calculus II)
+
+		Deskripsi Mata Kuliah : Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.
+	5.	Kode MK : AMS123,124
+	
+		Nama Mata Kuliah : Matematika Diskret (Discrete Mathematics)
+
+		Deskripsi Mata Kuliah : Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.
+			
 <hr>
 
