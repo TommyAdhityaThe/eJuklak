@@ -23,8 +23,11 @@ Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:
 tabel
 
   Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian : 
+  
     * 1 jam kuliah
+    
     * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)
+    
     * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, rumah, dsb)
     
 Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
