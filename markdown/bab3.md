@@ -71,8 +71,11 @@ Pelaksanaan UTS dan UAS sesuai dengan jadwal kegiatan akademik UNPAR. Jadwal ked
 
 ####3.3.1 Syarat Mengikuti Ujian
 Syarat untuk mengikuti UTS dan UAS:
+
 1. **Terdaftar** sebagai peserta pada semester terkait, telah cukup mengikuti kegiatan tatap muka matakuliah terkait pada semester tersebut, serta tidak menjalani sanksi pembatalan hak tempuh mengikuti suatu program pada semester tersebut berdasarkan SK Rektor UNPAR.
+
 2. **Telah melunasi** seluruh biaya kuliah semester terkait. Perkecualian **khusus pada masa UTS** diberikan bagi mahasiswa yang mendapat dispensasi penundaan pembayaran kuliah oleh WD-2.
+
 3. **Membawa KTM yang sah** untuk semester terkait, atau surat keterangan pengganti KTM dari Biro Administrasi Akademik dan Kemahasiswaan (BAA) bagi yang kehilangan KTM.
 
 ####3.3.2 Tata Tertib Ujian
@@ -126,7 +129,9 @@ Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
 
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 1.	Untuk kali pertama: nilai matakuliah yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
+
 2.	Untuk kali kedua: seluruh nilai matakuliah pada semester terkait mahasiswa yang bersangkutan ditetapkan menjadi **E** (tidak lulus).
+
 3.	Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
 ####3.3.4 Lain-Lain
