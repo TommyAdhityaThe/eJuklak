@@ -14,7 +14,13 @@ Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa menyelesaik
 
 Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai Bentuk Kegiatan, yang masing-masing memiliki Komponen Kegiatan dan Komponen Evaluasi sebagai berikut :
 
-**--------------------HARUSNYA ADA TABLE-----------------------**
+|     Bentuk Kegiatan     |                       Komponen Kegiatan                      |        Komponen Evaluasi / Angka        |        Komponen Evaluasi / Bobot        |
+|:-----------------------:|:------------------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
+| Perkuliahan             | Pelaksanaan Tugas                                            | Angka Rata-rata Tugas (ART)             | 20% - 40%                               |
+| Perkuliahan             | Tatap Muka                                                   | Angka Ujian Tengah Semester (AUTS)      | 30% - 50%                               |
+| Perkuliahan             | Tatap Muka                                                   | Angka Ujian Akhir Semester (AUAS)       | 30% - 50%                               |
+| Seminar / Studi Mandiri | Penyajian, Diskusi/ Partisipasi, Penyusunan Makalah/ Laporan | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
+| Skripsi                 | Penyusunan dan Penyajian                                     | Diserahkan ke tiap fakultas atau prodi. | Diserahkan ke tiap fakultas atau prodi. |
 
 Berdasarkan pertimbangan akademik, Dekan dapat mengubah Komponen Evaluasi bagi suatu Bentuk Kegiatan seperti tersebut di atas,  sejauh tidak bertentangan dengan peraturan perundang-undangan yang berlaku.
 
