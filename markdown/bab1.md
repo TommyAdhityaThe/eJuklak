@@ -148,11 +148,13 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 		Email: ferryjp@unpar.ac.id. 
 	
 	6.	Iwan Sugiarto, SSi (UNPAR), MSi (ITB):
+	
 		Metoda Matematika, Fungsi Kompleks, Optimasi. 
 
 		Email: iwans@unpar.ac.id. 
 	
 	7.	Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):
+	
 		Proses Stokastik, Statistika Matematika, Kontrol Optimum.
 
 		Email: jdharma@unpar.ac.id. 
@@ -168,6 +170,59 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	10.	Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida. 
 	
 		Email: sylvia@unpar.ac.id
+
+	11.	Marcus Wono Setya Budhi, PhD (Univ. of Illinois – USA):
+	
+		Persamaan Differensial Parsial, Analisis Real, Struktur Aljabar.
+
+		Email: wono@math.itb.ac.id
+	
+	12.	Veronica Sri Moertini, ST (ITB), MT (ITB), Dr. (ITB):
+	
+		Basis Data, Penambangan Data, Projek Sistem Informasi.
+
+		Email: moertini@unpar.ac.id
+
+####Lektor
+	13.	Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):
+	
+		Matematika Diskret, Jaringan Syaraf Tiruan. 
+	
+		Email: cheni@unpar.ac.id
+	
+	14.	Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.
+	
+		Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna
+	
+	15.	Liem Chin, SSi.(UNPAR), MSi.(ITB): 
+	
+		Matematika Diskret, Aljabar Linear, Komputasi Statistika.
+	
+		Email: chin@unpar.ac.id. 
+	
+	16.	Oerip S. Santoso, dr (UI), MSc. (Univ. Wisconsin Madison.USA), Dr.(Univ. Paris VI): 
+	
+		Struktur Diskret, Grafika Komputer, Komputer dan Masyarakat, Projek Perangkat Lunak. 
+	
+		Email: oerip_ss@yahoo.com
+	
+	17.	Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK): Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.
+	
+		Email: philips@UNPAR.ac.id. 
+	
+	18.	Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:
+	
+		Sistem Informarsi, Sistem Pendukung Keputusan.
+	
+		Email: rosad5@unpar.ac.id
+	
+	19.	Farah Kristiani, SSi (UNPAR), MSi (ITB): 
+	
+		Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.
+	
+		Email: farah@unpar.ac.id. 
+
+
 
 
 
