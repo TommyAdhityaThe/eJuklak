@@ -113,10 +113,18 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     Staf Akademik = Rikie Setiawan, S.AB.
     Staf Keuangan & Kepegawaian = Filifo Zebua, Dwina Irlistriarti, Dra.
 
-
 ###1.5. Daftar Dosen FTIS
 
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
+
+####Guru Besar
+	1.	Kode = AMS100
+		
+		Mata Kuliah = Matematika Informatika
+	
+		SKS = 4
+	
+		Prodi yang dilayani = Teknik Informatika
 
 
 | Guru Besar                                                                                                                                                        |
