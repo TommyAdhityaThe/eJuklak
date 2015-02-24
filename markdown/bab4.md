@@ -54,7 +54,7 @@ Evaluasi keberhasilan belajar dilakukan secara berkesinambungan, sejak mahasiswa
 
 Evaluasi keberhasilan belajar tiap semester dilakukan segera setelah mahasiswa menempuh UAS. Evaluasi Keberhasilan Belajar tiap semester ini dinyatakan dalam Indeks Prestasi Semester (IPS) yang mempunyai rentang 0,00 – 4,00 dan dihitung dengan rumus:
 
-**-------------------------------HARUSNYA ADA RUMUS TAPI BELUM DIMASUKKIN---------------------------**
+![](images/rumusips.png)
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah. IPS digunakan untuk menetapkan beban kredit yang dapat ditempuh mahasiswa pada semester berikutnya.
 
@@ -92,13 +92,12 @@ Jika persyaratan di atas tidak terpenuhi, maka mahasiswa yang bersangkutan tidak
 
 IPK dihitung dengan memperhatikan semua mata kuliah yang pernah ditempuh oleh mahasiswa, dan digunakan untuk menetapkan yudisium (sebutan) kelulusan, dengan ketentuan sbb.:
 
-**--------------------TABEL BELUM YAKIN PASTI PADA BARIS 4 NYA, KARENA DIPISAHKAN DENGAN ";"-----------------------**
-
-|     IPK     |                                               Yudisium                                               |
-|:-----------:|:----------------------------------------------------------------------------------------------------:|
-| 2,00 – 2,75 | Memuaskan                                                                                            |
-| 2,76 – 3,50 | Sangat Memuaskan                                                                                     |
-| 3,51 – 4,00 | Dengan Pujian (masa studi terpakai ≤ 9 semester);Sangat Memuaskan (masa studi terpakai > 9semester) |
+|     IPK     |                       Yudisium                      |
+|:-----------:|:---------------------------------------------------:|
+| 2,00 - 2,75 | Memuaskan                                           |
+| 2,75 - 3,50 | Sangat Memuaskan                                    |
+| 3,51 - 4,00 | Dengan Pujian (masa studi terpakai ≤ 9 semester)    |
+| 3,51 - 4,00 | Sangat Memuaskan (masa studi terpakai > 9 semester) |
 
 ###4.3 Kemampuan Bahasa Inggris Mahasiswa UNPAR
 
