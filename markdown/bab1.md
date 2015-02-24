@@ -118,13 +118,57 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
 ####Guru Besar
-	1.	Kode = AMS100
+	1.	Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)
 		
-		Mata Kuliah = Matematika Informatika
+		Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam. 
 	
-		SKS = 4
+		Email: bensupra@unpar.ac.id
+
+####Lektor Kepala
+	2.	Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): 
 	
-		Prodi yang dilayani = Teknik Informatika
+		Teori Peluang, Pengendalian Mutu, Statistika Elementer.
+
+		Email: asukmana@unpar.ac.id. 
+
+	3.	Aloysius Rusli, Dr. (Leeds University, UK): Fisika Polimer, Pengenalan Program Studi Fisika,Etika Profesi, Reologi.
+	
+		Email: arusli@unpar.ac.id
+
+	4.	Benny Yong, SSi. (UNPAR), MSi. (ITB):
+	
+		Pemecahan Masalah Matematika, Teori Bilangan, Pemodelan Matematika. 
+
+		Email: benny_y@unpar.ac.id. 
+	
+	5.	Ferry Jaya Permana, SSi (ITB), MSi (ITB), PhD (TU Delft -  Belanda)
+	
+		Teori Risiko, Teori Suku Bunga, Kalkulus Keuangan.
+
+		Email: ferryjp@unpar.ac.id. 
+	
+	6.	Iwan Sugiarto, SSi (UNPAR), MSi (ITB):
+		Metoda Matematika, Fungsi Kompleks, Optimasi. 
+
+		Email: iwans@unpar.ac.id. 
+	
+	7.	Julius Dharma Lesmono, SSi (ITB), SE (UNPAR), MT (ITB), MSc (Twente University - Belanda), Dr. (University of Queenslands - Australia):
+		Proses Stokastik, Statistika Matematika, Kontrol Optimum.
+
+		Email: jdharma@unpar.ac.id. 
+	
+	8.	Nico Saputro, ST (ITB), MT (ITB), Studi S-3 (Univ. of Illinois – USA).
+	
+		Email: nico@unpar.ac.id
+	
+	9.	Paulus Cahyono Tjiang, Drs. (ITB), PhD (Australian National University): Listrik Magnet, Elektrodinamika, Mekanika Kuantum Relativistik, Teori Medan Kuantum. 
+	
+		Email: pctjiang@unpar.ac.id. 
+	
+	10.	Sylvia Hastuti Sutanto, SSi (ITB), PhD (Australian National University): Fisika Matematika 3 & 4, Mekanika Hamiltonian, Dinamika Fluida. 
+	
+		Email: sylvia@unpar.ac.id
+
 
 
 | Guru Besar                                                                                                                                                        |
