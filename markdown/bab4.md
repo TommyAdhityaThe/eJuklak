@@ -80,7 +80,7 @@ Evaluasi Keberhasilan Belajar Tahap Akhir dilakukan pada akhir masa studi maksim
 
 Evaluasi Keberhasilan Belajar Tahap Akhir dinyatakan dalam Indeks Prestasi Kumulatif (IPK), dengan rentang 0,00 – 4,00yang dihitung dengan rumus
 
-**-------------------------------HARUSNYA ADA RUMUS TAPI BELUM DIMASUKKIN---------------------------**
+![](images/rumusipk.png)
 
 dengan (sks × bobot NA)i = perkalian jumlah sks dan bobot NA mata kuliah ke-i, n = jumlah mata kuliah.Mahasiswa dinyatakan lulus dari prodi terkait di lingkungan UNPAR setelah memenuhi persyaratan berikut :
 
