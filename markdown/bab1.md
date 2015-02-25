@@ -1,7 +1,6 @@
-#BAB 1
-##Pendahuluan
-<hr>
-###1.1 Sejarah Fakultas Teknologi Informasi dan Sains
+#BAB 1 Pendahuluan
+
+##1.1 Sejarah Fakultas Teknologi Informasi dan Sains
 
 Fakultas Teknologi Informasi dan Sains (FTIS) Universitas Katolik Parahyangan (UNPAR) berawal dari Fakultas Matematika dan Ilmu Pengetahuan Alam (FMIPA). Pendiridan FMIPA telah dikukuhkan dengan terbitnya Surat Keputusan Menteri Pendidikan dan Kebudayaan Republik Indonesia nomor 34/D/O/1993 tanggal 20 April 1993, yang langsung menetapkan status akreditasi "terdaftar" bagi dua program studi FMIPA, yaitu program studi Matematika dan Fisika. Dengan terbitnya Keputusan DIrektur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan Republik Indonesia nomor: 420/DIKTI/Kep/1996 tanggal 8 Agustus 1996, ditetapkan status "terdaftar" pula untuk program studi Ilmu Komputer.
 
