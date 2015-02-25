@@ -14,7 +14,7 @@ Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari B
 	
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
-###1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
+##1.2 Visi, Misi, Tujuan, dan Sasaran FTIS
 
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 
@@ -29,7 +29,7 @@ Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 
 sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti Berdasarkan Ketuhanan Menuntut Ilmu untuk Dibaktikan kepada Masyarakat. Melalui visi dan misi UNPAR, dirumuskanlah visi dan misi beserta tujuan FTIS UNPAR.
 
-####1.2.1 Visi FTIS
+###1.2.1 Visi FTIS
 
 Visi FTIS 2020 adalah sebagai berikut:
 
@@ -41,7 +41,7 @@ Menjelang tahun 2020, FTIS UNPAR akan lebih memberikan perhatian kepada potensi 
 
 Sebagai Universitas Katolik, UNPAR menaruh perhatian utama pada peningkatan martabat manusia. Kegiatan pendidikan yang ditujukan untuk menyiapkan generasi muda sebagai calon pemimpin masa depan dimaskudkan agara mereka berkembang menjadi manusia yang utuh yang memiliki keseimbangan antara rasio, rasa, raga, dan rukun. Untuk itu, proses pendidikan yang berlangsung di UNPAR dan di dalam FTIS harus mampu memberikan pengalaman belajar kepada para mahasiswa, bukan hanya dalam pengembangan rasio yang dilaksanakan berdasarkan kurikulum, melainkan juga pengembangan rasa, raga, dan rukun melalui interaksi dan pergaulan hidup sehari-hari di lingkungan kampus UNPAR. Untuk mencapai keunggulan di dalam hal di atas, FTIS UNPAR harus senantiasa mengembangkan potensi lokal ke tataran internasional. Oleh karena itu, pembangunan suasana akademik yang kondusif merupakan bagian yang sangat penting dalam pembentukan manusia yang bermartabat dan pengembangan potensi lokal tersebut.
 
-####1.2.2 Misi FTIS
+###1.2.2 Misi FTIS
 Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 
 1. Menyelenggarakan program akademik jenjang sarjana dengan memperhatikan visi FTIS untuk menghasilkan lulusan yang:
@@ -50,7 +50,7 @@ Misi Fakultas Teknologi Informasi dan Sains (FTIS) adalah:
 2. Menghasilkan penelitian di bidang teknologi informasi dan sains yang dapat meningkatkan martabat manusia secara langsung ataupun tidak langsung, serta memanfaatkan hasil penelitian untuk pengembangan proses pembelajaran dan pengabdian kepada masyarakat.
 3. Menjalin kerja sama dengan berbagai pihak baik internal ataupun eksternal untuk meningkatkan keterkaitan proses pembelajaran, penelitian dan pengabdian kepada masyarakat.
 
-####1.2.3 Tujuan FTIS
+###1.2.3 Tujuan FTIS
 Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut:
 
 1.	Berbudi pekerti luhur, disiplin, jujur, cinta pada sesama dan lingkungan serta berjiwa religius dalam rangka mengamalkan Pancasila dan Undang-Undang Dasar 1945.
@@ -60,7 +60,7 @@ Tujuan FTIS adalah menghasilkan lulusan yang memiliki kompetensi sebagai berikut
 
 Selain itu FTIS juga memberikan perhatian khusus bagi pengembangan dosen dan tenaga kependidikan agar mampu memberikan pelayanan prima di bidang akademik dan non akademik serta mengembangkan sarana dan prasarana yang memadai yang memenuhi standar nasional maupun internasional.
 
-####1.2.4 Sasaran FTIS
+###1.2.4 Sasaran FTIS
 
 Sasaran FTIS adalah sebagai berikut :
 
@@ -69,7 +69,7 @@ Sasaran FTIS adalah sebagai berikut :
 3. Menghasilkan lulusan yang unggul dan berdaya saing yang tinggi.
 4. Tercapainya kerja sama berkelanjutan dengan berbagai lembaga akademik dan non akademik.
 
-###1.3 Keberhasilan FTIS
+##1.3 Keberhasilan FTIS
 
 Dalam kurun waktu 21 tahun sejak didirikan, FTIS telah menghasilkan 1.097 lulusan sampai dengan 26 Februari 2014. Sebagian dari lulusan tersebut, terutama dari prodi Teknik Informatika, membawa pula sertifikasi internasional di bidang sistem teknologi jaringan melalui program kerjasama Cisco-UNPAR. Sebagian dari mereka melanjutkan studi di perguruan tinggi dalam dan luar negeri dan beberapa berhasil mendapatkan beasiswa penuh selama studi melalui AUSAID, University of Twente, Ditjen Dikti, DEPKOMINFO, BPPS dan Asosiasi Perguruan Tinggi Katolik (APTIK). Sebagian dari mereka berkarya di bidang perbankan, industri, BUMN, dan lain-lain. 
 
@@ -77,7 +77,7 @@ Saat ini FTIS dikelola oleh 41 dosen, 13 di antaranya telah bergelar Doktor atau
 
 Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemrograman tingkat internasional yang diselenggarakan oleh organisasi ACM (*Association of Computing Machinery*), kompetisi jaringan komputer CISCO NetRiders, mengikuti kompetisi matematika tingkat universitas, lomba karya tulis ilmiah dan sebagainya. 
 
-###1.4 Pengelola Fakultas
+##1.4 Pengelola Fakultas
 
     Senat FTIS
     Ketua = Agus Sukmana, SSi, MSc 
@@ -112,18 +112,18 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
     Staf Akademik = Rikie Setiawan, S.AB.
     Staf Keuangan & Kepegawaian = Filifo Zebua, Dwina Irlistriarti, Dra.
 
-###1.5. Daftar Dosen FTIS
+##1.5. Daftar Dosen FTIS
 
 Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
 
-####Guru Besar
+###Guru Besar
 	1.	Prof B. Suprapto Brotosiswojo, Dr. (Purdue University,USA)
 		
 		Fisika, Komputasi, Komputasi Kuantum, Pemodelan Matematika Gejala Alam. 
 	
 		Email: bensupra@unpar.ac.id
 
-####Lektor Kepala
+###Lektor Kepala
 	2.	Agus Sukmana, Drs. (ITB), MSc (Twente Univ. – Belanda), studi S-3 (UPI): 
 	
 		Teori Peluang, Pengendalian Mutu, Statistika Elementer.
@@ -188,7 +188,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 		Email: moertini@unpar.ac.id
 
-####Lektor
+###Lektor
 	13.	Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):
 	
 		Matematika Diskret, Jaringan Syaraf Tiruan. 
@@ -229,7 +229,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	
 		Email: farah@unpar.ac.id. 
 
-####Asisten Ahli
+###Asisten Ahli
 	19.	Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB. 
 	
 		Email: elisatih@unpar.ac.id
@@ -288,7 +288,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 		Email: maria.anestasia@unpar.ac.id
 	
-####Golongan III
+###Golongan III
 	29.	Chandra Wijaya, SKom (UNPAR), MT (ITB): 
 	
 		Jaringan Komputer, Sistem Digital
