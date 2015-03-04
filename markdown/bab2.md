@@ -1,6 +1,5 @@
-#BAB 2
-##PENYELENGGARAAN MATA KULIAH
-<hr>
+#BAB 2 PENYELENGGARAAN MATA KULIAH
+
 Secara umum matakuliah yang diselenggarakan oleh program studi dapat dikelompokkan kedalam dua jenis yaitu **matakuliah wajib** dan **matakuliah pilihan**. Matakuliah wajib merupakan matakuliah yang sifatnya wajib/harus ditempuh oleh setiap mahasiswa. Sebagian dari matakuliah wajib tersebut termasuk kedalam kelompok **matakuliah umum** (MKU), yaitu matakuliah yang terkait dengan pengembangan kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora. 
 
 Matakuliah pilihan bertujuan untuk menyiapkan mahasiswa untuk memasuki dunia kerja dan memperluas wawasan mahasiswa terhadap bidang ilmu lain sehingga memungkinkan melakukan tugas interdisiplin. Matakuliah pilihan dapat diambil dari matakuliah pilihan yang diselenggarakan oleh program studi (prodi) yang bersangkutan, atau matakuliah (baik wajib maupun pilihan) yang diselenggarakan oleh prodi lain di lingkungan UNPAR. Mahasiswa mengambil matakuliah pilihan berdasarkan persetujuan dari dosen wali.
@@ -11,7 +10,7 @@ Di samping matakuliah-matakuliah yang ditujukan untuk program studinya sendiri, 
 
 Selain tatap muka di kelas, suatu matakuliah dapat mengandung kegiatan lain untuk mendukung perkuliahan, yaitu asistensi, responsi, atau praktikum yang biasa disingkat dengan **APR**. 
 
-###2.1 Matakuliah Pilihan
+##2.1 Matakuliah Pilihan
 Mahasiswa harus menempuh sejumlah SKS tertentu matakuliah pilihan, dengan sejumlah SKS di antaranya mata kuliah yang diselenggarakan prodinya. Jumlah SKS matakuliah ini berbeda-beda untuk setiap prodi: 
 
 1.	Untuk Matematika, 48 SKS dengan minimal lulus 15 SKS berasal dari salah satu bidang kajian (Rekayasa Keuangan atau Matematika Industri).
@@ -23,17 +22,17 @@ Untuk matakuliah pilihan, terdapat beberapa ketentuan sebagai berikut:
 1.	Bila matakuliah tersebut memiliki prasyarat, mahasiswa dari prodi lain tidak perlu memenuhi prasyarat tersebut.
 2.	Matakuliah pilihan dan matakuliah di prodi lain yang ekivalen dengannya, hanya dapat diperhitungkan salah satunya.
 
-###2.2 Matakuliah Prasyarat
+##2.2 Matakuliah Prasyarat
 Matakuliah prasyarat adalah matakuliah yang harus ditempuh seorang mahasiswa sebelum ia dapat menempuh suatu matakuliah tertentu. Berkaitan dengan hal ini, terdapat tiga kategori:
 
 1.	**Prasyarat tempuh**, artinya matakuliah tersebut telah terdaftar dalam rencana studi mahasiswa yang bersangkutan dan bernilai akhir A, B, C, D, atau E, walaupun tentunya kelulusan akan sangat menunjang penempuhan matakuliah berikutnya.
 2.	**Prasyarat lulus**, artinya mahasiswa harus lulus matakuliah prasyarat tersebut terlebih dahulu. Pada umumnya syarat kelulusan adalah nilai akhir minimum D, meskipun ada juga yang lebih tinggi. Silahkan melihat silabus matakuliah ybs. untuk keterangan lebih lanjut.
 3.	Mahasiswa di luar prodi penyelenggara matakuliah tidak wajib memenuhi prasyarat ini.
 
-###2.3 Matakuliah Layanan
+##2.3 Matakuliah Layanan
 Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS untuk memenuhi kebutuhan matakuliah pada prodi lain di lingkungan UNPAR. 
 
-####2.3.1 Kuliah Layanan Program Studi Matematika
+###2.3.1 Kuliah Layanan Program Studi Matematika
 
 	1.		Kode = AMS100
 		
@@ -147,7 +146,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Teknik Sipil
 	
-####2.3.2 Kuliah Layanan Program Studi Fisika
+###2.3.2 Kuliah Layanan Program Studi Fisika
 
 	1.		Kode = APS181
 		
@@ -229,7 +228,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 		
 			Prodi yang dilayani = Filsafat
 
-####2.3.3 Kuliah Layanan Program Studi Teknik Informatika
+###2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
 	1.		Kode = AKS144
 		
@@ -239,11 +238,11 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 	
 			Prodi yang dilayani = Matematika
 
-###2.4 Matakuliah Umum
+##2.4 Matakuliah Umum
 
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
-####2.4.1 Susunan Matakuliah Umum
+###2.4.1 Susunan Matakuliah Umum
 	1.	Kode : MKU001
 		Mata Kuliah : Pendidikan Pancasila
 		SKS : 2
@@ -272,7 +271,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 		Mata Kuliah : Logika
 		SKS : 2
 
-####2.4.2 Uraian Singkat Matakuliah Umum
+###2.4.2 Uraian Singkat Matakuliah Umum
 	1.	Nama MK (Prasyarat) : MKU001
 		Nama Matakuliah : Pendidikan Pancasila (*Pancasila Education*)
 		Deskripsi Matakuliah : Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermenutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (character building) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.
@@ -303,8 +302,8 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 **Matakuliah yang saling menggantikan : Agama Katolik - Fenomenologi Agama**
 
-###2.5 Kurikulum Program Studi Matematika
-####2.5.1 Susunan Mata Kuliah
+##2.5 Kurikulum Program Studi Matematika
+###2.5.1 Susunan Mata Kuliah
 Semester 1 (Total 19 SKS)
 
 		1.	Kode : AMS121
@@ -599,11 +598,11 @@ Semester 8 (Total 15 SKS)
 	
 			SKS : 9
 
-####2.5.2 Mata Kuliah Pilihan Program Studi Matematika
+###2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
 Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Rekayasa Keuangan, kelompok bidang kajian Matematika Industri, dan kelompok di luar kedua bidang kajian. Selain itu, ada satu mata kuliahPilihan Proyek Pemodelan yang dirancang sesuai dengan kebutuhan tugas akhir.  
 
-#####Kelompok Bidang Kajian : Rekayasa Keuangan
+**Kelompok Bidang Kajian : Rekayasa Keuangan**
 
 Matematika Asuransi
 
@@ -666,7 +665,7 @@ Matematika Keuangan
 
 		SKS : 3
 
-#####Kelompok Bidang Kajian : Rekayasa Keuangan
+**Kelompok Bidang Kajian : Rekayasa Keuangan**
 
 Optimasi dan Teori Kontrol
 
@@ -782,7 +781,7 @@ Matematika Terapan
 
 		SKS : 3
 
-#####Lain - Lain
+**Lain - Lain**
 
 	1.	Kode : AMS323
 
@@ -847,11 +846,11 @@ Matematika Terapan
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut. Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
-####2.5.3 Peta dan Prasyarat Mata Kuliah
+###2.5.3 Peta dan Prasyarat Mata Kuliah
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
-####2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
+###2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
 	1.	Kode MK : AMS121
 	
@@ -988,8 +987,8 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 		Deskripsi Mata Kuliah : Studi pustaka, penulisan dan penyajian lisan skripsi.
 		
-###2.6 Kurikulum Program Studi Fisika
-####2.5.1 Susunan Mata Kuliah
+##2.6 Kurikulum Program Studi Fisika
+###2.5.1 Susunan Mata Kuliah
 Semester 1 (Total 19 SKS)
 
 		1.	Kode : APS101
@@ -1365,9 +1364,9 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 		Kelompok Mata Kuliah : Kuliah Dasar, Keterampilan Umum, Lain-Lain
 
 
-####2.6.2 Mata Kuliah Pilihan Program Studi Fisika
+###2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
-#####Lain-lain
+**Lain-lain**
 
 	1.	Kode : APS301
 
@@ -1385,7 +1384,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 		SKS : 3
 
-#####Kelompok Fisika Teoretik
+**Kelompok Fisika Teoretik**
 
 	1.	Kode : APS311
 
@@ -1438,7 +1437,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 		SKS : 3
 
-#####Kelompok Fisika Komputasi, Elektronika dan Instrumentasi
+**Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 
 	1.	Kode : APS331
 
@@ -1466,7 +1465,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 		SKS : 3 
 		
-#####Kelompok Biofisika
+**Kelompok Biofisika**
 
 	1.	Kode : APS350
 
@@ -1494,7 +1493,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 		SKS : 3 
 		
-#####Kelompok Fisika Material dan Optika
+**Kelompok Fisika Material dan Optika**
 
 	1.	Kode : APS343
 
@@ -1547,7 +1546,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 		SKS : -
 		
-#####Kelompok Fisika Bumi
+**Kelompok Fisika Bumi**
 
 	1.	Kode : APS361
 
@@ -1580,7 +1579,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 		SKS : -
 		
-#####Kelompok Astrofisika
+**Kelompok Astrofisika**
 
 	1.	Kode : APS371
 
@@ -1616,11 +1615,11 @@ Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah p
 
 Pada dasarnya semua perkuliahan di jurusan Fisika menerapkan beberapa dari seluruh pembelajaran soft-skills berikut: kemampuan membangun konsep, memecahkan masalah, berkomunikasi, analitis dan berpikir logis, melakukan pengamatan langsung maupun tidak langsung, melakukan konsistensi logis (*logical consistency*), melakukan taksiran (*sense of scale*), menentukan prioritas, komputasi, bekerjasama, *entrepreneurship*, interpersonal, beradaptasi, mandiri, memimpin,  berorganisasi, kejujuran, terbuka terhadap sesuatu yang baru (*open minded*), percaya diri, kreatif, etos kerja yang baik, berinisiatif, teliti, ramah, sopan dan beretika, bijaksana, dan tekun.
 
-####2.6.3 Peta dan Prasyarat Mata Kuliah
+###2.6.3 Peta dan Prasyarat Mata Kuliah
 
 Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
-####2.6.4 Deskripsi Singkat Mata Kuliah Prodi Fisika
+###2.6.4 Deskripsi Singkat Mata Kuliah Prodi Fisika
 
 	1.	Kode MK : AIF111
 	
