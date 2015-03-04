@@ -174,6 +174,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Email: moertini@unpar.ac.id  
 
 **Lektor**
+
 *	Cecilia Esti Nugraheni, ST (ITB), MT (ITB), Dr. rer. Nat. (Institut fuer Informatik, Ludwig-Maximilians Universitaet – Germany):  
 	Matematika Diskret, Jaringan Syaraf Tiruan.  
 	Email: cheni@unpar.ac.id  
@@ -243,6 +244,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Email: maria.anestasia@unpar.ac.id  
 	
 **Golongan III**
+
 *	Chandra Wijaya, SKom (UNPAR), MT (ITB):  
 	Jaringan Komputer, Sistem Digital  
 	Email: chandraw@unpar.ac.id  
