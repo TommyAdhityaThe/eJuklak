@@ -459,243 +459,193 @@ Mata kuliah pilihandibagi kedalam tiga kelompok, yaitu kelompok bidang kajian Re
 
 Matematika Asuransi
 
-	1.	Kode : AMS330
+*	Kode : AMS330  
+	Nama : Pengantar Matematika Asuransi  
+	SKS : 3  
 
-		Nama : Pengantar Matematika Asuransi
+*	Kode : AMS331  
+	Nama : Matematika Asuransi  
+	SKS : 3  
 
-		SKS : 3 
-	2.	Kode : AMS331
-	
-		Nama : Matematika Asuransi
+*	Kode : AMS431  
+	Nama : Metoda Statistika Asuransi  
+	SKS : 3  
 
-		SKS : 3 
-	3.	Kode : AMS431
+*	Kode : AMS432  
+	Nama : Teori Risiko  
+	SKS : 3  
 
-		Nama : Metoda Statistika Asuransi
-
-		SKS : 3
-	4.	Kode : AMS432
-
-		Nama : Teori Risiko
-
-		SKS : 3
-	5.	Kode : AMS430
-
-		Nama : Kapita Selekta Matematika Asuransi
-
-		SKS : 3
+*	Kode : AMS430  
+	Nama : Kapita Selekta Matematika Asuransi  
+	SKS : 3  
 
 Matematika Keuangan
 
-	1.	Kode : AMS341
+*	Kode : AMS341  
+	Nama : Komputasi Keuangan  
+	SKS : 3  
 
-		Nama : Komputasi Keuangan
+*	Kode : AMS342  
+	Nama : Matematika Keuangan  
+	SKS : 3   
 
-		SKS : 3 
-	2.	Kode : AMS342
-	
-		Nama : Matematika Keuangan
+*	Kode : AMS343  
+	Nama : Analisis Deret Waktu  
+	SKS : 3  
 
-		SKS : 3 
-	3.	Kode : AMS343
+*	Kode : AMS441  
+	Nama : Teori Manajemen Investasi  
+	SKS : 3
 
-		Nama : Analisis Deret Waktu
+*	Kode : AMS442  
+	Nama : Ekonometrika Keuangan  
+	SKS : 3  
 
-		SKS : 3
-	4.	Kode : AMS441
-
-		Nama : Teori Manajemen Investasi
-
-		SKS : 3
-	5.	Kode : AMS442
-
-		Nama : Ekonometrika Keuangan
-
-		SKS : 3
-	6.	Kode : AMS440
-		
-		Nama : Kapita Selekta Matematika Keuangan
-
-		SKS : 3
+*	Kode : AMS440  
+	Nama : Kapita Selekta Matematika Keuangan  
+	SKS : 3  
 
 **Kelompok Bidang Kajian : Rekayasa Keuangan**
 
 Optimasi dan Teori Kontrol
 
-	1.	Kode : AMS361
+*	Kode : AMS361  
+	Nama : Pemrograman NonLinear  
+	SKS : 3   
 
-		Nama : Pemrograman NonLinear
+*	Kode : AMS461  
+	Nama : Kontrol Optimum  
+	SKS : 3  
 
-		SKS : 3 
-	2.	Kode : AMS461
-	
-		Nama : Kontrol Optimum
-
-		SKS : 3 
-	3.	Kode : AMS462
-
-		Nama : Kontrol Linear
-
-		SKS : 3
+*	Kode : AMS462  
+	Nama : Kontrol Linear  
+	SKS : 3  
 
 Statistika & Penelitian Operasional
 
-	1.	Kode : AMS352
+*	Kode : AMS352  
+	Nama : Pemrograman Stokastik  
+	SKS : 3  
 
-		Nama : Pemrograman Stokastik
+*	Kode : AMS353  
+	Nama : Pengendalian Mutu  
+	SKS : 3  
 
-		SKS : 3 
-	2.	Kode : AMS353
-	
-		Nama : Pengendalian Mutu
+*	Kode : AMS354  
+	Nama : Model Statistika  
+	SKS : 3  
 
-		SKS : 3 
-	3.	Kode : AMS354
+*	Kode : AMS451  
+	Nama : Teori Permainan  
+	SKS : 3  
 
-		Nama : Model Statistika
+*	Kode : AMS452  
+	Nama : Proyek Pemodelan  
+	SKS : 3  
 
-		SKS : 3
-	4.	Kode : AMS451
+*	Kode : AMS453  
+	Nama : Statistika Multivariant  
+	SKS : 3  
 
-		Nama : Teori Permainan
+*	Kode : AMS454  
+	Nama : Statistika Non Parameter  
+	SKS : 3  
 
-		SKS : 3
-	5.	Kode : AMS452
+*	Kode : AMS455  
+	Nama : Perancangan Percobaan  
+	SKS : 3
 
-		Nama : Proyek Pemodelan
+*	Kode : AMS456  
+	Nama : Teori Antrian  
+	SKS : 3  
 
-		SKS : 3
-	6.	Kode : AMS453
+*	Kode : AMS457  
+	Nama : Keandalan  
+	SKS : 3  
 
-		Nama : Statistika Multivariant
+*	Kode : AMS350  
+	Nama : Kapita Selekta Statistika  
+	SKS : 3  
 
-		SKS : 3 
-	7.	Kode : AMS454
-	
-		Nama : Statistika Non Parameter
+*	Kode : AMS450  
+	Nama : Kapita Selekta Penelititan Operasional  
+	SKS : 3  
 
-		SKS : 3 
-	8.	Kode : AMS455
-
-		Nama : Perancangan Percobaan
-
-		SKS : 3
-	9.	Kode : AMS456
-
-		Nama : Teori Antrian
-
-		SKS : 3
-	10.	Kode : AMS457
-
-		Nama : Keandalan
-
-		SKS : 3
-	11.	Kode : AMS350
-
-		Nama : Kapita Selekta Statistika
-
-		SKS : 3 
-	12.	Kode : AMS450
-	
-		Nama : Kapita Selekta Penelititan Operasional
-
-		SKS : 3
-		
 Matematika Terapan
 
-	1.	Kode : AMS471
+*	Kode : AMS471  
+	Nama : Sistem Dinamik  
+	SKS : 3  
 
-		Nama : Sistem Dinamik
+*	Kode : AMS472  
+	Nama : Matematika Biologi  
+	SKS : 3  
 
-		SKS : 3 
-	2.	Kode : AMS472
-	
-		Nama : Matematika Biologi
+*	Kode : AMS371  
+	Nama : Persamaan Diferensial Parsial  
+	SKS : 3  
 
-		SKS : 3 
-	3.	Kode : AMS371
+*	Kode : AMS372  
+	Nama : Metoda Matematika Lanjut  
+	SKS : 3  
 
-		Nama : Persamaan Diferensial Parsial
+*	Kode : AMS374  
+	Nama : Analisis Numerik  
+	SKS : 3  
 
-		SKS : 3
-	4.	Kode : AMS372
-
-		Nama : Metoda Matematika Lanjut
-
-		SKS : 3
-	5.	Kode : AMS374
-
-		Nama : Analisis Numerik
-
-		SKS : 3
-	6.	Kode : AMS470
-
-		Nama : Kapita Selekta Matematika Terapan
-
-		SKS : 3
+*	Kode : AMS470  
+	Nama : Kapita Selekta Matematika Terapan  
+	SKS : 3  
 
 **Lain - Lain**
 
-	1.	Kode : AMS323
+*	Kode : AMS323  
+	Nama : Geometri  
+	SKS : 3  
 
-		Nama : Geometri
+*	Kode : AMS324  
+	Nama : Teori Bilangan  
+	SKS : 3  
 
-		SKS : 3 
-	2.	Kode : AMS324
-	
-		Nama : Teori Bilangan
+*	Kode : AMS344  
+	Nama : Komputasi Saintifik  
+	SKS : 3  
 
-		SKS : 3 
-	3.	Kode : AMS344
+*	Kode : AMS421  
+	Nama : Struktur Aljabar  
+	SKS : 3  
 
-		Nama : Komputasi Saintifik
+*	Kode : AMS422  
+	Nama : Kriptografi  
+	SKS : 3  
 
-		SKS : 3
-	4.	Kode : AMS421
+*	Kode : AMS423  
+	Nama : Teori Graf  
+	SKS : 3  
 
-		Nama : Struktur Aljabar
+*	Kode : AMS424  
+	Nama : Struktur Aljabar Lanjut  
+	SKS : 3  
 
-		SKS : 3 
-	5.	Kode : AMS422
-	
-		Nama : Kriptografi
+*	Kode : AMS425  
+	Nama : Analisis Lanjut  
+	SKS : 3  
 
-		SKS : 3 
-	6.	Kode : AMS423
+*	Kode : AMS480  
+	Nama : Kapita Selekta Pembelajaran Matematika  
+	SKS : 3  
 
-		Nama : Teori Graf
+*	Kode : AMS381  
+	Nama : Inovasi Pembelajaran Matematika  
+	SKS : 3  
 
-		SKS : 3
-	7.	Kode : AMS424
+*	Kode : AMS382  
+	Nama : Pembelajaran Matematika Sekolah  
+	SKS : 3  
 
-		Nama : Struktur Aljabar Lanjut
-
-		SKS : 3 
-	8.	Kode : AMS425
-	
-		Nama : Analisis Lanjut
-
-		SKS : 3 
-	9.	Kode : AMS480
-
-		Nama : Kapita Selekta Pembelajaran Matematika
-
-		SKS : 3
-	10.	Kode : AMS381
-
-		Nama : Inovasi Pembelajaran Matematika
-
-		SKS : 3 
-	11.	Kode : AMS382
-	
-		Nama : Pembelajaran Matematika Sekolah
-
-		SKS : 3 
-	12.	Kode : AMS481
-
-		Nama : Kerja Praktek
-
-		SKS : 3
+*	Kode : AMS481  
+	Nama : Kerja Praktek  
+	SKS : 3  
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut. Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
@@ -705,141 +655,98 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 ###2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika
 
-	1.	Kode MK : AMS121
-	
-		Nama Mata Kuliah : Kalkulus I (*Calculus I*)
+*	Kode MK : AMS121  
+	Nama Mata Kuliah : Kalkulus I (*Calculus I*)  
+	Deskripsi Mata Kuliah : Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.  
 
-		Deskripsi Mata Kuliah : Fungsi, limit dan kekontinuan fungsi, turunan dan penggunaannya, dan konsep dasar dari integral.
-		
-	2.	Kode MK : AMS123
-	
-		Nama Mata Kuliah : Pemecahan Masalah Matematika (*Mathematical Problem Solving*)
+*	Kode MK : AMS123  
+	Nama Mata Kuliah : Pemecahan Masalah Matematika (*Mathematical Problem Solving*)  
+	Deskripsi Mata Kuliah : Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.  
 
-		Deskripsi Mata Kuliah : Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.
-	3.	Kode MK : AMS151
-	
-		Nama Mata Kuliah : Statistika Elementer (*Elementary Statistics*)
+*	Kode MK : AMS151  
+	Nama Mata Kuliah : Statistika Elementer (*Elementary Statistics*)  
+	Deskripsi Mata Kuliah : Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.  
 
-		Deskripsi Mata Kuliah : Statistik deskriptif, peluang, distribusi peluang diskret dan kontinu, distribusi sampling, penaksiran parameter, uji hipotesis, korelasi dan regresi, khi kuadrat, analisis variansi,  SPSS, Minitab.
-	4.	Kode MK : AMS121 (prasyarat AMS122)
-	
-		Nama Mata Kuliah : Kalkulus II (*Calculus II*)
+*	Kode MK : AMS121 (prasyarat AMS122)  
+	Nama Mata Kuliah : Kalkulus II (*Calculus II*)  
+	Deskripsi Mata Kuliah : Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.  
 
-		Deskripsi Mata Kuliah : Fungsi transenden, teknik pengintegralan dan penggunaannya, persamaan diferensial dan deret tak hingga.
-	5.	Kode MK : AMS123 (prasyarat AMS124)
-	
-		Nama Mata Kuliah : Matematika Diskret (*Discrete Mathematics*)
+*	Kode MK : AMS123 (prasyarat AMS124)  
+	Nama Mata Kuliah : Matematika Diskret (*Discrete Mathematics*)  
+	Deskripsi Mata Kuliah : Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.  
 
-		Deskripsi Mata Kuliah : Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.
-		
-	6.	Kode MK : AMS126
-	
-		Nama Mata Kuliah : Aljabar Matriks (*Matrix Algebra*)
+*	Kode MK : AMS126  
+	Nama Mata Kuliah : Aljabar Matriks (*Matrix Algebra*)  
+	Deskripsi Mata Kuliah : Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.  
 
-		Deskripsi Mata Kuliah : Sistem persamaan linear dan matriks, determinan, ruang vektor real, ruang hasil kali dalam, transformasi linear dan matriks representasi, nilai dan vektor eigen.
-		
-	7.	Kode MK : AMS221 (prasyarat AMS122)
-	
-		Nama Mata Kuliah : Kalkulus Vektor (*Vector Calculus*)
+*	Kode MK : AMS221 (prasyarat AMS122)  
+	Nama Mata Kuliah : Kalkulus Vektor (*Vector Calculus*)  
+	Deskripsi Mata Kuliah : Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.  
 
-		Deskripsi Mata Kuliah : Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.
-		
-	8.	Kode MK : AMS231 (prasyarat AMS122)
-	
-		Nama Mata Kuliah : Teori Suku Bunga (*Theory of Interest*)
+*	Kode MK : AMS231 (prasyarat AMS122)  
+	Nama Mata Kuliah : Teori Suku Bunga (*Theory of Interest*)  
+	Deskripsi Mata Kuliah : Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.  
 
-		Deskripsi Mata Kuliah : Bunga tunggal dan bunga majemuk, diskonto, anuitas elementer dan lanjut, amortisasi dan pengakumulasian dana.
-		
-	9.	Kode MK : AMS251 (prasyarat AMS122)
-	
-		Nama Mata Kuliah : Teori Peluang (*Probability Theory*)
+*	Kode MK : AMS251 (prasyarat AMS122)  
+	Nama Mata Kuliah : Teori Peluang (*Probability Theory*)  
+	Deskripsi Mata Kuliah : Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.  
 
-		Deskripsi Mata Kuliah : Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.
-		
-	10.	Kode MK : AMS253 (prasyarat APS181, AMS151)
-	
-		Nama Mata Kuliah : Komputasi Statistika (*Statistical Computation*)
+*	Kode MK : AMS253 (prasyarat APS181, AMS151) 
+	Nama Mata Kuliah : Komputasi Statistika (*Statistical Computation*) 
+	Deskripsi Mata Kuliah : Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.  
 
-		Deskripsi Mata Kuliah : Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.
-		
-	11.	Kode MK : AMS271 (prasyarat AMS126)
-	
-		Nama Mata Kuliah : Metode Matematika (*Mathematical Methods*)
+*	Kode MK : AMS271 (prasyarat AMS126)  
+	Nama Mata Kuliah : Metode Matematika (*Mathematical Methods*)  
+	Deskripsi Mata Kuliah : Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan *Discrete Fourier Transform*.  
 
-		Deskripsi Mata Kuliah : Persamaan Bessel dan Legendre, aproksimasi fungsi, analisis Fourier, transformasi Laplace, pengantar sistem diskrit, dan *Discrete Fourier Transform*.
-		
-	12.	Kode MK : AMS222 (prasyarat AMS126)
+*	Kode MK : AMS222 (prasyarat AMS126)  
+	Nama Mata Kuliah : Aljabar Linear (*Linear Algebra*)  
+	Deskripsi Mata Kuliah : Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.  
 	
-		Nama Mata Kuliah : Aljabar Linear (*Linear Algebra*)
+*	Kode MK : AMS252 (prasyarat AMS251)  
+	Nama Mata Kuliah : Statistika Matematika (*Mathematical Statistics*)  
+	Deskripsi Mata Kuliah : Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.  
+	
+*	Kode MK : AMS261 (prasyarat AMS126, AMS221)  
+	Nama Mata Kuliah : Optimasi (*Optimization*)  
+	Deskripsi Mata Kuliah : Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.  
+	
+*	Kode MK : AMS272 (prasyarat AMS122, AMS126)  
+	Nama Mata Kuliah : Persamaan Diferensial Biasa (*Ordinary Differential Equations*)  
+	Deskripsi Mata Kuliah : Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.  
 
-		Deskripsi Mata Kuliah : Persamaan linear dan matriks, ruang vektor, determinan, transformasi linear dan nilai eigen, norm dan hasil kali dalam.
-		
-	13.	Kode MK : AMS252 (prasyarat AMS251)
+*	Kode MK : AMS273 (prasyarat AMS126, AMS151, AMS221)  
+	Nama Mata Kuliah : Komputasi Matematika (*Computational Mathematics*)  
+	Deskripsi Mata Kuliah : Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.  
 	
-		Nama Mata Kuliah : Statistika Matematika (*Mathematical Statistics*)
+*	Kode MK : AMS321 (prasyarat AMS221)  
+	Nama Mata Kuliah : Fungsi Kompleks (*Functions of A Complex Variable*)  
+	Deskripsi Mata Kuliah : Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.  
+	
+*	Kode MK : AMS351 (prasyarat AMS251)  
+	Nama Mata Kuliah : Proses Stokastik (*Stochastic Processes*)  
+	Deskripsi Mata Kuliah : Distribusi eksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.  
 
-		Deskripsi Mata Kuliah : Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.
-		
-	14.	Kode MK : AMS261 (prasyarat AMS126, AMS221)
+*	Kode MK : AMS373 (prasyarat AMS273)  
+	Nama Mata Kuliah : Metode Numerik (*Numerical Methods*)  
+	Deskripsi Mata Kuliah : Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.  
 	
-		Nama Mata Kuliah : Optimasi (*Optimization*)
+*	Kode MK : AMS322 (prasyarat AMS321)  
+	Nama Mata Kuliah : Analisis Real (*Real Analysis*)  
+	Deskripsi Mata Kuliah : Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.  
 
-		Deskripsi Mata Kuliah : Pengantar pemrograman linear, algoritma simpleks, analisis sensitivitas, dualitas, topik lanjut dalam masalah optimasi.
-		
-	15.	Kode MK : AMS272 (prasyarat AMS122, AMS126)
-	
-		Nama Mata Kuliah : Persamaan Diferensial Biasa (*Ordinary Differential Equations*)
+*	Kode MK : AMS491 (prasyarat AMS126, AMS221, AMS253, AMS272, AMS273)  
+	Nama Mata Kuliah : Pemodelan Matematika (*Mathematical Modelling*)  
+	Deskripsi Mata Kuliah : Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.  
 
-		Deskripsi Mata Kuliah : Persamaan diferensial orde satu, persamaan diferensial orde dua, persamaan diferensial orde-n, sistem persamaan diferensial linear orde satu, pengantar persamaan diferensial nonlinear, pengantar persamaan diferensial parsial, masalah nilai batas.
-		
-	16.	Kode MK : AMS273 (prasyarat AMS126, AMS151, AMS221)
-	
-		Nama Mata Kuliah : Komputasi Matematika (*Computational Mathematics*)
+*	Kode MK : AMS490 (prasyarat lulus minimal 110 SKS)  
+	Nama Mata Kuliah : Seminar (*Seminar*)  
+	Deskripsi Mata Kuliah : Studi pusaka, penulisan dan presentasi karya ilmiah.  
 
-		Deskripsi Mata Kuliah : Pengenalan perintah dasar di Maple, Penggunaan Maple dalam Aljabar Linear, Persamaan Diferensial Biasa, Peluang dan Statistika, Pengenalan perintah dasar di Matlab, Penggunaan Matlab dalam Aljabar Linear dan Statistika, menggambar grafik, serta pemograman di Matlab.
-		
-	17.	Kode MK : AMS321 (prasyarat AMS221)
-	
-		Nama Mata Kuliah : Fungsi Kompleks (*Functions of A Complex Variable*)
+*	Kode MK : AMS499 (prasyarat AMS490 Minimal C)  
+	Nama Mata Kuliah : Skripsi (*Final Project*)  
+	Deskripsi Mata Kuliah : Studi pustaka, penulisan dan penyajian lisan skripsi.  
 
-		Deskripsi Mata Kuliah : Aksioma bilangan kompleks, fungsi kompleks dan pemetaan fungsi kompleks, limit dan turunan fungsi kompleks, integral fungsi kompleks, deret pangkat, residu dan perhitungan integral fungsi real melalui teknik residu, masalah aplikasi menggunakan teknik fungsi kompleks.
-	
-	18.	Kode MK : AMS351 (prasyarat AMS251)
-	
-		Nama Mata Kuliah : Proses Stokastik (*Stochastic Processes*)
-
-		Deskripsi Mata Kuliah : Distribusi eksponensial dan proses Poisson, proses renewal, rantai Markov, modelantrian.
-		
-	19.	Kode MK : AMS373 (prasyarat AMS273)
-	
-		Nama Mata Kuliah : Metode Numerik (*Numerical Methods*)
-
-		Deskripsi Mata Kuliah : Konsep numerik, akar persamaan nonlinear dan polinomial, menyelesaikan sistem persamaan linear dengan hitungan langsung (eliminasi) dan dengan hitungan tak langsung (iterasi), interpolasi dan hampiran fungsi, pengintegralan numerik, hampiran turunan, persamaan diferensial biasa.
-		
-	20.	Kode MK : AMS322 (prasyarat AMS321)
-	
-		Nama Mata Kuliah : Analisis Real (*Real Analysis*)
-
-		Deskripsi Mata Kuliah : Alj. himpunan, fungsi, bil. real, barisan dan deret, limit, fungsi kontinu, dan turunan.
-		
-	21.	Kode MK : AMS491 (prasyarat AMS126, AMS221, AMS253, AMS272, AMS273)
-	
-		Nama Mata Kuliah : Pemodelan Matematika (*Mathematical Modelling*)
-
-		Deskripsi Mata Kuliah : Mengumpulkan data, mencari proporsionalitas, menggunakan metoda beda hingga, menginterpretasikan hasil, memperbaiki model, model pencocokan kurva, model eksperimental, model simulasi, model probabilistik diskrit, analisis dimensi dan keserupaan.
-		
-	22.	Kode MK : AMS490 (prasyarat lulus minimal 110 SKS)
-	
-		Nama Mata Kuliah : Seminar (*Seminar*)
-
-		Deskripsi Mata Kuliah : Studi pusaka, penulisan dan presentasi karya ilmiah.
-		
-	23.	Kode MK : AMS499 (prasyarat AMS490 Minimal C)
-	
-		Nama Mata Kuliah : Skripsi (*Final Project*)
-
-		Deskripsi Mata Kuliah : Studi pustaka, penulisan dan penyajian lisan skripsi.
-		
 ##2.6 Kurikulum Program Studi Fisika
 ###2.5.1 Susunan Mata Kuliah
 Semester 1 (Total 19 SKS)
