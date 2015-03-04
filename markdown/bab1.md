@@ -192,7 +192,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 *	Philips Nicolas Gunawidjaja, BSc. (University of Warwick,UK), PhD. (University of Warwick, UK):  
 	Keterampilan Fisika, Elektronika 1 & 2, Struktur Materi.  
-	Email: philips@UNPAR.ac.id.  
+	Email: philips@unpar.ac.id.  
 
 *	Rosa de Lima E.P., SSi (ITB), MT (ITB), Studi S-3 di UPI:  
 	Sistem Informarsi, Sistem Pendukung Keputusan.  
@@ -217,7 +217,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 *	Janto Vincent Sulungbudi, SSi (ITB):  
 	Laboratorium Fisika Instrumentasi, Instrumentasi Berbasis Komputer, Pengantar Kontrol Otomatis.  
-	Email: janto@UNPAR.ac.id, janto.sulungbudi@gmail.com.  
+	Email: janto@unpar.ac.id, janto.sulungbudi@gmail.com.  
 
 *	Lionov, SKom (UNPAR), MSc. (Utrecht Univ. – Belanda):  
 	Pemrograman Berorientasi Objek, Algoritma dan Struktur Data, Koordinator Skripsi.  
@@ -255,7 +255,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 *	Flaviana Catherine, SSi (UNPAR), MSi (ITB):  
 	Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.  
-	Email: flaviana@UNPAR.ac.id.  
+	Email: flaviana@unpar.ac.id.  
 
 *	Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB):  
 	Studi S-3 di University of Saskatchewan.  
@@ -263,7 +263,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 *	Kian Ming, SSi (UNPAR), S-2 (ITB):  
 	Fisika Dasar, Teori Relativitas, Kosmologi Relativistik  
-	Email: kian.ming@UNPAR.ac.id.  
+	Email: kian.ming@unpar.ac.id.  
 
 *	Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda):  
 	Struktur Diskret, Kriptografi, Logika Informatika.  
@@ -275,7 +275,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 
 *	Risti Suryantari, SSi (UGM), MSc (UGM):  
 	Fisika Dasar, Fisika Modern, Gelombang, Fisika Kristal Cair.  
-	Email: ristisuryantari@UNPAR.ac.id.  
+	Email: ristisuryantari@unpar.ac.id.  
 
 *	Husnul Hakim, SKom (ITS), MT (ITB):  
 	Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data  
