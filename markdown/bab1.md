@@ -265,7 +265,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Fisika Dasar, Teori Relativitas, Kosmologi Relativistik  
 	Email: kian.ming@unpar.ac.id.  
 
-*	Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda):  
+*	Mariskha Tri Adithia, SSi (ITB), MSc (Universiteit Eindhoven  – Belanda), PDEng (Universiteit Eindhoven  – Belanda): 
 	Struktur Diskret, Kriptografi, Logika Informatika.  
 	Email: mariskha@unpar.ac.id  
 
