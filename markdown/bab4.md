@@ -110,8 +110,9 @@ Berdasarkan Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-08
 Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal tersebut harus telah dicapai oleh mahasiswa yang bersangkutan selambat-lambatnyapada saat Evaluasi Studi Tahap 1I. Jika pada batas waktu tersebut seorang mahasiswa belum dapat memenuhi skor minimal yang disyaratkan, maka mahasiswa tersebut dapat mengajukan permohonan dispensasi kepada Rektor asalkan memenuhi persyaratan tertentu. Tentang dispensasi ini lebih lanjut diatur pada pasal 5 dari SK Rektor (lihat lampiran).
 
 #LAMPIRAN 1
-##JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015
-<hr>
+
+**JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015**
+
 
 |        Kegiatan        |        Semester Ganjil       |          Semester Genap         |
 |:----------------------:|:----------------------------:|:-------------------------------:|
@@ -124,8 +125,9 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | Pengumuman Nilai Akhir |      Jumat, 9 Jan. 2015      |       Senin, 24 Juni 2015       |
 
 #LAMPIRAN 2
-##JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015
-<hr>
+
+**JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015**
+
 
 |              Tahap              |    Semester Ganjil   |    Semester Genap   |
 |:-------------------------------:|:--------------------:|:-------------------:|
@@ -133,13 +135,14 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 | Tahap 2(Pelunasan SKS dan SAPR) | Senin, 29 Sept. 2014 | Senin, 9 Maret 2015 |
 
 #LAMPIRAN 3
-##SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015
-<hr>
+
+**SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015**
+
 
 **-------------------------------HARUSNYA ADA TABEL TAPI BELUM DIMASUKKIN---------------------------**
 
 #LAMPIRAN 4
-<hr>
+
 ![](images/lampiran4-1.png)
 ![](images/lampiran4-2.png)
 ![](images/lampiran4-3.png)
@@ -148,18 +151,18 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 ![](images/lampiran4-6.png)
 
 #LAMPIRAN 5
-<hr>
+
 ![](images/lampiran5-1.png)
 ![](images/lampiran5-2.png)
 ![](images/lampiran5-3.png)
 
 #LAMPIRAN 6
-<hr>
+
 ![](images/lampiran6-1.png)
 ![](images/lampiran6-2.png)
 
 #LAMPIRAN 7
-<hr>
+
 ![](images/lampiran7-1.png)
 ![](images/lampiran7-2.png)
 ![](images/lampiran7-3.png)
