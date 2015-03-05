@@ -998,100 +998,85 @@ Semester 8 (Total 15 SKS)
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
-	1.	Nomor : 1
-		Kelompok Mata Kuliah : Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)
-	2.	Nomor : 2
-		Kelompok Mata Kuliah : Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)
-	3.	Nomor : 3
-		Kelompok Mata Kuliah : Fisika Komputasi, Elektronika, dan Instrumentasi
-	4.	Nomor : 4
-		Kelompok Mata Kuliah : Fisika Material dan Optika
-	5.	Nomor : 5
-		Kelompok Mata Kuliah : Biofisika
-	6.	Nomor : 6
-		Kelompok Mata Kuliah : Fisika Bumi
-	7.	Nomor : 7
-		Kelompok Mata Kuliah : Astrofisika
-	8.	Nomor : 8
-		Kelompok Mata Kuliah : Matakuliah Layanan
-	9.	Nomor : 9
-		Kelompok Mata Kuliah : Seminar dan Skripsi
-	0.	Nomor : 0
-		Kelompok Mata Kuliah : Kuliah Dasar, Keterampilan Umum, Lain-Lain
+*	Nomor : 1  
+	Kelompok Mata Kuliah : Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)
+*	Nomor : 2  
+	Kelompok Mata Kuliah : Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)
+*	Nomor : 3  
+	Kelompok Mata Kuliah : Fisika Komputasi, Elektronika, dan Instrumentasi
+*	Nomor : 4  
+	Kelompok Mata Kuliah : Fisika Material dan Optika
+*	Nomor : 5  
+	Kelompok Mata Kuliah : Biofisika
+*	Nomor : 6  
+	Kelompok Mata Kuliah : Fisika Bumi
+*	Nomor : 7  
+	Kelompok Mata Kuliah : Astrofisika
+*	Nomor : 8  
+	Kelompok Mata Kuliah : Matakuliah Layanan
+*	Nomor : 9  
+	Kelompok Mata Kuliah : Seminar dan Skripsi
+*	Nomor : 0  
+	Kelompok Mata Kuliah : Kuliah Dasar, Keterampilan Umum, Lain-Lain
 
 
 ###2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
 **Lain-lain**
 
-	1.	Kode : APS301
+*	Kode : APS301  
+	Nama : Filsafat Sains  
+	SKS : 2  
 
-		Nama : Filsafat Sains
+*	Kode : APS302  
+	Nama : Dunia Digital dan Sains  
+	SKS : 2  
 
-		SKS : 2
-	2.	Kode : APS302
-	
-		Nama : Dunia Digital dan Sains
-
-		SKS : 2
-	3.	Kode : APS303
-
-		Nama : Didaktika Umum
-
-		SKS : 3
+*	Kode : APS303  
+	Nama : Didaktika Umum  
+	SKS : 3
 
 **Kelompok Fisika Teoretik**
 
-	1.	Kode : APS311
+*	Kode : APS311  
+	Nama : Dinamika Fluida  
+	SKS : 3  
 
-		Nama : Dinamika Fluida
+*	Kode : APS411  
+	Nama : Mekanika Hamiltonian  
+	SKS : 3  
 
-		SKS : 3
-	2.	Kode : APS411
-	
-		Nama : Mekanika Hamiltonian
+*	Kode : APS317  
+	Nama : Fisika Matematika Lanjut  
+	SKS : 3  
 
-		SKS : 3 
-	3.	Kode : APS317
+*	Kode : APS318  
+	Nama : Pemodelan Matematika  
+	SKS : 3  
 
-		Nama : Fisika Matematika Lanjut
+*	Kode : APS418
+	Nama : KapSel. Fisika Matematika  
+	SKS : 3  
 
-		SKS : 3
-	4.	Kode : APS318
+*	Kode : APS424  
+	Nama : Teori Relativitas  
+	SKS : 3  
 
-		Nama : Pemodelan Matematika
+*	Kode : APS426  
+	Nama : Komputasi Kuantum  
+	SKS : 3  
 
-		SKS : 3
-	5.	Kode : APS418
+*	Kode : APS427  
+	Nama : Mekanika Kuantum Relativistik  
+	SKS : 3  
 
-		Nama : KapSel. Fisika Matematika
+*	Kode : APS428  
+	Nama : Teori Medan Kuantum  
+	SKS : 3  
 
-		SKS : 3
-	6.	Kode : APS424
-
-		Nama : Teori Relativitas
-
-		SKS : 3
-	7.	Kode : APS426
-
-		Nama : Komputasi Kuantum
-
-		SKS : 3
-	8.	Kode : APS427
-
-		Nama : Mekanika Kuantum Relativistik
-
-		SKS : 3
-	9.	Kode : APS428
-
-		Nama : Teori Medan Kuantum
-
-		SKS : 3
-	10.	Kode : APS429
-
-		Nama : KapSel. Fisika Teori
-
-		SKS : 3
+*	Kode : APS429  
+	Nama : KapSel. Fisika Teori  
+	SKS : 3
 
 **Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 
