@@ -94,13 +94,13 @@ Syarat untuk mengikuti UTS dan UAS:
 
 ###3.3.2 Tata Tertib Ujian
 
-1. **Kehadiran**  
+**1. Kehadiran**  
 
    1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit** sebelum ujian dimulai.  
    2.	Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.  
    3.	Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
 
-2. **Perlengkapan**
+**2. Perlengkapan**
 
    1.	Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian. 
    2.	Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.
@@ -110,17 +110,17 @@ Syarat untuk mengikuti UTS dan UAS:
    6.	Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.
    7.	Peserta ujian dilarang merokok di ruang ujian.
 
-3. **Pakaian**  
+**3. Pakaian**  
 
-   1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.
-   2. Peserta ujian **wajib** memakai sepatu.
+   1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.  
+   2. Peserta ujian **wajib** memakai sepatu.  
 
-4. **Tempat Duduk**  
+**4. Tempat Duduk**  
 
    1.	Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.
    2.	Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.
 
-5. **Pelaksanaan**  
+**5. Pelaksanaan**  
 
    1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.
    2.	Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.
@@ -130,29 +130,28 @@ Syarat untuk mengikuti UTS dan UAS:
    6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.
    7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.
    8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.
-   9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:
+   9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:  
    
-      a. **Melihat** berkas ujian milik peserta ujian lain;
-
-      b.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;
-      
-      c.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;
-      
-      d.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);
-      
+      a. **Melihat** berkas ujian milik peserta ujian lain;  
+      b.	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;  
+      c.	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;  
+      d.	**Melihat** buku ajar, diktat, atau catatan dalam bentuk apapun (kecuali ujian bersifat buku terbuka atau catatan terbuka);  
       e.	**Pinjam-meminjam** alat tulis, penghapus, cairan pengkoreksi, buku, kalkulator, dan sebagainya selama ujian berlangsung.
 
    10. Peserta ujian yang **melakukan kecurangan** pada saat ujian akan dikenakan **sanksi akademik** yang tertera pada Buku Petunjuk Pelaksanaan Akademik FTIS.
 
    11. Selama ujian berlangsung, peserta ujian **tidak diperkenankan meninggalkan ruangan ujiandengan alasan apapun** (kecuali peserta yang telah selesai mengerjakan ujian). Peserta ujian yang hendak ke WC, harus melakukannya sebelum ujian dimulai.
       
-####3.3.3 Sanksi
-Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:
+###3.3.3 Sanksi  
+
+Peserta yang terbukti tidak menaati tata tertib ujian dapat dijatuhi sanksi berupa:  
+
    1.	Untuk kali pertama: peringatan dari pengawas ujian, yang wajib dicatat dalam Berita Acara Ujian dan disimpan dalam map mahasiswa terkait.
    2.	Untuk kali ke dua dengan kesalahan yang sama: peringatan tertulis dari pimpinan Fakultas, yang arsipnya juga disimpan dalam map mahasiswa terkait.
    3.	Untuk kali ke tiga dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS matakuliah dimana kesalahan ke tiga tersebut terjadi (sesuai SK Rektor Universitas Katolik Parahyangan No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
-   4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** matakuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).
-Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.
+   4.	Untuk kali ke empat dan seterusnya dengan kesalahan yang sama: pembatalan hak tempuh UTS / UAS **seluruh** matakuliah pada masa ujian terkait (sesuai SK Rektor UNPAR No. III/PRT/93-01/03 tentang Peraturan Umum Mengenai Pemberian Sanksi Akademik kepada Mahasiswa).  
+
+Sanksi no. 3 dan 4 dikukuhkan oleh Surat Keputusan Dekan FTIS.  
 
 Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat mengikuti ujian, akan diberi sanksi akademik sebagai berikut :
 
