@@ -1370,14 +1370,6 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 	Nama Mata Kuliah : Kewirausahaan (*Entrepreneurship*)  
 	Deskripsi Mata Kuliah : Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.  
 
-*	Kode MK :  
-	Nama Mata Kuliah :  
-	Deskripsi Mata Kuliah :  
-
-*	Kode MK :  
-	Nama Mata Kuliah :  
-	Deskripsi Mata Kuliah :  
-
 ##2.7 Kurikulum Program Studi Teknik Informatika
 ###2.7.1 Susunan Mata Kuliah
 Semester 1 (Total 18 SKS)
@@ -1651,7 +1643,8 @@ Aturan Tambahan :
 	* Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
 	* Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
 	* Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
-maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
+	
+	maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ###2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
