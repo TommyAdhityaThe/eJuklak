@@ -1650,7 +1650,7 @@ Aturan Tambahan :
 	* Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
 	* Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
 	* Algoritma & Struktur Data yang dibuka di Sem. Ganjil atau Sem. Pendek
-	* Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek
+	* Desain & Analisis Algoritma yang dibuka di Sem. Ganjil atau Sem. Pendek  
 maka mahasiswa yang akan mengambil harus memiliki nilai terbaik minimum 35 di mata kuliah tersebut.
 
 ###2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
