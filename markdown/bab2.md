@@ -1784,7 +1784,7 @@ Aturan Tambahan :
 	SKS : 2 
 
 *	Kode : AIF433  
-	Nama : Topik Khusus Sistem Informasi 3
+	Nama : Topik Khusus Sistem Informasi 3  
 	APR : -  
 	SKS : 3 
 
@@ -1996,7 +1996,7 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 
 *	Kode MK : AIF106  
 	Nama Mata Kuliah : Sistem Dijital (Digital Systems)  
-	Deskripsi Mata Kuliah :   
+	Deskripsi Mata Kuliah : Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.
 
 *	Kode MK : AIF201  
 	Nama Mata Kuliah : Analisis dan Desain Berorientasi Objek (*Object-Oriented Analysis & Design*)  
@@ -2048,7 +2048,7 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 
 *	Kode MK : AIF305  
 	Nama Mata Kuliah : Jaringan Komputer (*Computer Networks*)  
-	Deskripsi Mata Kuliah : Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;layering; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; Reliable data delivery; Lapisan jaringan; Local Area Network; Resource Allocation; Mobility; Multimedia Networking;Memperkenalkan keamanan jaringan; Social Networking;  Membangun dan administrasi jaringan LAN.  
+	Deskripsi Mata Kuliah : Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*;Memperkenalkan keamanan jaringan; *Social Networking*;  Membangun dan administrasi jaringan LAN.  
 
 *	Kode MK : AIF306  
 	Nama Mata Kuliah : Proyek Informatika (*Informatics Project*)  
