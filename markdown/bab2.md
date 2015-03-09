@@ -2020,7 +2020,7 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 
 *	Kode MK : AIF208  
 	Nama Mata Kuliah : Rekayasa Perangkat Lunak (*Rekayasa Perangkat Lunak*)  
-	Deskripsi Mata Kuliah : Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management.  
+	Deskripsi Mata Kuliah : Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management.*  
 
 *	Kode MK : AIF210  
 	Nama Mata Kuliah : Interaksi Manusia Komputer (*Human-Computer Interaction*)  
@@ -2032,7 +2032,7 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 
 *	Kode MK : AIF301  
 	Nama Mata Kuliah : Pengantar Sistem Cerdas (*Introduction to Intelligent Systems*)  
-	Deskripsi Mata Kuliah : Mempelajari definisi, karakteristikagen cerdas, blind search, informed search, local search, adversarial search, representasi pengetahuan dengan Propositional Logic dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin  
+	Deskripsi Mata Kuliah : Mempelajari definisi, karakteristikagen cerdas, *blind search*, *informed search*, *local search*, *adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin  
 
 *	Kode MK : AIF302  
 	Nama Mata Kuliah : Penulisan Ilmiah (*Scientific Writing*)  
@@ -2044,7 +2044,7 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 
 *	Kode MK : AIF304  
 	Nama Mata Kuliah : Proyek Informasi 1 (*Information System Project 1*)  
-	Deskripsi Mata Kuliah : Mempelajari pendalaman manajemen projek (penyusunan Project Implementation Plan), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).  
+	Deskripsi Mata Kuliah : Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).  
 
 *	Kode MK : AIF305  
 	Nama Mata Kuliah : Jaringan Komputer (*Computer Networks*)  
