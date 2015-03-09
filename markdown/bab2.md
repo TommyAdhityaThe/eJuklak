@@ -681,7 +681,11 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 *	Kode MK : AMS221 (prasyarat AMS122)  
 	Nama Mata Kuliah : Kalkulus Vektor (*Vector Calculus*)  
-	Deskripsi Mata Kuliah : Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.  
+	Deskripsi Mata Kuliah : Vektor, kurva dan permukaan di ruang, fungsi peubah banyak dan turunan parsial, integral lipat, kalkulus vektor.
+
+![](images/2_1.jpg)
+
+**Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika**
 
 *	Kode MK : AMS231 (prasyarat AMS122)  
 	Nama Mata Kuliah : Teori Suku Bunga (*Theory of Interest*)  
@@ -1240,7 +1244,11 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 2.
 
 *	Kode MK : ICE109  
 	Nama Mata Kuliah : Kimia Dasar (*Chemistry*)  
-	Deskripsi Mata Kuliah : Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.  
+	Deskripsi Mata Kuliah : Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.
+
+![](images/2_2.jpg)
+
+**Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Fisika**
 
 *	Kode MK : APS105  
 	Nama Mata Kuliah : Fisika Dasar I (*Physics I*)  
@@ -1993,6 +2001,10 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 *	Kode MK : AIF105  
 	Nama Mata Kuliah : Pengantar Informatika (*Introduction to Informatics*)  
 	Deskripsi Mata Kuliah : Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.  
+
+![](images/2_3.jpg)
+
+Gambar 3. Peta dan Prasyarat Matakuliah
 
 *	Kode MK : AIF106  
 	Nama Mata Kuliah : Sistem Dijital (Digital Systems)  
