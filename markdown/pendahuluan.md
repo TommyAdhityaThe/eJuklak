@@ -1,4 +1,4 @@
-**Petunjuk Pelaksanaan Kegiatan Akademik Tahun 2014/2015**
+**PETUNJUK PELAKSANAAN KEGIATAN AKADEMIK TAHUN 2014/2015**
 
 ![](images/unpar.png)
 
