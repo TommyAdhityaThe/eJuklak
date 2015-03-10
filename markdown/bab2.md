@@ -1476,7 +1476,7 @@ Semester 3 (Total 18 SKS)
 	APR : -  
 	SKS : 2  
 
-Semester 4 (Total 18)
+Semester 4 (Total 18 SKS)
 
 *	Kode : AIF202  
 	Nama : Desain dan Analisis Algoritma  
@@ -1641,10 +1641,10 @@ Keterangan :
 	
 Aturan Tambahan :
 *	Mata kuliah pilihan dari luar jurusan  
-	Banyaknya mata kuliahBanyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.  
+	Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.  
 	Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan  
 *	Skor Coding  
-	Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding> 0.  
+	Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding > 0.  
 *	Nilai minimum kuliah jalur pemrograman/algoritma  
 	Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
 	* Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
@@ -2007,7 +2007,7 @@ Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
 Gambar 3. Peta dan Prasyarat Matakuliah
 
 *	Kode MK : AIF106  
-	Nama Mata Kuliah : Sistem Dijital (Digital Systems)  
+	Nama Mata Kuliah : Sistem Dijital (*Digital Systems*)  
 	Deskripsi Mata Kuliah : Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.
 
 *	Kode MK : AIF201  
