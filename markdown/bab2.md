@@ -661,7 +661,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 *	Kode MK : AMS123  
 	Nama Mata Kuliah : Pemecahan Masalah Matematika (*Mathematical Problem Solving*)  
-	Deskripsi Mata Kuliah : Menebak dan mengumpulkan data dalam problem solving, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.  
+	Deskripsi Mata Kuliah : Menebak dan mengumpulkan data dalam *problem solving*, pola, analogi, abstraksi, perumuman, teori satuan, Teorema Buckingham, melakukan penyelidikan, mempertanyakan dan mengembangkan suatu fakta.  
 
 *	Kode MK : AMS151  
 	Nama Mata Kuliah : Statistika Elementer (*Elementary Statistics*)  
@@ -673,7 +673,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 
 *	Kode MK : AMS123 (prasyarat AMS124)  
 	Nama Mata Kuliah : Matematika Diskret (*Discrete Mathematics*)  
-	Deskripsi Mata Kuliah : Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (counting), dan teori graf.  
+	Deskripsi Mata Kuliah : Logika dan bukti, himpunan dan fungsi, induksi dan rekursi, masalah pencacahan (*counting*), dan teori graf.  
 
 *	Kode MK : AMS126  
 	Nama Mata Kuliah : Aljabar Matriks (*Matrix Algebra*)  
@@ -709,7 +709,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1.
 	
 *	Kode MK : AMS252 (prasyarat AMS251)  
 	Nama Mata Kuliah : Statistika Matematika (*Mathematical Statistics*)  
-	Deskripsi Mata Kuliah : Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: most powerful tests, uniformly most powerful test, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.  
+	Deskripsi Mata Kuliah : Sampel dan statistik; statistik terurut, distribusi statisti terurut; penaksiran parameter:  metoda maksimum likelihood, uji maksimum likelihood, mengukur kualitas penaksir, statistik cukup. Pengujian hipotesis yang optimal: *most powerful tests*, *uniformly most powerful test*, uji rasio likelihood.  Inferensi mengenai beberapa model normal meliputi: analisis variansi dan regresi.  
 	
 *	Kode MK : AMS261 (prasyarat AMS126, AMS221)  
 	Nama Mata Kuliah : Optimasi (*Optimization*)  
