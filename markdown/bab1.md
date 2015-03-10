@@ -72,10 +72,8 @@ buku ini sangat kami harapkan dan hargai.
 Selamat berkarya, semoga Tuhan memberkati kita atas karya-karya yang kita hasilkan.
 
 
-
 Bandung,     
 Dekan,
-
 
 
 Paulus Cahyono Tjiang, Ph.D.
