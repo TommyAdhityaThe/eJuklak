@@ -1786,7 +1786,7 @@ Aturan Tambahan :
 	APR : -  
 	SKS : 3 
 
-*	Kode : AIF43  
+*	Kode : AIF432  
 	Nama : Topik Khusus Informatika 4  
 	APR : -  
 	SKS : 2 
