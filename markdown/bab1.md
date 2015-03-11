@@ -18,7 +18,7 @@ Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan be
 
 Visi dan Misi FTIS - UNPAR mengacu pada visi dan misi UNPAR. Visi UNPAR adalah
 
-> "Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat manusia dan keutuhan alam ciptaan."
+> Menjadi komunitas akademik humanum yang bersemangat kasih dalam kebenaran untuk mengembangkan potensi lokal pada tataran internasional demi peningkatan martabat manusia dan keutuhan alam ciptaan.
 
 Sebagai sebuah lembaga ilmiah, misi UNPAR adalah melaksanakan
 
@@ -33,7 +33,7 @@ sesuai dengan sesanti *Bakuning Hyang Mrih Guna Santyaya Bhakti*, yang berarti B
 
 Visi FTIS 2020 adalah sebagai berikut:
 
-> "Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia."
+> Menjadikan FTIS UNPAR sebagai suatu komunitas akademik beriman yang dapat mengembangkan bidang-bidang teknologi informasi dan sains dengan mengangkat potensi lokal pada tataran internasional untuk peningkatan martabat manusia.
 
 FTIS UNPAR bertekad untuk menjadi komunitas akademik beriman, yaitu masyarakat yang secara cerdas dan kritis senantiasa mencari, menjunjung tinggi, dan menyebarluaskan kebenaran. Hal ini merupakan perwujudan dari keyakinan kepada Tuhan Yang Maha Esa, sesuai dengan sesanti UNPAR Bakuning Hyang Mrih Guna Santyaya Bhakti.
 
@@ -81,46 +81,46 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 **Senat FTIS**  
 
-*  Ketua = Agus Sukmana, SSi, MSc  
-*  Sekretaris = Philips Nicolas Gunawidjaja, BSc, PhD
+*  **Ketua** : Agus Sukmana, SSi, MSc  
+*  **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD
 
 **Dekanat**  
 
-*  Dekan = Paulus Cahyono Tjiang, SSi, PhD.  
-*  WD I (Akademik) = Dr. Thomas Anung Basuki  
-*  WD II (Keuangan dan Sumberdaya) = Maria Anestasia, SSi, MSi  
-*  WD III (Kemahasiswaan dan Alumni) = Dr.rer.nat. Cecilia E. Nugraheni, ST,MT  
+*  **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
+*  **WD I (Akademik)** : Dr. Thomas Anung Basuki  
+*  **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
+*  **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E. Nugraheni, ST,MT  
 
 **Program Studi Matematika**  
 
-*  Ketua = Dr. Ferry Jaya Permana  
-*  Sekretaris = Livia Owen, SSi, Msi
+*  **Ketua** : Dr. Ferry Jaya Permana  
+*  **Sekretaris** : Livia Owen, SSi, Msi
     
 **Program Studi Fisika**  
 
-*  Ketua = Philips Nicolas Gunawidjaja, BSc, PhD  
-*  KaLab. Fisika Dasar = Risti Suryantari, S.Si., M.Si.  
-*  KaLab. Elektronika & Fisika Lanjut = Janto V. Sulungbudi, Drs.  
+*  **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
+*  **KaLab. Fisika Dasar** : Risti Suryantari, S.Si., M.Si.  
+*  **KaLab. Elektronika & Fisika Lanju**t : Janto V. Sulungbudi, Drs.  
     
 **Program Studi Teknik Informatika**  
 
-*  Ketua = Dr. Thomas Anung Basuki  
-*  Sekretaris = Lionov, SKom, MSc  
-*  KaLab. Komputasi = Chandra Wijaya, ST, MT  
+*  **Ketua** : Dr. Thomas Anung Basuki  
+*  **Sekretaris** : Lionov, SKom, MSc  
+*  **KaLab. Komputasi** : Chandra Wijaya, ST, MT  
     
 **Tata Usaha**  
 
-*  Kepala = Pranyoto Teguh Imanto  
-*  Kasubag Akademik = Petrus Purnomo  
-*  Kasubag Keuangan & Kepegawaian = Budi Santoso  
-*  Kasubag Kemahasiswaan & Alumni = Fransiscus Sudarno  
-*  Kasubag Umum & Perlengkapan = Walip, A.Md  
-*  Staf Akademik = Rikie Setiawan, S.AB.  
-*  Staf Keuangan & Kepegawaian = Filifo Zebua, Dwina Irlistriarti, Dra.  
+*  **Kepala** : Pranyoto Teguh Imanto  
+*  **Kasubag Akademik** : Petrus Purnomo  
+*  **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
+*  **Kasubag Kemahasiswaan & Alumni** : Fransiscus Sudarno  
+*  **Kasubag Umum & Perlengkapan** : Walip, A.Md  
+*  **Staf Akademik** : Rikie Setiawan, S.AB.  
+*  **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.  
 
 ##1.5. Daftar Dosen FTIS
 
-Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan website. 
+Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata kuliah yang diampu pada Semester Ganjil 2013/2014, alamat email dan *website*. 
 
 **Guru Besar**  
 
@@ -180,7 +180,8 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Email: cheni@unpar.ac.id  
 
 *	Erwinna Chendra, SSi(UNPAR), MSi(ITB), Studi S-3 Matematika di ITB.  
-	Email: erwinna@unpar.ac.id. Website: http://www.unpar.ac.id/erwinna  
+	Email: erwinna@unpar.ac.id.  
+	*Website*: http://www.unpar.ac.id/erwinna  
 
 *	Liem Chin, SSi.(UNPAR), MSi.(ITB):  
 	Matematika Diskret, Aljabar Linear, Komputasi Statistika.  
@@ -198,13 +199,12 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Sistem Informarsi, Sistem Pendukung Keputusan.  
 	Email: rosad5@unpar.ac.id  
 
-*	Farah Kristiani, SSi (UNPAR), MSi (ITB):  
-	Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.  
+*	Farah Kristiani, SSi (UNPAR), MSi (ITB), Studi S-3 Matematika di Universiti Pendidikan Sultan Idris, Malaysia.  
 	Email: farah@unpar.ac.id.  
 
 **Asisten Ahli**
 
-*	Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.
+*	Elisati Hulu, ST (ITB), MT (ITB), Studi S-3 di ITB.  
 	Email: elisatih@unpar.ac.id  
 
 *	Gede Karya, ST (ITB), MT (ITB):  
@@ -257,8 +257,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Fisika Dasar, Pengantar Fisika Nuklir, Fisika Kedokteran, Fisika Instrumentasi Medis.  
 	Email: flaviana@unpar.ac.id.  
 
-*	Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB):  
-	Studi S-3 di University of Saskatchewan.  
+*	Haryanto Mangaratua Siahaan, SSi (ITB), MSi (ITB), Studi S-3 di University of Saskatchewan.  
 	Email: haryanto.siahaan@gmail.com  
 
 *	Kian Ming, SSi (UNPAR), S-2 (ITB):  
