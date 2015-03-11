@@ -457,145 +457,132 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 
 **Kelompok Bidang Kajian : Rekayasa Keuangan**
 
-Matematika Asuransi
-
-*	Kode : AMS330  
-	Nama : Pengantar Matematika Asuransi  
-	SKS : 3  
-
-*	Kode : AMS331  
-	Nama : Matematika Asuransi  
-	SKS : 3  
-
-*	Kode : AMS431  
-	Nama : Metoda Statistika Asuransi  
-	SKS : 3  
-
-*	Kode : AMS432  
-	Nama : Teori Risiko  
-	SKS : 3  
-
-*	Kode : AMS430  
-	Nama : Kapita Selekta Matematika Asuransi  
-	SKS : 3  
-
-Matematika Keuangan
-
-*	Kode : AMS341  
-	Nama : Komputasi Keuangan  
-	SKS : 3  
-
-*	Kode : AMS342  
-	Nama : Matematika Keuangan  
-	SKS : 3   
-
-*	Kode : AMS343  
-	Nama : Analisis Deret Waktu  
-	SKS : 3  
-
-*	Kode : AMS441  
-	Nama : Teori Manajemen Investasi  
-	SKS : 3
-
-*	Kode : AMS442  
-	Nama : Ekonometrika Keuangan  
-	SKS : 3  
-
-*	Kode : AMS440  
-	Nama : Kapita Selekta Matematika Keuangan  
-	SKS : 3  
-
-**Kelompok Bidang Kajian : Rekayasa Keuangan**
-
-Optimasi dan Teori Kontrol
-
-*	Kode : AMS361  
-	Nama : Pemrograman NonLinear  
-	SKS : 3   
-
-*	Kode : AMS461  
-	Nama : Kontrol Optimum  
-	SKS : 3  
-
-*	Kode : AMS462  
-	Nama : Kontrol Linear  
-	SKS : 3  
-
-Statistika & Penelitian Operasional
-
-*	Kode : AMS352  
-	Nama : Pemrograman Stokastik  
-	SKS : 3  
-
-*	Kode : AMS353  
-	Nama : Pengendalian Mutu  
-	SKS : 3  
-
-*	Kode : AMS354  
-	Nama : Model Statistika  
-	SKS : 3  
-
-*	Kode : AMS451  
-	Nama : Teori Permainan  
-	SKS : 3  
-
-*	Kode : AMS452  
-	Nama : Proyek Pemodelan  
-	SKS : 3  
-
-*	Kode : AMS453  
-	Nama : Statistika Multivariant  
-	SKS : 3  
-
-*	Kode : AMS454  
-	Nama : Statistika Non Parameter  
-	SKS : 3  
-
-*	Kode : AMS455  
-	Nama : Perancangan Percobaan  
-	SKS : 3
-
-*	Kode : AMS456  
-	Nama : Teori Antrian  
-	SKS : 3  
-
-*	Kode : AMS457  
-	Nama : Keandalan  
-	SKS : 3  
-
-*	Kode : AMS350  
-	Nama : Kapita Selekta Statistika  
-	SKS : 3  
-
-*	Kode : AMS450  
-	Nama : Kapita Selekta Penelititan Operasional  
-	SKS : 3  
-
-Matematika Terapan
-
-*	Kode : AMS471  
-	Nama : Sistem Dinamik  
-	SKS : 3  
-
-*	Kode : AMS472  
-	Nama : Matematika Biologi  
-	SKS : 3  
-
-*	Kode : AMS371  
-	Nama : Persamaan Diferensial Parsial  
-	SKS : 3  
-
-*	Kode : AMS372  
-	Nama : Metoda Matematika Lanjut  
-	SKS : 3  
-
-*	Kode : AMS374  
-	Nama : Analisis Numerik  
-	SKS : 3  
-
-*	Kode : AMS470  
-	Nama : Kapita Selekta Matematika Terapan  
-	SKS : 3  
+1.	Matematika Asuransi
+	*	Kode : AMS330  
+		Nama : Pengantar Matematika Asuransi  
+		SKS : 3  
+	*	Kode : AMS331  
+		Nama : Matematika Asuransi  
+		SKS : 3  
+	*	Kode : AMS431  
+		Nama : Metoda Statistika Asuransi  
+		SKS : 3  
+	
+	*	Kode : AMS432  
+		Nama : Teori Risiko  
+		SKS : 3  
+	
+	*	Kode : AMS430  
+		Nama : Kapita Selekta Matematika Asuransi  
+		SKS : 3  
+2.	Matematika Keuangan  
+	*	Kode : AMS341  
+		Nama : Komputasi Keuangan  
+		SKS : 3  
+	
+	*	Kode : AMS342  
+		Nama : Matematika Keuangan  
+		SKS : 3   
+	
+	*	Kode : AMS343  
+		Nama : Analisis Deret Waktu  
+		SKS : 3  
+	
+	*	Kode : AMS441  
+		Nama : Teori Manajemen Investasi  
+		SKS : 3
+	
+	*	Kode : AMS442  
+		Nama : Ekonometrika Keuangan  
+		SKS : 3  
+	
+	*	Kode : AMS440  
+		Nama : Kapita Selekta Matematika Keuangan  
+		SKS : 3  
+3.	Optimasi dan Teori Kontrol  
+	*	Kode : AMS361  
+		Nama : Pemrograman NonLinear  
+		SKS : 3   
+	
+	*	Kode : AMS461  
+		Nama : Kontrol Optimum  
+		SKS : 3  
+	
+	*	Kode : AMS462  
+		Nama : Kontrol Linear  
+		SKS : 3  
+4.	Statistika & Penelitian Operasional
+	*	Kode : AMS352  
+		Nama : Pemrograman Stokastik  
+		SKS : 3  
+	
+	*	Kode : AMS353  
+		Nama : Pengendalian Mutu  
+		SKS : 3  
+	
+	*	Kode : AMS354  
+		Nama : Model Statistika  
+		SKS : 3  
+	
+	*	Kode : AMS451  
+		Nama : Teori Permainan  
+		SKS : 3  
+	
+	*	Kode : AMS452  
+		Nama : Proyek Pemodelan  
+		SKS : 3  
+	
+	*	Kode : AMS453  
+		Nama : Statistika Multivariant  
+		SKS : 3  
+	
+	*	Kode : AMS454  
+		Nama : Statistika Non Parameter  
+		SKS : 3  
+	
+	*	Kode : AMS455  
+		Nama : Perancangan Percobaan  
+		SKS : 3
+	
+	*	Kode : AMS456  
+		Nama : Teori Antrian  
+		SKS : 3  
+	
+	*	Kode : AMS457  
+		Nama : Keandalan  
+		SKS : 3  
+	
+	*	Kode : AMS350  
+		Nama : Kapita Selekta Statistika  
+		SKS : 3  
+	
+	*	Kode : AMS450  
+		Nama : Kapita Selekta Penelititan Operasional  
+		SKS : 3  
+5.	Matematika Terapan
+	*	Kode : AMS471  
+		Nama : Sistem Dinamik  
+		SKS : 3  
+	
+	*	Kode : AMS472  
+		Nama : Matematika Biologi  
+		SKS : 3  
+	
+	*	Kode : AMS371  
+		Nama : Persamaan Diferensial Parsial  
+		SKS : 3  
+	
+	*	Kode : AMS372  
+		Nama : Metoda Matematika Lanjut  
+		SKS : 3  
+	
+	*	Kode : AMS374  
+		Nama : Analisis Numerik  
+		SKS : 3  
+	
+	*	Kode : AMS470  
+		Nama : Kapita Selekta Matematika Terapan  
+		SKS : 3  
 
 **Lain - Lain**
 
