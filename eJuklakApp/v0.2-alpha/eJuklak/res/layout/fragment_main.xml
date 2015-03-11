@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal"
+    tools:context="unpar.ftis.ejuklak.MainActivity$PlaceholderFragment" >
+
+    <Button
+        android:id="@+id/ButtonCover"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Cover" />
+
+    <Button
+        android:id="@+id/buttonBab1"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Bab 1" />
+
+    <Button
+        android:id="@+id/buttonBab2"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Bab 2" />
+
+    <Button
+        android:id="@+id/buttonBab3"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Bab 3" />
+
+    <Button
+        android:id="@+id/buttonBab4"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:layout_weight="1"
+        android:text="Bab 4" />
+
+</LinearLayout>
