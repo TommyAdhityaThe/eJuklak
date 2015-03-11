@@ -34,175 +34,175 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 
 ###2.3.1 Kuliah Layanan Program Studi Matematika
 
-*	Kode : AMS100  
-	Mata Kuliah : Matematika Informatika  
-	SKS : 4  
-	Prodi yang dilayani : Teknik Informatika  
+*	**Kode :** AMS100  
+	**Mata Kuliah :** Matematika Informatika  
+	**SKS :** 4  
+	**Prodi yang dilayani :** Teknik Informatika  
 
-*	Kode : AMS200  
-	Mata Kuliah : Probabilitas dan Statistika  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Informatika   
+*	**Kode :** AMS200  
+	**Mata Kuliah :** Probabilitas dan Statistika  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Informatika   
 
-*	Kode : AMS107  
-	Mata Kuliah : Fisika Matematika I  
-	SKS : 4  
-	Prodi yang dilayani : Fisika  
+*	**Kode :** AMS107  
+	**Mata Kuliah :** Fisika Matematika I  
+	**SKS :** 4  
+	**Prodi yang dilayani :** Fisika  
 	
-*	Kode : AMS108  
-	Mata Kuliah : Fisika Matematika II  
-	SKS : 4  
-	Prodi yang dilayani : Fisika  
+*	**Kode :** AMS108  
+	**Mata Kuliah :** Fisika Matematika II  
+	**SKS :** 4  
+	**Prodi yang dilayani :** Fisika  
 
-*	Kode : AMS103  
-	Mata Kuliah : Kalkulus I  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Industri  
+*	**Kode :** AMS103  
+	**Mata Kuliah :** Kalkulus I  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Industri  
 
-*	Kode : AMS104  
-	Mata Kuliah : Kalkulus II  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Industri  
+*	**Kode :** AMS104  
+	**Mata Kuliah :** Kalkulus II  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Industri  
 
-*	Kode : AMS203  
-	Mata Kuliah : Matriks dan Ruang Vektor  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Industri  
+*	**Kode :** AMS203  
+	**Mata Kuliah :** Matriks dan Ruang Vektor  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Industri  
 
-*	Kode : AMS204  
-	Mata Kuliah : Kalkulus Peubah Banyak  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Industri  
+*	**Kode :** AMS204  
+	**Mata Kuliah :** Kalkulus Peubah Banyak  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Industri  
 
-*	Kode : AMS105  
-	Mata Kuliah : Kalkulus I  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Kimia  
+*	**Kode :** AMS105  
+	**Mata Kuliah :** Kalkulus I  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Kimia  
 
-*	Kode : AMS106  
-	Mata Kuliah : Kalkulus II  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Kimia  
+*	**Kode :** AMS106  
+	**Mata Kuliah :** Kalkulus II  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Kimia  
 
-*	Kode : AMS101  
-	Mata Kuliah : Matematika 1  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Sipil  
+*	**Kode :** AMS101  
+	**Mata Kuliah :** Matematika 1  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Sipil  
 
-*	Kode : AMS102  
-	Mata Kuliah : Matematika 2  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Sipil  
+*	**Kode :** AMS102  
+	**Mata Kuliah :** Matematika 2  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Sipil  
 
-*	Kode : AMS201  
-	Mata Kuliah : Matematika 3  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Sipil  
+*	**Kode :** AMS201  
+	**Mata Kuliah :** Matematika 3  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Sipil  
 
-*	Kode : AMS202  
-	Mata Kuliah : Matematika 4  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Sipil
+*	**Kode :** AMS202  
+	**Mata Kuliah :** Matematika 4  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Sipil
 	
 ###2.3.2 Kuliah Layanan Program Studi Fisika
 
-*	Kode : APS181  
-	Mata Kuliah : Fisika Dasar  
-	SKS : 4  
-	Prodi yang dilayani : Matematika  
+*	**Kode :** APS181  
+	**Mata Kuliah :** Fisika Dasar  
+	**SKS :** 4  
+	**Prodi yang dilayani :** Matematika  
 
-*	Kode : APS182  
-	Mata Kuliah : Fisika Dasar  
-	SKS : 3  
-	Prodi yang dilayani : Teknik Sipil  
+*	**Kode :** APS182  
+	**Mata Kuliah :** Fisika Dasar  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Teknik Sipil  
 
-*	Kode : APS183  
-	Mata Kuliah : Fisika Dasar I  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Industri  
+*	**Kode :** APS183  
+	**Mata Kuliah :** Fisika Dasar I  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Industri  
 
-*	Kode : APS184  
-	Mata Kuliah : Fisika Dasar II  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Industri  
+*	**Kode :** APS184  
+	**Mata Kuliah :** Fisika Dasar II  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Industri  
 
-*	Kode : APS185  
-	Mata Kuliah : Fisika Dasar I  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Kimia  
+*	**Kode :** APS185  
+	**Mata Kuliah :** Fisika Dasar I  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Kimia  
 
-*	Kode : APS186  
-	Mata Kuliah : Fisika Dasar II  
-	SKS : 2  
-	Prodi yang dilayani : Teknik Kimia  
+*	**Kode :** APS186  
+	**Mata Kuliah :** Fisika Dasar II  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Teknik Kimia  
 
-*	Kode : APS187  
-	Mata Kuliah : Praktikum Fisika Dasar  
-	SKS : 1  
-	Prodi yang dilayani : Matematika  
+*	**Kode :** APS187  
+	**Mata Kuliah :** Praktikum Fisika Dasar  
+	**SKS :** 1  
+	**Prodi yang dilayani :** Matematika  
 
-*	Kode : APS188  
-	Mata Kuliah : Praktikum Fisika Dasar  
-	SKS : 1  
-	Prodi yang dilayani : Teknik Sipil  
+*	**Kode :** APS188  
+	**Mata Kuliah :** Praktikum Fisika Dasar  
+	**SKS :** 1  
+	**Prodi yang dilayani :** Teknik Sipil  
 
-*	Kode : APS189  
-	Mata Kuliah : Praktikum Fisika Dasar  
-	SKS : 1  
-	Prodi yang dilayani : Teknik Industri   
+*	**Kode :** APS189  
+	**Mata Kuliah :** Praktikum Fisika Dasar  
+	**SKS :** 1  
+	**Prodi yang dilayani :** Teknik Industri   
 
-*	Kode : FFT113  
-	Mata Kuliah : Kosmologi  
-	SKS : 2  
-	Prodi yang dilayani : Filsafat  
+*	**Kode :** FFT113  
+	**Mata Kuliah :** Kosmologi  
+	**SKS :** 2  
+	**Prodi yang dilayani :** Filsafat  
 
 ###2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
-*	Kode : AKS144  
-	Mata Kuliah : Pemrograman Komputer  
-	SKS : 3  
-	Prodi yang dilayani : Matematika  
+*	**Kode :** AKS144  
+	**Mata Kuliah :** Pemrograman Komputer  
+	**SKS :** 3  
+	**Prodi yang dilayani :** Matematika  
 
 ##2.4 Matakuliah Umum
 
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
 ###2.4.1 Susunan Matakuliah Umum
-*	Kode : MKU001  
-	Mata Kuliah : Pendidikan Pancasila  
-	SKS : 2  
+*	**Kode :** MKU001  
+	**Mata Kuliah :** Pendidikan Pancasila  
+	**SKS :** 2  
 
-*	Kode : MKU002  
-	Mata Kuliah : Pendidikan Kewarganegaraan  
-	SKS : 2  
+*	**Kode :** MKU002  
+	**Mata Kuliah :** Pendidikan Kewarganegaraan  
+	**SKS :** 2  
 
-*	Kode : MKU003  
-	Mata Kuliah : Agama Katolik  
-	SKS : 2
+*	**Kode :** MKU003  
+	**Mata Kuliah :** Agama Katolik  
+	**SKS : 2
 
-*	Kode : MKU004  
-	Mata Kuliah : Fenomenologi Agama  
-	SKS : 2  
+*	**Kode :** MKU004  
+	**Mata Kuliah :** Fenomenologi Agama  
+	**SKS :** 2  
 
-*	Kode : MKU008  
-	Mata Kuliah : Etika  
-	SKS : 2  
+*	**Kode :** MKU008  
+	**Mata Kuliah :** Etika  
+	**SKS :** 2  
 
-*	Kode : MKU009  
-	Mata Kuliah : Bahasa Indonesia  
-	SKS : 2  
+*	**Kode :** MKU009  
+	**Mata Kuliah :** Bahasa Indonesia  
+	**SKS :** 2  
 
-*	Kode : MKU010  
-	Mata Kuliah : Bahasa Inggris  
-	SKS : 2  
+*	**Kode :** MKU010  
+	**Mata Kuliah :** Bahasa Inggris  
+	**SKS :** 2  
 
-*	Kode : MKU011  
-	Mata Kuliah : Estetika  
-	SKS : 2  
+*	**Kode :** MKU011  
+	**Mata Kuliah :** Estetika  
+	**SKS :** 2  
 
-*	Kode : MKU012  
-	Mata Kuliah : Logika  
-	SKS : 2  
+*	**Kode :** MKU012  
+	**Mata Kuliah :** Logika  
+	**SKS :** 2  
 
 ###2.4.2 Uraian Singkat Matakuliah Umum
 *	**Nama MK :** MKU001  
