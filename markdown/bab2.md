@@ -247,35 +247,35 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 ###2.5.1 Susunan Mata Kuliah
 **Semester 1** (Total 19 SKS)
 
-*	Kode : AMS121  
-	Nama : Kalkulus I  
-	APR : Responsi  
-	SKS : 4  
+*	**Kode :** AMS121  
+	**Nama :** Kalkulus I  
+	**APR **: Responsi  
+	**SKS :** 4  
 
-*	Kode : AMS123  
-	Nama : Pemecahan Masalah Matematika  
-	APR : -  
-	SKS : 3  
+*	**Kode :** AMS123  
+	**Nama :** Pemecahan Masalah Matematika  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : AMS151  
-	Nama : Statistika Elementer  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS151  
+	**Nama :** Statistika Elementer  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : APS181  
-	Nama : Fisika Dasar  
-	APR : Responsi, Praktikum  
-	SKS : 4  
+*	**Kode :** APS181  
+	**Nama :** Fisika Dasar  
+	**APR :** Responsi, Praktikum  
+	**SKS :** 4  
 
-*	Kode : MKU012  
-	Nama : Logika  
-	APR : Responsi  
-	SKS : 2  
+*	**Kode :** MKU012  
+	**Nama :** Logika  
+	**APR :** Responsi  
+	**SKS :** 2  
 
-*	Kode : MKU010  
-	Nama : Bahasa Inggris  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU010  
+	**Nama :** Bahasa Inggris  
+	**APR :** -  
+	**SKS :** 2  
 
 **Semester 2** (Total 19 SKS)
 
