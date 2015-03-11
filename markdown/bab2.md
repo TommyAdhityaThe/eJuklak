@@ -205,51 +205,51 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 	SKS : 2  
 
 ###2.4.2 Uraian Singkat Matakuliah Umum
-*	Nama MK (Prasyarat) : MKU001  
-	Nama Matakuliah : Pendidikan Pancasila (*Pancasila Education*)  
-	Deskripsi Matakuliah : Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermeneutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.  
+*	**Nama MK :** MKU001  
+	**Nama Matakuliah :** Pendidikan Pancasila (*Pancasila Education*)  
+	**Deskripsi Matakuliah :** Mata Kuliah Pendidikan Pancasila berupaya menelaah/mengkaji berbagai fenomena kehidupan bangsa dan Negara Indonesia sebagai sebuah ruang publik dengan menggunakan pendekatan hermeneutika (filsafat) dan pendidikan nilai (pedagogik). Dengan bantuan hermeneutika mahasiswa diajak berpikir kritis terhadap segala bentuk ideologisme Pancasila dan melalui pendidikan nilai mahasiswa dilatih untuk memiliki nilai Pancasila. Nilai pengembangan diri intra-personal dan relasi inter-personal dapat tertanam melalui pendidikan Pancasila yang tujuannya adalah membangun kepribadian (*character building*) manusia Indonesia yang utuh, baik menyangkut aspek kognitif, afektif, maupun psikomotor. Dengan demikian, Pendidikan Pancasila mengajak mahasiswa menilai realitas ruang publik sehari-hari secara mandiri dengan panduan nilai-nilai etis Pancasila.  
 
-*	Nama MK (Prasyarat) : MKU002  
-	Nama Matakuliah : Pendidikan Kewarganegaraan (*Civics*)  
-	Deskripsi Matakuliah : Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.  
+*	**Nama MK :** MKU002  
+	**Nama Matakuliah :** Pendidikan Kewarganegaraan (*Civics*)  
+	**Deskripsi Matakuliah :** Pendidikan Kewarganegaraan menjelaskan pentingnya pemahaman tentang identitas nasional Indonesia, hak dan kewajiban warga negara Indonesia serta hubungannya dengan hak dan kewajiban asasi manusia. Materi kuliah mencakup juga wawasan nusantara, ketahanan nasional, politik dan strategi nasional, serta implementasinya dalam kehidupan bermasyarakat, berbangsa dan bernegara kesatuan Republik Indonesia.  
 
-*	Nama MK (Prasyarat) : MKU003  
-	Nama Matakuliah : Agama Katolik (*Catholic Religion*)  
-	Deskripsi Matakuliah : Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.  
+*	**Nama MK :** MKU003  
+	**Nama Matakuliah :** Agama Katolik (*Catholic Religion*)  
+	**Deskripsi Matakuliah :** Mata kuliah ini membentuk karakteristik mahasiswa sebagai manusia yang memiliki religiusitas melalui pendalaman akan makna agama dan beragama, mendeteksi dinamika Wahyu Tuhan dan iman mereka, memahami relasi dengan Tuhan dan sesama, mengenal makna keselamatan dalam konteks Kerajaan Allah, dan mampu menyatakan ajaran Gereja dalam pelayanan terhadap orang miskin dan terlantar.  
 
-*	Nama MK (Prasyarat) : MKU004  
-	Nama Matakuliah : Fenomenologi Agama (*Phenomenology of Religion*)  
-	Deskripsi Matakuliah : Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.  
+*	**Nama MK :** MKU004  
+	**Nama Matakuliah :** Fenomenologi Agama (*Phenomenology of Religion*)  
+	**Deskripsi Matakuliah :** Fenomenologi Agama merupakan bagian yang tak terpisahkan dari kajian filosofis, kritis, rasional, dan obyektif mengenai substansi ajaran agama. Fenomenologi merupakan sebuah disiplin ilmu yang secara kritis-rasional mengkaji fenomena dan dinamika kehidupan manusia beragama, dari upaya menjadikan Tuhan sebagai tujuan sesembahan sampai menempatkan Tuhan sebagai instrumen legitimasi untuk melakukan tindakan yang justru bertolak belakang dengan kehendak Tuhan yang disembah. Sehubungan dengan itu, kritik konstruktif terhadap perilaku manusia beragama menjadi salah satu poin utama dalam mata kuliah ini. Kesediaan untuk melakukan otoritik terhadap agama sendiri erat terkait dengan upaya menemukan kembali nilai sejati agama atau otentisitas hidup beragama.  
 
-*	Nama MK (Prasyarat) : MKU008  
-	Nama Matakuliah : Etika (*Ethics*)  
-	Deskripsi Matakuliah : Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.  
+*	**Nama MK :** MKU008  
+	**Nama Matakuliah :** Etika (*Ethics*)  
+	**Deskripsi Matakuliah :** Mendalami perilaku sehari-hari yang baik dalam bermasyarakat.  
 
-*	Nama MK (Prasyarat) : MKU009  
-	Nama Matakuliah : Bahasa Indonesia (*Indonesian*)  
-	Deskripsi Matakuliah : Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.  
+*	**Nama MK :** MKU009  
+	**Nama Matakuliah :** Bahasa Indonesia (*Indonesian*)  
+	**Deskripsi Matakuliah :** Tujuan dari mata kuliah ini adalah untuk mendalami keterampilan berbahasa Indonesia, agar mampu mengkomunikasikan hasil pemikiran serta meningkatkan keterampilan dalam menyusun karya ilmiah. Mata kuliah Bahasa Indonesia ini dimulai dengan mempelajari penulisan kata baku dan non baku serta pengungkapan pikiran dengan pungtuasi yang benar. Selanjutnya dipelajari penyusunan kalimat yang baku serta menghubungkan kalimat-kalimat yang padu dalam menuangkan gagasan dalam sebuah paragraf. Selain itu, dalam matakuliah ini dipelajari cara menyusun surat dinas yang jelas dan komunikatif. Di akhir kuliah ini, mahasiswa diberi tugas penyusunan makalah dengan benar.  
 
-*	Nama MK (Prasyarat) : MKU010  
-	Nama Matakuliah : Bahasa Inggris (*English*)  
-	Deskripsi Matakuliah : Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.  
+*	**Nama MK** : MKU010  
+	**Nama Matakuliah :** Bahasa Inggris (*English*)  
+	**Deskripsi Matakuliah :** Mata kuliah ini difokuskan pada pemahaman sumber referensi dalam Bahasa Inggris dan pengembangan kosakata Bahasa Inggris (*vocabularies*). Hampir keseluruhan waktu perkuliahan didedikasikan untuk menjelaskan metode mengekstraksi isi bacaan secara tepat dan melatih mahasiswa untuk menerapkan metode tersebut seraya menambah kosakata-kosakata baru. Mahasiswa juga dilatih untuk mempresentasikan hasil pemahamannya akan isi bahan bacaan.  
 
-*	Nama MK (Prasyarat) : MKU011  
-	Nama Matakuliah : Estetika (*Esthetics*)  
-	Deskripsi Matakuliah : Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.  
+*	**Nama MK** : MKU011  
+	**Nama Matakuliah :** Estetika (*Esthetics*)  
+	**Deskripsi Matakuliah :** Mata kuliah estetika memberi pemahaman konseptual filosofis “seni” dalam khasanah keilmuan, pembentukan kesadaran ekologis juga dalam proses pembudayaan dan peradaban. Mata kuliah ini akan menjadi fondasi bagi mahasiswa untuk memahami dan mempraktekkan seni dari sudut pandang filsafat, sejarah, kultural, dan global. Melalui mata kuliah ini, mahasiswa mempelajari mengenai dunia manusia (manusia dan pikirannya), pluralitas dan relativitas seni, serta aliran-aliran seni rupa Barat.  
 
-*	Nama MK (Prasyarat) : MKU012  
-	Nama Matakuliah : Logika (*Logics*)  
-	Deskripsi Matakuliah : Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.  
+*	**Nama MK** : MKU012  
+	**Nama Matakuliah :** Logika (*Logics*)  
+	**Deskripsi Matakuliah :** Perkuliahan logika ditujukan untuk memberikan dasar-dasar ketrampilan berpikir rasional dan sistematik. Isinya mencakup ketrampilan berpikir deduktif dan induktif, seperti silogisme, argumen analogikal dan generalisasi induktif. Pembahasan teoretis disertai pula dengan pelatihan praktis yang diarahkan pada proses berpikir. Untuk menajamkan kemampuan berpikir tersebut, mahasiswa dilatih pula mengidentifikasi kerancuan-kerancuan (*fallacies*) yang sering dijumpai baik dalam kehidupan sehari-hari maupun dalam konteks akademik.  
 
 **Matakuliah yang saling menggantikan : Agama Katolik - Fenomenologi Agama**
 
 ##2.5 Kurikulum Program Studi Matematika
 ###2.5.1 Susunan Mata Kuliah
-Semester 1 (Total 19 SKS)
+**Semester 1** (Total 19 SKS)
 
 *	Kode : AMS121  
 	Nama : Kalkulus I  
-	APR : R  
+	APR : Responsi  
 	SKS : 4  
 
 *	Kode : AMS123  
@@ -264,12 +264,12 @@ Semester 1 (Total 19 SKS)
 
 *	Kode : APS181  
 	Nama : Fisika Dasar  
-	APR : R, P  
+	APR : Responsi, Praktikum  
 	SKS : 4  
 
 *	Kode : MKU012  
 	Nama : Logika  
-	APR : R  
+	APR : Responsi  
 	SKS : 2  
 
 *	Kode : MKU010  
@@ -277,7 +277,7 @@ Semester 1 (Total 19 SKS)
 	APR : -  
 	SKS : 2  
 
-Semester 2 (Total 19 SKS)
+**Semester 2** (Total 19 SKS)
 
 *	Kode : AMS122  
 	Nama : Kalkulus II  
@@ -314,11 +314,11 @@ Semester 2 (Total 19 SKS)
 	APR : -  
 	SKS : 2  
 
-Semester 3 (Total 18 SKS)
+**Semester 3** (Total 18 SKS)
 
 *	Kode : AMS221  
 	Nama : Kalkulus Vektor  
-	APR : R  
+	APR : Responsi  
 	SKS : 4  
 
 *	Kode : AMS231  
@@ -343,14 +343,14 @@ Semester 3 (Total 18 SKS)
 
 *	Kode : MKU008  
 	Nama : Etika  
-	APR : R  
+	APR : Responsi  
 	SKS : 2  
 
-Semester 4 (Total 18 SKS)
+**Semester 4** (Total 18 SKS)
 
 *	Kode : AMS222  
 	Nama : Aljabar Linear  
-	APR : R  
+	APR : Responsi  
 	SKS : 4  
 
 *	Kode : AMS252  
@@ -373,7 +373,7 @@ Semester 4 (Total 18 SKS)
 	APR : -  
 	SKS : 2
 
-Semester 5 (Total 19 SKS)
+**Semester 5** (Total 19 SKS)
 
 *	Kode : AMS321  
 	Nama : Fungsi Kompleks  
@@ -400,11 +400,11 @@ Semester 5 (Total 19 SKS)
 	APR : -  
 	SKS : 6  
 
-Semester 6 (Total 18 SKS)
+**Semester 6** (Total 18 SKS)
 
 *	Kode : AMS322  
 	Nama : Analisis Real  
-	APR : R  
+	APR : Responsi  
 	SKS : 4  
 
 *	Kode : MKU009  
@@ -417,7 +417,7 @@ Semester 6 (Total 18 SKS)
 	APR : -  
 	SKS : 12  
 
-Semester 7 (Total 18 SKS)
+**Semester 7** (Total 18 SKS)
 
 *	Kode : AMS490  
 	Nama : Seminar  
@@ -439,7 +439,7 @@ Semester 7 (Total 18 SKS)
 	APR : -  
 	SKS : 9  
 
-Semester 8 (Total 15 SKS)
+**Semester 8** (Total 15 SKS)
 
 *	Kode : AMS499  
 	Nama : Skripsi  
