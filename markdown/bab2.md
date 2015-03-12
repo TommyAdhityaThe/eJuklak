@@ -639,8 +639,8 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1 di bawah ini.
 *	**Kode MK :** AMS251 (prasyarat AMS122)  
 	**Nama Mata Kuliah :** Teori Peluang (*Probability Theory*)  
 	**Deskripsi Mata Kuliah :** Analisis kombinatorial, aksioma-aksioma peluang, peluang bersyarat, variabel acak, distribusi variabel acak diskret, distribusi variabel acak kontinu, distribus variabel acak gabungan, ekspektasi dan sifat-sifatnya, teorema-teorema limit termasuk teorema limit pusat.  
-*	**Kode MK :** AMS253 (prasyarat APS181, AMS151) 
-	**Nama Mata Kuliah :** Komputasi Statistika (*Statistical Computation*) 
+*	**Kode MK :** AMS253 (prasyarat APS181, AMS151)  
+	**Nama Mata Kuliah :** Komputasi Statistika (*Statistical Computation*)  
 	**Deskripsi Mata Kuliah :** Pengenalan dan dasar-dasar pemrograman dalam R, Statistika Deskriptif dengan R, Deskripsi Populasi, Selang Kepercayaan dan Uji Hipotesis, Distribusi dan Estimasi Distribusi, Integrasi Monte Carlo dan Metoda Monte Carlo untuk Inferensi.  
 *	**Kode MK :** AMS271 (prasyarat AMS126)  
 	**Nama Mata Kuliah :** Metode Matematika (*Mathematical Methods*)  
