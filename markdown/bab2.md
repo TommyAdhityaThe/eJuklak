@@ -279,72 +279,72 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 **Semester 2** (Total 19 SKS)
 
-*	Kode : AMS122  
-	Nama : Kalkulus II  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS122  
+	**Nama :** Kalkulus II  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS124  
-	Nama : Matematika Diskret  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS124  
+	**Nama :** Matematika Diskret  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS126  
-	Nama : Aljabar Matriks  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS126  
+	**Nama :** Aljabar Matriks  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AIF112  
-	Nama : Pemrograman Komputer  
-	APR : -  
-	SKS : 3  
+*	**Kode :** AIF112  
+	**Nama :** Pemrograman Komputer  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : MKU011  
-	Nama : Estetika  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU011  
+	**Nama :** Estetika  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : MKU003  
-	Nama : Agama Katolik +  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU003  
+	**Nama :** Agama Katolik +  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : MKU004  
-	Nama : Fenomenologi Agama +  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU004  
+	**Nama :** Fenomenologi Agama +  
+	**APR :** -  
+	**SKS :** 2  
 
 **Semester 3** (Total 18 SKS)
 
-*	Kode : AMS221  
-	Nama : Kalkulus Vektor  
-	APR : Responsi  
-	SKS : 4  
+*	**Kode :** AMS221  
+	**Nama :** Kalkulus Vektor  
+	**APR :** Responsi  
+	**SKS :** 4  
 
-*	Kode : AMS231  
-	Nama : Teori Suku Bunga  
-	APR : -  
-	SKS : 3  
+*	**Kode :** AMS231  
+	**Nama :** Teori Suku Bunga  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : AMS251  
-	Nama : Teori Peluang  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS251  
+	**Nama :** Teori Peluang  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS253  
-	Nama : Komputasi Statistika  
-	APR : -  
-	SKS : 2  
+*	**Kode :** AMS253  
+	**Nama :** Komputasi Statistika  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : AMS271  
-	Nama : Metoda Matematika  
-	APR : -  
-	SKS : 3  
+*	**Kode :** AMS271  
+	**Nama :** Metoda Matematika  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : MKU008  
-	Nama : Etika  
-	APR : Responsi  
-	SKS : 2  
+*	**Kode :** MKU008  
+	**Nama :** Etika  
+	**APR :** Responsi  
+	**SKS :** 2  
 
 **Semester 4** (Total 18 SKS)
 
