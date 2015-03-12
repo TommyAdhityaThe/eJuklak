@@ -249,7 +249,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 *	**Kode :** AMS121  
 	**Nama :** Kalkulus I  
-	**APR **: Responsi  
+	**APR :** Responsi  
 	**SKS :** 4  
 
 *	**Kode :** AMS123  
