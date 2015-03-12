@@ -277,7 +277,7 @@ Berikut adalah daftar nama dosen FTIS beserta, latar belakang pendidikan, mata k
 	Email: ristisuryantari@unpar.ac.id.  
 
 *	Husnul Hakim, SKom (ITS), MT (ITB):  
-	Pemrograman Berorientasi Obyek, Algoritma dan Struktur Data  
+	Pemrograman Berorientasi Objek, Algoritma dan Struktur Data  
 	Email: husnulhakim@unpar.ac.id  
 
 *	Vania Natali, S.Kom (UNPAR), studi S2 - ITB  
