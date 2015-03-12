@@ -568,36 +568,47 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 *	**Kode :** AMS323  
 	**Nama :** Geometri  
 	**SKS :** 3  
+
 *	**Kode :** AMS324  
 	**Nama :** Teori Bilangan  
 	**SKS :** 3  
+
 *	**Kode :** AMS344  
 	**Nama :** Komputasi Saintifik  
 	**SKS :** 3  
+
 *	**Kode :** AMS421  
 	**Nama :** Struktur Aljabar  
 	**SKS :** 3  
+
 *	**Kode :** AMS422  
 	**Nama :** Kriptografi  
 	**SKS :** 3  
+
 *	**Kode :** AMS423  
 	**Nama :** Teori Graf  
 	**SKS :** 3  
+
 *	**Kode :** AMS424  
 	**Nama :** Struktur Aljabar Lanjut  
 	**SKS :** 3  
+
 *	**Kode :** AMS425  
 	**Nama :** Analisis Lanjut  
 	**SKS :** 3  
+
 *	**Kode :** AMS480  
 	**Nama :** Kapita Selekta Pembelajaran Matematika  
 	**SKS :** 3  
+
 *	**Kode :** AMS381  
 	**Nama :** Inovasi Pembelajaran Matematika  
 	**SKS :** 3  
+
 *	**Kode :** AMS382  
 	**Nama :** Pembelajaran Matematika Sekolah  
 	**SKS :** 3  
+
 *	**Kode :** AMS481  
 	**Nama :** Kerja Praktek  
 	**SKS :** 3  
@@ -769,23 +780,23 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 *	**Kode :** APS207  
 	**Nama :** Fisika Matematika III  
-	**APR :** R  
+	**APR :** Responsi  
 	**SKS :** 4  
 *	**Kode :** APS213  
 	**Nama :** Gelombang  
-	**APR :** R  
+	**APR :** Responsi  
 	**SKS :** 3  
 *	**Kode :** APS215  
 	**Nama :** Fisika Thermal  
-	**APR :** R  
+	**APR :** Responsi  
 	**SKS :** 3  
 *	**Kode :** APS225  
 	**Nama :** Lab. Fisika Modern  
-	**APR :** P  
+	**APR :** Praktikum  
 	**SKS :** 3  
 *	**Kode :** APS233  
 	**Nama :** Elektronika I  
-	**APR :** P  
+	**APR :** Praktikum  
 	**SKS :** 3  
 *	**Kode :** MKU003 / MKU004  
 	**Nama :** Agama Katolik / Fenomenologi Agama  
@@ -879,7 +890,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 **Semester 7** (Total 18 SKS)
 
-*	**Kode :** APS497 
+*	**Kode :** APS497  
 	**Nama :** Tugas Akhir I  
 	**APR :** -  
 	**SKS :** 4  
@@ -917,26 +928,26 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
-*	Nomor : 1  
-	Kelompok Mata Kuliah : Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)
-*	Nomor : 2  
-	Kelompok Mata Kuliah : Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)
-*	Nomor : 3  
-	Kelompok Mata Kuliah : Fisika Komputasi, Elektronika, dan Instrumentasi
-*	Nomor : 4  
-	Kelompok Mata Kuliah : Fisika Material dan Optika
-*	Nomor : 5  
-	Kelompok Mata Kuliah : Biofisika
-*	Nomor : 6  
-	Kelompok Mata Kuliah : Fisika Bumi
-*	Nomor : 7  
-	Kelompok Mata Kuliah : Astrofisika
-*	Nomor : 8  
-	Kelompok Mata Kuliah : Matakuliah Layanan
-*	Nomor : 9  
-	Kelompok Mata Kuliah : Seminar dan Skripsi
-*	Nomor : 0  
-	Kelompok Mata Kuliah : Kuliah Dasar, Keterampilan Umum, Lain-Lain
+*	**Nomor :** 1  
+	**Kelompok Mata Kuliah :** Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)
+*	**Nomor :** 2  
+	**Kelompok Mata Kuliah :** Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)
+*	**Nomor :** 3  
+	**Kelompok Mata Kuliah :** Fisika Komputasi, Elektronika, dan Instrumentasi
+*	**Nomor :** 4  
+	**Kelompok Mata Kuliah :** Fisika Material dan Optika
+*	**Nomor :** 5  
+	**Kelompok Mata Kuliah :** Biofisika
+*	**Nomor :** 6  
+	**Kelompok Mata Kuliah :** Fisika Bumi
+*	**Nomor :** 7  
+	**Kelompok Mata Kuliah :** Astrofisika
+*	**Nomor :** 8  
+	**Kelompok Mata Kuliah :** Matakuliah Layanan
+*	**Nomor :** 9  
+	**Kelompok Mata Kuliah :** Seminar dan Skripsi
+*	**Nomor :** 0  
+	**Kelompok Mata Kuliah :** Kuliah Dasar, Keterampilan Umum, Lain-Lain
 
 
 ###2.6.2 Mata Kuliah Pilihan Program Studi Fisika
