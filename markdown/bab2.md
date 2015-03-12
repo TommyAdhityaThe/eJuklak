@@ -606,9 +606,9 @@ Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi
 
 ###2.5.3 Peta dan Prasyarat Mata Kuliah
 
-Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1 di bawah ini.  
-![Peta dan Prasyarat Matakuliah Program Studi Matematika](images/2_1.jpg)  
-**Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika**
+Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.  
+
+![Gambar 1. Peta dan Prasyarat Matakuliah Program Studi Matematika](images/2_1.jpg)  
 
 ###2.5.4 Deskripsi Singkat Mata Kuliah Prodi Matematika  
 
@@ -684,252 +684,213 @@ Peta dan prasyarat mata kuliah ditunjukkan pada Gambar 1 di bawah ini.
 
 ##2.6 Kurikulum Program Studi Fisika
 ###2.6.1 Susunan Mata Kuliah
-Semester 1 (Total 19 SKS)
+**Semester 1** (Total 19 SKS)
 
-*	Kode : APS101  
-	Nama : Pengenalan Program Studi   
-	APR : R  
-	SKS : 3  
+*	**Kode :** APS101  
+	**Nama :** Pengenalan Program Studi   
+	**APR :** Responsi  
+	**SKS :** 3  
+*	**Kode :** APS103  
+	**Nama :** Keterampilan Fisika  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** APS105  
+	**Nama :** Fisika Dasar I  
+	**APR :** Responsi, Praktikum  
+	**SKS :** 3  
+*	**Kode :** APS107  
+	**Nama :** Fisika Matematika I  
+	**APR :** Responsi  
+	**SKS :** 4  
+*	**Kode :** AIF111  
+	**Nama :** Pemrograman Komputer  
+	**APR :** Praktikum  
+	**SKS :** 3  
+*	**Kode :** ICE109  
+	**Nama :** Kimia Dasar  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** MKU011  
+	**Nama :** Estetika  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : APS103  
-	Nama : Keterampilan Fisika  
-	APR : -  
-	SKS : 2
+**Semester 2** (Total 19 SKS)
 
-*	Kode : APS105  
-	Nama : Fisika Dasar I  
-	APR : R,P  
-	SKS : 3  
-
-*	Kode : APS107  
-	Nama : Fisika Matematika I  
-	APR : R  
-	SKS : 4  
-
-*	Kode : AIF111  
-	Nama : Pemrograman Komputer  
-	APR : P  
-	SKS : 3  
-
-*	Kode : ICE109  
-	Nama : Kimia Dasar  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU011  
-	Nama : Estetika  
-	APR : -  
-	SKS : 2  
-
-Semester 2 (Total 19 SKS)
-
-*	Kode : APS106  
-	Nama : Fisika Dasar II  
-	APR : R, P  
-	SKS : 3  
-
-*	Kode : APS108  
-	Nama : Fisika Matematika II  
-	APR : R  
-	SKS : 4  
-
-*	Kode : APS112  
-	Nama : Mekanika  
-	APR : R  
-	SKS : 3  
-
-*	Kode : APS124  
-	Nama : Fisika Modern  
-	APR : -  
-	SKS : 3  
-
-*	Kode : APS132  
-	Nama : Fisika Komputasi  
-	APR : P  
-	SKS : 3  
-
-*	Kode : MKU012  
-	Nama : Logika  
-	APR : -  
-	SKS : 2  
+*	**Kode :** APS106  
+	**Nama :** Fisika Dasar II  
+	**APR :** Responsi, Praktikum  
+	**SKS :** 3  
+*	**Kode :** APS108  
+	**Nama :** Fisika Matematika II  
+	**APR :** Responsi  
+	**SKS :** 4  
+*	**Kode :** APS112  
+	**Nama :** Mekanika  
+	**APR :** Responsi  
+	**SKS :** 3  
+*	**Kode :** APS124  
+	**Nama :** Fisika Modern  
+	**APR :** -  
+	**SKS :** 3  
+*	**Kode :** APS132  
+	**Nama :** Fisika Komputasi  
+	**APR :** Praktikum  
+	**SKS :** 3  
+*	**Kode :** MKU012  
+	**Nama :** Logika  
+	**APR :** -  
+	**SKS :** 2  
 	
-Semester 3 (Total 18 SKS)
+**Semester 3** (Total 18 SKS)
 
-*	Kode : APS207  
-	Nama : Fisika Matematika III  
-	APR : R  
-	SKS : 4  
-
-*	Kode : APS213  
-	Nama : Gelombang  
-	APR : R  
-	SKS : 3  
-
-*	Kode : APS215  
-	Nama : Fisika Thermal  
-	APR : R  
-	SKS : 3  
-
-*	Kode : APS225  
-	Nama : Lab. Fisika Modern  
-	APR : P  
-	SKS : 3  
-
-*	Kode : APS233  
-	Nama : Elektronika I  
-	APR : P  
-	SKS : 3  
-
-*	Kode : MKU003 / MKU004  
-	Nama : Agama Katolik / Fenomenologi Agama  
-	APR : -  
-	SKS : 2
+*	**Kode :** APS207  
+	**Nama :** Fisika Matematika III  
+	**APR :** R  
+	**SKS :** 4  
+*	**Kode :** APS213  
+	**Nama :** Gelombang  
+	**APR :** R  
+	**SKS :** 3  
+*	**Kode :** APS215  
+	**Nama :** Fisika Thermal  
+	**APR :** R  
+	**SKS :** 3  
+*	**Kode :** APS225  
+	**Nama :** Lab. Fisika Modern  
+	**APR :** P  
+	**SKS :** 3  
+*	**Kode :** APS233  
+	**Nama :** Elektronika I  
+	**APR :** P  
+	**SKS :** 3  
+*	**Kode :** MKU003 / MKU004  
+	**Nama :** Agama Katolik / Fenomenologi Agama  
+	**APR :** -  
+	**SKS :** 2
 	
-	
-Semester 4 (Total 18 SKS)
+**Semester 4** (Total 18 SKS)
 
-*	Kode : APS204  
-	Nama : Proyek Bersama  
-	APR : -  
-	SKS : 2  
+*	**Kode :** APS204  
+	**Nama :** Proyek Bersama  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** APS208  
+	**Nama :** Fisika Matematika IV  
+	**APR :** Responsi  
+	**SKS :** 4  
+*	**Kode :** APS216  
+	**Nama :** Fisika Statistik  
+	**APR :** Responsi  
+	**SKS :** 3  
+*	**Kode :** APS222  
+	**Nama :** Listrik Magnet  
+	**APR :** Responsi  
+	**SKS :** 4  
+*	**Kode :** APS234  
+	**Nama :** Elektronika II  
+	**APR :** Praktikum  
+	**SKS :** 3  
+*	**Kode :** MKU010  
+	**Nama :** Bahasa Inggris  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : APS208  
-	Nama : Fisika Matematika IV  
-	APR : R  
-	SKS : 4  
+**Semester 5** (Total 18 SKS)
 
-*	Kode : APS216  
-	Nama : Fisika Statistik  
-	APR : R  
-	SKS : 3  
+*	**Kode :** APS323  
+	**Nama :** Elektrodinamika  
+	**APR :** Responsi  
+	**SKS :** 3  
+*	**Kode :** APS327  
+	**Nama :** Fisika Kuantum  
+	**APR :** Responsi  
+	**SKS :** 4  
+*	**Kode :** APS335  
+	**Nama :** Lab. Fisika Instrumentasi  
+	**APR :** Praktikum  
+	**SKS :** 3  
+*	**Kode :** APS341  
+	**Nama :** Pengantar Fisika Nuklir  
+	**APR :** -  
+	**SKS :** 3  
+*	**Kode :** MKU008  
+	**Nama :** Etika  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** -  
+	**Nama :** Mata Kuliah Plihan  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : APS222  
-	Nama : Listrik Magnet  
-	APR : R  
-	SKS : 4  
+**Semester 6** (Total 18 SKS)
 
-*	Kode : APS234  
-	Nama : Elektronika II  
-	APR : P  
-	SKS : 3  
+*	**Kode :** APS304  
+	**Nama :** Teknik Presentasi  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** APS328   
+	**Nama :** Mekanika Kuantum  
+	**APR :** -  
+	**SKS :** 3  
+*	**Kode :** APS342  
+	**Nama :** Pengantar Fisika Material  
+	**APR :** -  
+	**SKS :** 3  
+*	**Kode :** APS348  
+	**Nama :** Optika  
+	**APR :** -  
+	**SKS :** 3  
+*	**Kode :** APS392  
+	**Nama :** Seminar  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** MKU009  
+	**Nama :** Bahasa Indonesia  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** -  
+	**Nama :** Mata Kuliah Pilihan  
+	**APR :** -  
+	**SKS :** 3
 
-*	Kode : MKU010  
-	Nama : Bahasa Inggris  
-	APR : -  
-	SKS : 2  
+**Semester 7** (Total 18 SKS)
 
-Semester 5 (Total 18 SKS)
+*	**Kode :** APS497 
+	**Nama :** Tugas Akhir I  
+	**APR :** -  
+	**SKS :** 4  
+*	**Kode :** MKU001  
+	**Nama :** Pancasila  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** MKU002  
+	**Nama :** Kewarganegaraan  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** -  
+	**Nama :** Mata Kuliah Pilihan  
+	**APR :** -  
+	**SKS :** 9
 
-*	Kode : APS323  
-	Nama : Elektrodinamika  
-	APR : R  
-	SKS : 3  
+**Semester 8** (Total 15 SKS)
 
-*	Kode : APS327  
-	Nama : Fisika Kuantum  
-	APR : R  
-	SKS : 4  
-
-*	Kode : APS335  
-	Nama : Lab. Fisika Instrumentasi  
-	APR : P  
-	SKS : 3  
-
-*	Kode : APS341  
-	Nama : Pengantar Fisika Nuklir  
-	APR : -  
-	SKS : 3  
-
-*	Kode : MKU008  
-	Nama : Etika  
-	APR : -  
-	SKS : 2  
-
-*	Kode : -  
-	Nama : Mata Kuliah Plihan  
-	APR : -  
-	SKS : 3  
-
-Semester 6 (Total 18 SKS)
-
-*	Kode : APS304  
-	Nama : Teknik Presentasi  
-	APR : -  
-	SKS : 2
-
-*	Kode : APS328   
-	Nama : Mekanika Kuantum  
-	APR : -  
-	SKS : 3  
-
-*	Kode : APS342  
-	Nama : Pengantar Fisika Material  
-	APR : -  
-	SKS : 3  
-
-*	Kode : APS348  
-	Nama : Optika  
-	APR : -  
-	SKS : 3  
-
-*	Kode : APS392  
-	Nama : Seminar  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU009  
-	Nama : Bahasa Indonesia  
-	APR : -  
-	SKS : 2  
-
-*	Kode : -  
-	Nama : Mata Kuliah Pilihan  
-	APR : -  
-	SKS : 3
-
-Semester 7 (Total 18 SKS)
-
-*	Kode : APS497 
-	Nama : Tugas Akhir I  
-	APR : -  
-	SKS : 4  
-
-*	Kode : MKU001  
-	Nama : Pancasila  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU002  
-	Nama : Kewarganegaraan  
-	APR : -  
-	SKS : 2  
-
-*	Kode : -  
-	Nama : Mata Kuliah Pilihan  
-	APR : -  
-	SKS : 9
-
-Semester 8 (Total 15 SKS)
-
-*	Kode : APS402  
-	Nama : Etika Profesi  
-	APR : -  
-	SKS : 2  
-
-*	Kode : APS498  
-	Nama : Tugas Akhir 2  
-	APR : -  
-	SKS : 4  
-
-*	Kode : SAB315  
-	Nama : Kewirausahaan  
-	APR : -  
-	SKS : 3  
-
-*	Kode : -  
-	Nama : Mata Kuliah Pilihan  
-	APR : -  
-	SKS : 9
+*	**Kode :** APS402  
+	**Nama :** Etika Profesi  
+	**APR :** -  
+	**SKS :** 2  
+*	**Kode :** APS498  
+	**Nama :** Tugas Akhir 2  
+	**APR :** -  
+	**SKS :** 4  
+*	**Kode :** SAB315  
+	**Nama :** Kewirausahaan  
+	**APR :** -  
+	**SKS :** 3  
+*	**Kode :** -  
+	**Nama :** Mata Kuliah Pilihan  
+	**APR :** -  
+	**SKS :** 9
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
