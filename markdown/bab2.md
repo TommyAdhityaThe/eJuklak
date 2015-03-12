@@ -348,108 +348,108 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 **Semester 4** (Total 18 SKS)
 
-*	Kode : AMS222  
-	Nama : Aljabar Linear  
-	APR : Responsi  
-	SKS : 4  
+*	**Kode :** AMS222  
+	**Nama :** Aljabar Linear  
+	**APR :** Responsi  
+	**SKS :** 4  
 
-*	Kode : AMS252  
-	Nama : Statistika Matematika  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS252  
+	**Nama :** Statistika Matematika  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS261  
-	Nama : Optimasi  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS261  
+	**Nama :** Optimasi  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS272  
-	Nama : Persamaan Diferensial Biasa  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS272  
+	**Nama :** Persamaan Diferensial Biasa  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS273  
-	Nama : Komputasi Matematika  
-	APR : -  
-	SKS : 2
+*	**Kode :** AMS273  
+	**Nama :** Komputasi Matematika  
+	**APR :** -  
+	**SKS :** 2
 
 **Semester 5** (Total 19 SKS)
 
-*	Kode : AMS321  
-	Nama : Fungsi Kompleks  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS321  
+	**Nama :** Fungsi Kompleks  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS351  
-	Nama : Proses Stokastik  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS351  
+	**Nama :** Proses Stokastik  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : AMS373  
-	Nama : Metoda Numerik  
-	APR : -  
-	SKS : 3  
+*	**Kode :** AMS373  
+	**Nama :** Metoda Numerik  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : MKU002  
-	Nama : Pendidikan Kewarganegaraan  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU002  
+	**Nama :** Pendidikan Kewarganegaraan  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : ABCXYZ  
-	Nama : Pilihan  
-	APR : -  
-	SKS : 6  
+*	**Kode :** ABCXYZ  
+	**Nama :** Pilihan  
+	**APR :** -  
+	**SKS :** 6  
 
 **Semester 6** (Total 18 SKS)
 
-*	Kode : AMS322  
-	Nama : Analisis Real  
-	APR : Responsi  
-	SKS : 4  
+*	**Kode :** AMS322  
+	**Nama :** Analisis Real  
+	**APR :** Responsi  
+	**SKS :** 4  
 
-*	Kode : MKU009  
-	Nama : Bahasa Indonesia  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU009  
+	**Nama :** Bahasa Indonesia  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : ABCXYZ  
-	Nama : Pilihan  
-	APR : -  
-	SKS : 12  
+*	**Kode :** ABCXYZ  
+	**Nama :** Pilihan  
+	**APR :** -  
+	**SKS :** 12  
 
 **Semester 7** (Total 18 SKS)
 
-*	Kode : AMS490  
-	Nama : Seminar  
-	APR : -  
-	SKS : 3  
+*	**Kode :** AMS490  
+	**Nama :** Seminar  
+	**APR :** -  
+	**SKS :** 3  
 
-*	Kode : AMS491  
-	Nama : Pemodelan Matematika  
-	APR : -  
-	SKS : 4  
+*	**Kode :** AMS491  
+	**Nama :** Pemodelan Matematika  
+	**APR :** -  
+	**SKS :** 4  
 
-*	Kode : MKU001  
-	Nama : Pancasila  
-	APR : -  
-	SKS : 2  
+*	**Kode :** MKU001  
+	**Nama :** Pancasila  
+	**APR :** -  
+	**SKS :** 2  
 
-*	Kode : ABCXYZ  
-	Nama : Pilihan  
-	APR : -  
-	SKS : 9  
+*	**Kode :** ABCXYZ  
+	**Nama :** Pilihan  
+	**APR :** -  
+	**SKS :** 9  
 
 **Semester 8** (Total 15 SKS)
 
-*	Kode : AMS499  
-	Nama : Skripsi  
-	APR : -  
-	SKS : 6  
+*	**Kode :** AMS499  
+	**Nama :** Skripsi  
+	**APR :** -  
+	**SKS :** 6  
 
-*	Kode : ABCXYZ  
-	Nama : Pilihan  
-	APR : -  
-	SKS : 9  
+*	**Kode :** ABCXYZ  
+	**Nama :** Pilihan  
+	**APR :** -  
+	**SKS :** 9  
 
 ###2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
@@ -458,181 +458,145 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 **Kelompok Bidang Kajian : Rekayasa Keuangan**
 
 1.	Matematika Asuransi
-	*	Kode : AMS330  
-		Nama : Pengantar Matematika Asuransi  
-		SKS : 3  
-	*	Kode : AMS331  
-		Nama : Matematika Asuransi  
-		SKS : 3  
-	*	Kode : AMS431  
-		Nama : Metoda Statistika Asuransi  
-		SKS : 3  
-	
-	*	Kode : AMS432  
-		Nama : Teori Risiko  
-		SKS : 3  
-	
-	*	Kode : AMS430  
-		Nama : Kapita Selekta Matematika Asuransi  
-		SKS : 3  
+	*	**Kode :** AMS330  
+		**Nama :** Pengantar Matematika Asuransi  
+		**SKS :** 3  
+	*	**Kode :** AMS331  
+		**Nama :** Matematika Asuransi  
+		**SKS :** 3  
+	*	**Kode :** AMS431  
+		**Nama :** Metoda Statistika Asuransi  
+		**SKS :** 3  
+	*	**Kode :** AMS432  
+		**Nama :** Teori Risiko  
+		**SKS :** 3  
+	*	**Kode :** AMS430  
+		**Nama :** Kapita Selekta Matematika Asuransi  
+		**SKS :** 3  
 2.	Matematika Keuangan  
-	*	Kode : AMS341  
-		Nama : Komputasi Keuangan  
-		SKS : 3  
-	
-	*	Kode : AMS342  
-		Nama : Matematika Keuangan  
-		SKS : 3   
-	
-	*	Kode : AMS343  
-		Nama : Analisis Deret Waktu  
-		SKS : 3  
-	
-	*	Kode : AMS441  
-		Nama : Teori Manajemen Investasi  
-		SKS : 3
-	
-	*	Kode : AMS442  
-		Nama : Ekonometrika Keuangan  
-		SKS : 3  
-	
-	*	Kode : AMS440  
-		Nama : Kapita Selekta Matematika Keuangan  
-		SKS : 3  
+	*	**Kode :** AMS341  
+		**Nama :** Komputasi Keuangan  
+		**SKS :** 3  
+	*	**Kode :** AMS342  
+		**Nama :** Matematika Keuangan  
+		**SKS :** 3   
+	*	**Kode :** AMS343  
+		**Nama :** Analisis Deret Waktu  
+		**SKS :** 3  
+	*	**Kode :** AMS441  
+		**Nama :** Teori Manajemen Investasi  
+		**SKS :** 3  
+	*	**Kode :** AMS442  
+		**Nama :** Ekonometrika Keuangan  
+		**SKS :** 3  
+	*	**Kode :** AMS440  
+		**Nama :** Kapita Selekta Matematika Keuangan  
+		**SKS :** 3  
 3.	Optimasi dan Teori Kontrol  
-	*	Kode : AMS361  
-		Nama : Pemrograman NonLinear  
-		SKS : 3   
-	
-	*	Kode : AMS461  
-		Nama : Kontrol Optimum  
-		SKS : 3  
-	
-	*	Kode : AMS462  
-		Nama : Kontrol Linear  
-		SKS : 3  
+	*	**Kode :** AMS361  
+		**Nama :** Pemrograman NonLinear  
+		**SKS :** 3   
+	*	**Kode :** AMS461  
+		**Nama :** Kontrol Optimum  
+		**SKS :** 3  
+	*	**Kode :** AMS462  
+		**Nama :** Kontrol Linear  
+		**SKS :** 3  
 4.	Statistika & Penelitian Operasional
-	*	Kode : AMS352  
-		Nama : Pemrograman Stokastik  
-		SKS : 3  
-	
-	*	Kode : AMS353  
-		Nama : Pengendalian Mutu  
-		SKS : 3  
-	
-	*	Kode : AMS354  
-		Nama : Model Statistika  
-		SKS : 3  
-	
-	*	Kode : AMS451  
-		Nama : Teori Permainan  
-		SKS : 3  
-	
-	*	Kode : AMS452  
-		Nama : Proyek Pemodelan  
-		SKS : 3  
-	
-	*	Kode : AMS453  
-		Nama : Statistika Multivariant  
-		SKS : 3  
-	
-	*	Kode : AMS454  
-		Nama : Statistika Non Parameter  
-		SKS : 3  
-	
-	*	Kode : AMS455  
-		Nama : Perancangan Percobaan  
-		SKS : 3
-	
-	*	Kode : AMS456  
-		Nama : Teori Antrian  
-		SKS : 3  
-	
-	*	Kode : AMS457  
-		Nama : Keandalan  
-		SKS : 3  
-	
-	*	Kode : AMS350  
-		Nama : Kapita Selekta Statistika  
-		SKS : 3  
-	
-	*	Kode : AMS450  
-		Nama : Kapita Selekta Penelititan Operasional  
-		SKS : 3  
+	*	**Kode :** AMS352  
+		**Nama :** Pemrograman Stokastik  
+		**SKS :** 3  
+	*	**Kode :** AMS353  
+		**Nama :** Pengendalian Mutu  
+		**SKS :** 3  
+	*	**Kode :** AMS354  
+		**Nama :** Model Statistika  
+		**SKS :** 3  
+	*	**Kode :** AMS451  
+		**Nama :** Teori Permainan  
+		**SKS :** 3  
+	*	**Kode :** AMS452  
+		**Nama :** Proyek Pemodelan  
+		**SKS :** 3  
+	*	**Kode :** AMS453  
+		**Nama :** Statistika Multivariant  
+		**SKS :** 3  
+	*	**Kode :** AMS454  
+		**Nama :** Statistika Non Parameter  
+		**SKS :** 3  
+	*	**Kode :** AMS455  
+		**Nama :** Perancangan Percobaan  
+		**SKS :** 3  
+	*	**Kode :** AMS456  
+		**Nama :** Teori Antrian  
+		**SKS :** 3  
+	*	**Kode :** AMS457  
+		**Nama :** Keandalan  
+		**SKS :** 3  
+	*	**Kode :** AMS350  
+		**Nama :** Kapita Selekta Statistika  
+		**SKS :** 3  
+	*	**Kode :** AMS450  
+		**Nama :** Kapita Selekta Penelititan Operasional  
+		**SKS :** 3  
 5.	Matematika Terapan
-	*	Kode : AMS471  
-		Nama : Sistem Dinamik  
-		SKS : 3  
-	
-	*	Kode : AMS472  
-		Nama : Matematika Biologi  
-		SKS : 3  
-	
-	*	Kode : AMS371  
-		Nama : Persamaan Diferensial Parsial  
-		SKS : 3  
-	
-	*	Kode : AMS372  
-		Nama : Metoda Matematika Lanjut  
-		SKS : 3  
-	
-	*	Kode : AMS374  
-		Nama : Analisis Numerik  
-		SKS : 3  
-	
-	*	Kode : AMS470  
-		Nama : Kapita Selekta Matematika Terapan  
-		SKS : 3  
+	*	**Kode :** AMS471  
+		**Nama :** Sistem Dinamik  
+		**SKS :** 3  
+	*	**Kode :** AMS472  
+		**Nama :** Matematika Biologi  
+		**SKS :** 3  
+	*	**Kode :** AMS371  
+		**Nama :** Persamaan Diferensial Parsial  
+		**SKS :** 3  
+	*	**Kode :** AMS372  
+		**Nama :** Metoda Matematika Lanjut  
+		**SKS :** 3  
+	*	**Kode :** AMS374  
+		**Nama :** Analisis Numerik  
+		**SKS :** 3  
+	*	**Kode :** AMS470  
+		**Nama :** Kapita Selekta Matematika Terapan  
+		**SKS :** 3  
 
 **Lain - Lain**
 
-*	Kode : AMS323  
-	Nama : Geometri  
-	SKS : 3  
-
-*	Kode : AMS324  
-	Nama : Teori Bilangan  
-	SKS : 3  
-
-*	Kode : AMS344  
-	Nama : Komputasi Saintifik  
-	SKS : 3  
-
-*	Kode : AMS421  
-	Nama : Struktur Aljabar  
-	SKS : 3  
-
-*	Kode : AMS422  
-	Nama : Kriptografi  
-	SKS : 3  
-
-*	Kode : AMS423  
-	Nama : Teori Graf  
-	SKS : 3  
-
-*	Kode : AMS424  
-	Nama : Struktur Aljabar Lanjut  
-	SKS : 3  
-
-*	Kode : AMS425  
-	Nama : Analisis Lanjut  
-	SKS : 3  
-
-*	Kode : AMS480  
-	Nama : Kapita Selekta Pembelajaran Matematika  
-	SKS : 3  
-
-*	Kode : AMS381  
-	Nama : Inovasi Pembelajaran Matematika  
-	SKS : 3  
-
-*	Kode : AMS382  
-	Nama : Pembelajaran Matematika Sekolah  
-	SKS : 3  
-
-*	Kode : AMS481  
-	Nama : Kerja Praktek  
-	SKS : 3  
+*	**Kode :** AMS323  
+	**Nama :** Geometri  
+	**SKS :** 3  
+*	**Kode :** AMS324  
+	**Nama :** Teori Bilangan  
+	**SKS :** 3  
+*	**Kode :** AMS344  
+	**Nama :** Komputasi Saintifik  
+	**SKS :** 3  
+*	**Kode :** AMS421  
+	**Nama :** Struktur Aljabar  
+	**SKS :** 3  
+*	**Kode :** AMS422  
+	**Nama :** Kriptografi  
+	**SKS :** 3  
+*	**Kode :** AMS423  
+	**Nama :** Teori Graf  
+	**SKS :** 3  
+*	**Kode :** AMS424  
+	**Nama :** Struktur Aljabar Lanjut  
+	**SKS :** 3  
+*	**Kode :** AMS425  
+	**Nama :** Analisis Lanjut  
+	**SKS :** 3  
+*	**Kode :** AMS480  
+	**Nama :** Kapita Selekta Pembelajaran Matematika  
+	**SKS :** 3  
+*	**Kode :** AMS381  
+	**Nama :** Inovasi Pembelajaran Matematika  
+	**SKS :** 3  
+*	**Kode :** AMS382  
+	**Nama :** Pembelajaran Matematika Sekolah  
+	**SKS :** 3  
+*	**Kode :** AMS481  
+	**Nama :** Kerja Praktek  
+	**SKS :** 3  
 
 Sangat terbuka bagi seluruh mahasiswa untuk menempuh matakuliah di program studi lain di lingkungan UNPAR, dengan tetap memperhatikan persyaratan yang berlaku di Program Studi Matematika dan program studi penyelenggara matakuliah tersebut. Adapun persyaratan Matakuliah Pilihan yang berlaku di Program Studi Matematika adalah memilih salah satu Kelompok Bidang Kajian dan menempuh matakuliah pilihan Bidang Kajian minimal 15 sks.
 
