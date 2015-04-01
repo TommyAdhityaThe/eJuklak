@@ -217,6 +217,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 **Kelompok Bidang Kajian : Rekayasa Keuangan**
 
 1.	Matematika Asuransi  
+
 |Kode|Nama|SKS|
 |:------|:-------------|:-----:|
 |AMS330|Pengantar Matematika Asuransi|3|
@@ -226,6 +227,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 |AMS430|Kapita Selekta Matematika Asuransi|3|
 
 2.	Matematika Keuangan  
+
 |Kode|Nama|SKS|
 |:------|:-------------|:-----:|
 |AMS341|Komputasi Keuangan|3|
@@ -235,7 +237,8 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 |AMS442|Ekonometrika Keuangan|3|
 |AMS440|Kapita Selekta Matematika Keuangan|3|
 
-3.	Optimasi dan Teori Kontrol  
+3.	Optimasi dan Teori Kontrol
+
 |Kode|Nama|SKS|
 |:------|:-------------|:-----:|
 |AMS361|Pemrograman NonLinear|3|
@@ -243,6 +246,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 |AMS462|Kontrol Linear|3|
 
 4.	Statistika & Penelitian Operasional  
+
 |Kode|Nama|SKS|
 |:------|:-------------|:-----:|
 |AMS352|Pemrograman Stokastik|3|
@@ -259,6 +263,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 |AMS450|Kapita Selekta Penelititan Operasional|3|
 
 5.	Matematika Terapan  
+
 |Kode|Nama|SKS|
 |:------|:-------------|:-----:|
 |AMS471|Sistem Dinamik|3|
