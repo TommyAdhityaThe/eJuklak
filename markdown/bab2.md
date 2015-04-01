@@ -467,44 +467,19 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
-|||||
-|||||
-|||||
-*	**Kode :** APS497  
-	**Nama :** Tugas Akhir I  
-	**APR :** -  
-	**SKS :** 4  
-*	**Kode :** MKU001  
-	**Nama :** Pancasila  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** MKU002  
-	**Nama :** Kewarganegaraan  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** -  
-	**Nama :** Mata Kuliah Pilihan  
-	**APR :** -  
-	**SKS :** 9
+|APS497|Tugas Akhir I|-|4|
+|MKU001|Pancasila|-|2|
+|MKU002|Kewarganegaraan|-|2|
+|-|Mata Kuliah Pilihan|-|9|
 
 **Semester 8** (Total 15 SKS)
 
-*	**Kode :** APS402  
-	**Nama :** Etika Profesi  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** APS498  
-	**Nama :** Tugas Akhir 2  
-	**APR :** -  
-	**SKS :** 4  
-*	**Kode :** SAB315  
-	**Nama :** Kewirausahaan  
-	**APR :** -  
-	**SKS :** 3  
-*	**Kode :** -  
-	**Nama :** Mata Kuliah Pilihan  
-	**APR :** -  
-	**SKS :** 9
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS402|Etika Profesi|-|2|
+|APS498|Tugas Akhir 2|-|4|
+|SAB315|Kewirausahaan|-|3|
+|-|Mata Kuliah Pilihan|-|9|
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
@@ -533,156 +508,82 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 **Lain-lain**
 
-*	**Kode :** APS301  
-	**Nama :** Filsafat Sains  
-	**SKS :** 2  
-*	**Kode :** APS302  
-	**Nama :** Dunia Digital dan Sains  
-	**SKS :** 2  
-*	**Kode :** APS303  
-	**Nama :** Didaktika Umum  
-	**SKS :** 3
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS301|Filsafat Sains|2|
+|APS302|Dunia Digital dan Sains|2|
+|APS303|Didaktika Umum|3|
 
 **Kelompok Fisika Teoretik**
 
-*	**Kode :** APS311  
-	**Nama :** Dinamika Fluida  
-	**SKS :** 3  
-*	**Kode :** APS411  
-	**Nama :** Mekanika Hamiltonian  
-	**SKS :** 3  
-*	**Kode :** APS317  
-	**Nama :** Fisika Matematika Lanjut  
-	**SKS :** 3  
-*	**Kode :** APS318  
-	**Nama :** Pemodelan Matematika  
-	**SKS :** 3  
-*	**Kode :** APS418  
-	**Nama :** KapSel. Fisika Matematika  
-	**SKS :** 3  
-*	**Kode :** APS424  
-	**Nama :** Teori Relativitas  
-	**SKS :** 3  
-*	**Kode :** APS426  
-	**Nama :** Komputasi Kuantum  
-	**SKS :** 3  
-*	**Kode :** APS427  
-	**Nama :** Mekanika Kuantum Relativistik  
-	**SKS :** 3  
-*	**Kode :** APS428  
-	**Nama :** Teori Medan Kuantum  
-	**SKS :** 3  
-*	**Kode :** APS429  
-	**Nama :** KapSel. Fisika Teori  
-	**SKS :** 3
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS311|Dinamika Fluida|3|
+|APS411|Mekanika Hamiltonian|3|
+|APS317|Fisika Matematika Lanjut|3|
+|APS318|Pemodelan Matematika|3|
+|APS418|KapSel. Fisika Matematika|3|
+|APS424|Teori Relativitas|3|
+|APS426|Komputasi Kuantum|3|
+|APS427|Mekanika Kuantum Relativistik|3|
+|APS428|Teori Medan Kuantum|3|
+|APS429|KapSel. Fisika Teori|3|
 
 **Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 
-*	**Kode :** APS331  
-	**Nama :** Pemodelan Matematika Gejala Alam  
-	**SKS :** 3  
-*	**Kode :** APS332  
-	**Nama :** KapSel. Fisika Komputasi  
-	**SKS :** 3  
-*	**Kode :** APS336  
-	**Nama :** Instrumentasi Berbasis Komputer  
-	**SKS :** 3  
-*	**Kode :** APS435  
-	**Nama :** Pengantar Kontrol Otomatis  
-	**SKS :** 3  
-*	**Kode :** APS436  
-	**Nama :** KapSel. Fisika Instrumentasi  
-	**SKS :** 3  
-		
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS331|Pemodelan Matematika Gejala Alam|3|
+|APS332|KapSel. Fisika Komputasi|3|
+|APS336|Instrumentasi Berbasis Komputer|3|
+|APS435|Pengantar Kontrol Otomatis|3|
+|APS436|KapSel. Fisika Instrumentasi|3|
+
 **Kelompok Biofisika**
 
-*	**Kode :** APS350  
-	**Nama :** Fisika Instrumentasi Medis  
-	**SKS :** 3  
-*	**Kode :** APS351  
-	**Nama :** Biofisika  
-	**SKS :** 3  
-*	**Kode :** APS352  
-	**Nama :** Fisika Kedokteran  
-	**SKS :** 3  
-*	**Kode :** APS458  
-	**Nama :** Kapita Selekta Biofisika  
-	**SKS :** 3  
-*	**Kode :** APS459  
-	**Nama :** Kapita Selekta Fisika Kedokteran  
-	**SKS :** 3 
-		
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS350|Fisika Instrumentasi Medis|3|
+|APS351|Biofisika|3|
+|APS352|Fisika Kedokteran|3|
+|APS458|Kapita Selekta Biofisika|3|
+|APS459|Kapita Selekta Fisika Kedokteran|3|
+
 **Kelompok Fisika Material dan Optika**
 
-*	**Kode :** APS343  
-	**Nama :** Struktur Materi  
-	**SKS :** 3  
-*	**Kode :** APS441  
-	**Nama :** Reologi  
-	**SKS :** 3  
-*	**Kode :** APS442  
-	**Nama :** Fisika Polimer  
-	**SKS :** 3  
-*	**Kode :** APS443  
-	**Nama :** Pengantar Kristal Cair  
-	**SKS :** 3  
-*	**Kode :** APS444  
-	**Nama :** Fisika Kristal Cair  
-	**SKS :** 3  
-*	**Kode :** APS445  
-	**Nama :** Pengantar Nanoteknologi  
-	**SKS :** 3  
-*	**Kode :** APS446  
-	**Nama :** Nanoteknologi dan Lingkungan  
-	**SKS :** -  
-*	**Kode :** APS447  
-	**Nama :** Fisika Laser  
-	**SKS :** -  
-*	**Kode :** APS448  
-	**Nama :** Hamburan dan Spektroskopi  
-	**SKS :** -  
-*	**Kode :** APS449  
-	**Nama :** Kapita Selekta Fisika Material  
-	**SKS :** -
-		
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS343|Struktur Materi|3|
+|APS441|Reologi|3|
+|APS442|Fisika Polimer|3|
+|APS443|Pengantar Kristal Cair|3|
+|APS444|Fisika Kristal Cair|3|
+|APS445|Pengantar Nanoteknologi|3|
+|APS446|Nanoteknologi dan Lingkungan|-|
+|APS447|Fisika Laser|-|
+|APS448|Hamburan dan Spektroskopi|-|
+|APS449|Kapita Selekta Fisika Material|-|
+
 **Kelompok Fisika Bumi**
 
-*	**Kode :** APS361  
-	**Nama :** Geofisika  
-	**SKS :** 3  
-*	**Kode :** APS362  
-	**Nama :** Oseanografi Fisis  
-	**SKS :** 3  
-*	**Kode :** APS363  
-	**Nama :** Pemanasan Global  
-	**SKS :** 3  
-*	**Kode :** APS364  
-	**Nama :** Cuaca dan Lingkungan  
-	**SKS :** 3  
-*	**Kode :** APS469  
-	**Nama :** Kapita Selekta Fisika Bumi  
-	**SKS :** 3  
-*	**Kode :** APS447  
-	**Nama :** Fisika Laser  
-	**SKS :** -  
-		
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS361|Geofisika|3|
+|APS362|Oseanografi Fisis|3|
+|APS363|Pemanasan Global|3|
+|APS364|Cuaca dan Lingkungan|3|
+|APS469|Kapita Selekta Fisika Bumi|3|
+|APS447|Fisika Laser|-|
+
 **Kelompok Astrofisika**
 
-*	**Kode :** APS371  
-	**Nama :** Tata Surya  
-	**SKS :** 3  
-*	**Kode :** APS372  
-	**Nama :** Bintang  
-	**SKS :** 3  
-*	**Kode :** APS373  
-	**Nama :** Kosmologi  
-	**SKS :** 3  
-*	**Kode :** APS474  
-	**Nama :** Kosmologi Relativistik  
-	**SKS :** 3  
-*	**Kode :** APS479  
-	**Nama :** Kapita Selekta Astrofisika  
-	**SKS :** 3  
+|Kode|Nama|SKS|
+|:------|:-------------|:-----:|
+|APS371|Tata Surya|3|
+|APS372|Bintang|3|
+|APS373|Kosmologi|3|
+|APS474|Kosmologi Relativistik|3|
+|APS479|Kapita Selekta Astrofisika|3|
 
 Komposisi Kuliah wajib dan pilihan adalah
 *	Kuliah Wajib = 120 sks 
