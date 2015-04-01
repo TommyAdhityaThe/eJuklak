@@ -750,257 +750,93 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 ###2.7.1 Susunan Mata Kuliah
 Semester 1 (Total 18 SKS)
 
-*	Kode : AIF101  
-	Nama : Pemrograman Berorientasi Objek   
-	APR : -  
-	SKS : 6  
-
-*	Kode : AIF103  
-	Nama : Matematika Diskret  
-	APR : -  
-	SKS : 3
-
-*	Kode : AIF105  
-	Nama : Pengantar Informatika  
-	APR : -  
-	SKS : 3  
-
-*	Kode : MKU001  
-	Nama : Pendidikan Pancasila  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU008  
-	Nama : Etika  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU010  
-	Nama : Bahasa Inggris  
-	APR : -  
-	SKS : 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF101|Pemrograman Berorientasi Objek|-|6|
+|AIF103|Matematika Diskret|-|3|
+|AIF105|Pengantar Informatika|-|3|
+|MKU001|Pendidikan Pancasila|-|2|
+|MKU008|Etika|-|2|
+|MKU010|Bahasa Inggris|-|2|
 
 Semester 2 (Total 18 SKS)
 
-*	Kode : AIF102  
-	Nama : Algoritma dan Struktur Data  
-	APR : -  
-	SKS : 4  
-
-*	Kode : AIF104  
-	Nama : Logika Informatika  
-	APR : -  
-	SKS : 3  
-
-*	Kode : AIF106  
-	Nama : Sistem Dijital  
-	APR : -  
-	SKS : 3  
-
-*	Kode : AMS100  
-	Nama : Matematika Informatika  
-	APR : -  
-	SKS : 4  
-
-*	Kode : MKU009  
-	Nama : Bahasa Indonesia  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU011  
-	Nama : Estetika  
-	APR : -  
-	SKS : 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF102|Algoritma dan Struktur Data|-|4|
+|AIF104|Logika Informatika|-|3|
+|AIF106|Sistem Dijital|-|3|
+|AMS100|Matematika Informatika|-|4|
+|MKU009|Bahasa Indonesia|-|2|
+|MKU011|Estetika|-|2|
 
 Semester 3 (Total 18 SKS)
 
-*	Kode : AIF201  
-	Nama : Analisis dan Desain Berorientasi Objek  
-	APR : -  
-	SKS : 4  
-
-*	Kode : AIF203  
-	Nama : Struktur Diskret  
-	APR : -  
-	SKS : 4  
-
-*	Kode : AIF205  
-	Nama : Arsitektur dan Organisasi Komputer  
-	APR : -  
-	SKS : 3  
-
-*	Kode : AMS200  
-	Nama : Probabilitas dan Statistika  
-	APR : -  
-	SKS : 3  
-
-*	Kode : MKU003 / MKU004  
-	Nama : Agama Katolik / Fenomenologi Agama  
-	APR : -  
-	SKS : 2  
-
-*	Kode : MKU012  
-	Nama : Logika  
-	APR : -  
-	SKS : 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF201|Analisis dan Desain Berorientasi Objek|-|4|
+|AIF203|Struktur Diskret|-|4|
+|AIF205|Arsitektur dan Organisasi Komputer|-|3|
+|AMS200|Probabilitas dan Statistika|-|3|
+|MKU003 / MKU004|Agama Katolik / Fenomenologi Agama|-|2|
+|MKU012|Logika|-|2|
 
 Semester 4 (Total 18 SKS)
 
-*	Kode : AIF202  
-	Nama : Desain dan Analisis Algoritma  
-	APR : -  
-	SKS : 4 
-
-*	Kode : AIF204  
-	Nama : Manajemen Informasi dan Basisdata  
-	APR : -  
-	SKS : 4 
-
-*	Kode : AIF206  
-	Nama : Sistem Operasi  
-	APR : -  
-	SKS : 4 
-
-*	Kode : AIF208  
-	Nama : Rekayasa Perangkat Lunak  
-	APR : -  
-	SKS : 4 
-
-*	Kode : AIF210  
-	Nama : Interaksi Manusia Komputer  
-	APR : -  
-	SKS : 2 
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF202|Desain dan Analisis Algoritma|-|4|
+|AIF204|Manajemen Informasi dan Basisdata|-|4|
+|AIF206|Sistem Operasi|-|4|
+|AIF208|Rekayasa Perangkat Lunak|-|4|
+|AIF210|Interaksi Manusia Komputer|-|2|
 
 Semester 5 (Total 18 SKS)
 
-*	Kode : AIF301  
-	Nama : Pengantar Sistem Cerdas  
-	APR : -  
-	SKS : 3 
-
-*	Kode : AIF303  
-	Nama : Pengantar Sistem Informasi  
-	APR : -  
-	SKS : 3 
-
-*	Kode : AIF305  
-	Nama : Jaringan Komputer  
-	APR : -  
-	SKS : 2 
-
-*	Kode : AIF311 (Mata Kuliah Pilihan Wajib)  
-	Nama : Pemrograman Fungsional  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIF313 (Mata Kuliah Pilihan Wajib)  
-	Nama : Grafika Komputer  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIF315 (Mata Kuliah Pilihan Wajib)  
-	Nama : Pemrograman Berbasis Web  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIF317 (Mata Kuliah Pilihan Wajib)  
-	Nama : Desain Antarmuka Grafis  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIFXXX  
-	Nama : Mata Kuliah Pilihan  
-	APR : -  
-	SKS : 2 
-
-*	Kode : MKU002  
-	Nama : Kewarganegaraan  
-	APR : -  
-	SKS : 2 
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF301|Pengantar Sistem Cerdas|-|3|
+|AIF303|Pengantar Sistem Informasi|-|3|
+|AIF305|Jaringan Komputer|-|2|
+|AIF311 (^)|Pemrograman Fungsional|R|2|
+|AIF313 (^)|Grafika Komputer|R|2|
+|AIF315 (^)|Pemrograman Berbasis Web|R|2|
+|AIF317 (^)|Desain Antarmuka Grafis|R|2|
+|AIFXXX|Mata Kuliah Pilihan|-|2|
+|MKU002|Kewarganegaraan|-|2|
 
 Semester 6 (Total 18 SKS)
 
-*	Kode : AIF302  
-	Nama : Penulisan Ilmiah  
-	APR : -  
-	SKS : 2 
-
-*	Kode : AIF304 (*)  
-	Nama : Proyek Sistem Informasi 1  
-	APR : -  
-	SKS : 3 
-
-*	Kode : AIF306 (*)  
-	Nama : Proyek Informatika  
-	APR : -  
-	SKS : 6 
-
-*	Kode : AIF312 (Mata Kuliah Pilihan Wajib)  
-	Nama : Keamanan Informasi  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIF314 (Mata Kuliah Pilihan Wajib)  
-	Nama : Pemrograman Basisdata  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIF316 (Mata Kuliah Pilihan Wajib)  
-	Nama : Komputasi Paralel  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIF318 (Mata Kuliah Pilihan Wajib)  
-	Nama : Pemrograman Aplikasi Bergerak  
-	APR : R  
-	SKS : 2 
-
-*	Kode : AIFXXX  
-	Nama : Mata Kuliah Pilihan  
-	APR : -  
-	SKS : 6 
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF302|Penulisan Ilmiah|-|2|
+|AIF304 (*)|Proyek Sistem Informasi 1|-|3|
+|AIF306 (*)|Proyek Informatika|-|6|
+|AIF312 (^)|Keamanan Informasi|R|2|
+|AIF314 (^)|Pemrograman Basisdata|R|2|
+|AIF316 (^)|Komputasi Paralel|R|2|
+|AIF318 (^)|Pemrograman Aplikasi Bergerak|R|2|
+|AIFXXX|Mata Kuliah Pilihan|-|6| 
 
 Semester 7 (Total 18 SKS)
 
-*	Kode : AIF401  
-	Nama : Skripsi 1  
-	APR : -  
-	SKS : 4 
-
-*	Kode : AIF403  
-	Nama : Komputer dan Masyarakat  
-	APR : -  
-	SKS : 3 
-
-*	Kode : AIF405 (*)  
-	Nama : Proyek Sistem Informasi 2  
-	APR : -  
-	SKS : 2 
-
-*	Kode : AIFXXX  
-	Nama : MK Pilihan  
-	APR : -  
-	SKS : 12 
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF401|Skripsi 1|-|4|
+|AIF403|Komputer dan Masyarakat|-|3|
+|AIF405 (*)|Proyek Sistem Informasi 2|-|2|
+|AIFXXX|MK Pilihan|-|12|
 
 Semester 8 (Total 18 SKS)
 
-*	Kode : AIF402  
-	Nama : Skripsi 2  
-	APR : -  
-	SKS : 6 
-
-*	Kode : AIFXXX  
-	Nama : Mata Kuliah Pilihan  
-	APR : -  
-	SKS : 10 
-
-*	Kode : APS402  
-	Nama : Etika Profesi  
-	APR : -  
-	SKS : 2 
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|AIF402|Skripsi 2|-|6|
+|AIFXXX|Mata Kuliah Pilihan|-|10|
+|APS402|Etika Profesi|-|2|
 
 Keterangan :
-*	Mata kuliah pilihan wajib  
+*	Mata kuliah pilihan wajib(^)  
 	Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut.
 *	Mata kuliah proyek (*)
 	Mahasiswa harus lulus salah satu dari :
