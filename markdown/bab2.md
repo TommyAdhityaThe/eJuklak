@@ -397,176 +397,79 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 ###2.6.1 Susunan Mata Kuliah
 **Semester 1** (Total 19 SKS)
 
-*	**Kode :** APS101  
-	**Nama :** Pengenalan Program Studi   
-	**APR :** Responsi  
-	**SKS :** 3  
-*	**Kode :** APS103  
-	**Nama :** Keterampilan Fisika  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** APS105  
-	**Nama :** Fisika Dasar I  
-	**APR :** Responsi, Praktikum  
-	**SKS :** 3  
-*	**Kode :** APS107  
-	**Nama :** Fisika Matematika I  
-	**APR :** Responsi  
-	**SKS :** 4  
-*	**Kode :** AIF111  
-	**Nama :** Pemrograman Komputer  
-	**APR :** Praktikum  
-	**SKS :** 3  
-*	**Kode :** ICE109  
-	**Nama :** Kimia Dasar  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** MKU011  
-	**Nama :** Estetika  
-	**APR :** -  
-	**SKS :** 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS101|Pengenalan Program Studi|-|3|
+|APS103|Keterampilan Fisika|-|2|
+|APS105|Fisika Dasar I|R,P|3|
+|APS107|Fisika Matematika I|R|4|
+|AIF111|Pemrograman Komputer|P|3|
+|ICE109|Kimia Dasar|-|2|
+|MKU011|Estetika|-|2|
 
 **Semester 2** (Total 19 SKS)
 
-*	**Kode :** APS106  
-	**Nama :** Fisika Dasar II  
-	**APR :** Responsi, Praktikum  
-	**SKS :** 3  
-*	**Kode :** APS108  
-	**Nama :** Fisika Matematika II  
-	**APR :** Responsi  
-	**SKS :** 4  
-*	**Kode :** APS112  
-	**Nama :** Mekanika  
-	**APR :** Responsi  
-	**SKS :** 3  
-*	**Kode :** APS124  
-	**Nama :** Fisika Modern  
-	**APR :** -  
-	**SKS :** 3  
-*	**Kode :** APS132  
-	**Nama :** Fisika Komputasi  
-	**APR :** Praktikum  
-	**SKS :** 3  
-*	**Kode :** MKU012  
-	**Nama :** Logika  
-	**APR :** -  
-	**SKS :** 2  
-	
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS106|Fisika Dasar II|R,P|3|
+|APS108|Fisika Matematika II|R|4|
+|APS112|Mekanika|R|3|
+|APS124|Fisika Modern|-|3|
+|APS132|Fisika Komputasi|P|3|
+|MKU012|Logika|-|2|
+
 **Semester 3** (Total 18 SKS)
 
-*	**Kode :** APS207  
-	**Nama :** Fisika Matematika III  
-	**APR :** Responsi  
-	**SKS :** 4  
-*	**Kode :** APS213  
-	**Nama :** Gelombang  
-	**APR :** Responsi  
-	**SKS :** 3  
-*	**Kode :** APS215  
-	**Nama :** Fisika Thermal  
-	**APR :** Responsi  
-	**SKS :** 3  
-*	**Kode :** APS225  
-	**Nama :** Lab. Fisika Modern  
-	**APR :** Praktikum  
-	**SKS :** 3  
-*	**Kode :** APS233  
-	**Nama :** Elektronika I  
-	**APR :** Praktikum  
-	**SKS :** 3  
-*	**Kode :** MKU003 / MKU004  
-	**Nama :** Agama Katolik / Fenomenologi Agama  
-	**APR :** -  
-	**SKS :** 2
-	
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS207|Fisika Matematika III|R|4|
+|APS213|Gelombang|R|3|
+|APS215|Fisika Thermal|R|3|
+|APS225|Lab. Fisika Modern|P|3|
+|APS233|Elektronika I|P|3|
+|MKU003 / MKU004|Agama Katolik / Fenomenologi Agama|-|2|
+
 **Semester 4** (Total 18 SKS)
 
-*	**Kode :** APS204  
-	**Nama :** Proyek Bersama  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** APS208  
-	**Nama :** Fisika Matematika IV  
-	**APR :** Responsi  
-	**SKS :** 4  
-*	**Kode :** APS216  
-	**Nama :** Fisika Statistik  
-	**APR :** Responsi  
-	**SKS :** 3  
-*	**Kode :** APS222  
-	**Nama :** Listrik Magnet  
-	**APR :** Responsi  
-	**SKS :** 4  
-*	**Kode :** APS234  
-	**Nama :** Elektronika II  
-	**APR :** Praktikum  
-	**SKS :** 3  
-*	**Kode :** MKU010  
-	**Nama :** Bahasa Inggris  
-	**APR :** -  
-	**SKS :** 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS204|Proyek Bersama|-|2|
+|APS208|Fisika Matematika IV|R|4|
+|APS216|Fisika Statistik|R|3|
+|APS222|Listrik Magnet|R|4|
+|APS234|Elektronika II|P|3|
+|MKU010|Bahasa Inggris|-|2|
 
 **Semester 5** (Total 18 SKS)
 
-*	**Kode :** APS323  
-	**Nama :** Elektrodinamika  
-	**APR :** Responsi  
-	**SKS :** 3  
-*	**Kode :** APS327  
-	**Nama :** Fisika Kuantum  
-	**APR :** Responsi  
-	**SKS :** 4  
-*	**Kode :** APS335  
-	**Nama :** Lab. Fisika Instrumentasi  
-	**APR :** Praktikum  
-	**SKS :** 3  
-*	**Kode :** APS341  
-	**Nama :** Pengantar Fisika Nuklir  
-	**APR :** -  
-	**SKS :** 3  
-*	**Kode :** MKU008  
-	**Nama :** Etika  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** -  
-	**Nama :** Mata Kuliah Plihan  
-	**APR :** -  
-	**SKS :** 3  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS323|Elektrodinamika|R|3|
+|APS327|Fisika Kuantum|R|4|
+|APS335|Lab. Fisika Instrumentasi|P|3|
+|APS341|Pengantar Fisika Nuklir|-|3|
+|MKU008|Etika|-|2|
+|-|Mata Kuliah Plihan|-|3|
 
 **Semester 6** (Total 18 SKS)
 
-*	**Kode :** APS304  
-	**Nama :** Teknik Presentasi  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** APS328   
-	**Nama :** Mekanika Kuantum  
-	**APR :** -  
-	**SKS :** 3  
-*	**Kode :** APS342  
-	**Nama :** Pengantar Fisika Material  
-	**APR :** -  
-	**SKS :** 3  
-*	**Kode :** APS348  
-	**Nama :** Optika  
-	**APR :** -  
-	**SKS :** 3  
-*	**Kode :** APS392  
-	**Nama :** Seminar  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** MKU009  
-	**Nama :** Bahasa Indonesia  
-	**APR :** -  
-	**SKS :** 2  
-*	**Kode :** -  
-	**Nama :** Mata Kuliah Pilihan  
-	**APR :** -  
-	**SKS :** 3
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|APS304|Teknik Presentasi|-|2|
+|APS328|Mekanika Kuantum|-|3|
+|APS342|Pengantar Fisika Material|-|3|
+|APS348|Optika|-|3|
+|APS392|Seminar|-|2|
+|MKU009|Bahasa Indonesia|-|2|
+|-|Mata Kuliah Pilihan|-|3|
 
 **Semester 7** (Total 18 SKS)
 
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------:|
+|||||
+|||||
+|||||
 *	**Kode :** APS497  
 	**Nama :** Tugas Akhir I  
 	**APR :** -  
