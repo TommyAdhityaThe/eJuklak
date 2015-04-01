@@ -35,7 +35,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ###2.3.1 Kuliah Layanan Program Studi Matematika
 
 | Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
-|:------|:-------------|:-----|:---------------------|
+|:------|:-------------|:-----:|:---------------------|
 |AMS100|Matematika Informatika|4|Teknik Informatika|
 |AMS200|Probabilitas dan Statistika|3|Teknik Informatika|
 |AMS107|Fisika Matematika|4|Fisika|
@@ -55,7 +55,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ###2.3.2 Kuliah Layanan Program Studi Fisika
 
 | Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
-|:------|:-------------|:-----|:---------------------|
+|:------|:-------------|:-----:|:---------------------|
 |APS181|Fisika Dasar|4|Matematika|
 |APS182|Fisika Dasar|3|Teknik Sipil|
 |APS183|Fisika Dasar I|2|Teknik Industri|
@@ -71,7 +71,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ###2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
 | Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
-|:------|:-------------|:-----|:---------------------|
+|:------|:-------------|:-----:|:---------------------|
 |AKS144|Pemrograman Komputer|3|Matematika|
 
 ##2.4 Matakuliah Umum
@@ -79,41 +79,17 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Lembaga Pengembangan Humaniora (LPH). Silabus, jadwal kuliah, materi, dan penyediaan serta penugasan dosen seluruhnya diatur oleh LPH. Semester penyelenggaraan setiap MKU disesuaikan dengan kurikulum masing-masing prodi. 
 
 ###2.4.1 Susunan Matakuliah Umum
-*	**Kode :** MKU001  
-	**Mata Kuliah :** Pendidikan Pancasila  
-	**SKS :** 2  
-
-*	**Kode :** MKU002  
-	**Mata Kuliah :** Pendidikan Kewarganegaraan  
-	**SKS :** 2  
-
-*	**Kode :** MKU003  
-	**Mata Kuliah :** Agama Katolik  
-	**SKS : 2
-
-*	**Kode :** MKU004  
-	**Mata Kuliah :** Fenomenologi Agama  
-	**SKS :** 2  
-
-*	**Kode :** MKU008  
-	**Mata Kuliah :** Etika  
-	**SKS :** 2  
-
-*	**Kode :** MKU009  
-	**Mata Kuliah :** Bahasa Indonesia  
-	**SKS :** 2  
-
-*	**Kode :** MKU010  
-	**Mata Kuliah :** Bahasa Inggris  
-	**SKS :** 2  
-
-*	**Kode :** MKU011  
-	**Mata Kuliah :** Estetika  
-	**SKS :** 2  
-
-*	**Kode :** MKU012  
-	**Mata Kuliah :** Logika  
-	**SKS :** 2  
+| Kode | Mata Kuliah | SKS |
+|:------|:-------------|:-----:|
+|MKU001|Pendidikan Pancasila|2|
+|MKU002|Pendidikan Kewarganegaraan|2|
+|MKU003|Agama Katolik|2|
+|MKU004|Fenomenologi Agama|2|
+|MKU008|Etika|2|
+|MKU009|Bahasa Indonesia|2|
+|MKU010|Bahasa Inggris|2|
+|MKU011|Estetika|2|
+|MKU012|Logika|2|
 
 ###2.4.2 Uraian Singkat Matakuliah Umum
 *	**Nama MK :** MKU001  
@@ -158,209 +134,81 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 ###2.5.1 Susunan Mata Kuliah
 **Semester 1** (Total 19 SKS)
 
-*	**Kode :** AMS121  
-	**Nama :** Kalkulus I  
-	**APR :** Responsi  
-	**SKS :** 4  
-
-*	**Kode :** AMS123  
-	**Nama :** Pemecahan Masalah Matematika  
-	**APR :** -  
-	**SKS :** 3  
-
-*	**Kode :** AMS151  
-	**Nama :** Statistika Elementer  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** APS181  
-	**Nama :** Fisika Dasar  
-	**APR :** Responsi, Praktikum  
-	**SKS :** 4  
-
-*	**Kode :** MKU012  
-	**Nama :** Logika  
-	**APR :** Responsi  
-	**SKS :** 2  
-
-*	**Kode :** MKU010  
-	**Nama :** Bahasa Inggris  
-	**APR :** -  
-	**SKS :** 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS121|Kalkulus I|R|4|
+|AMS123|Pemecahan Masalah Matematika|-|3|
+|AMS151|Statistika Elementer|-|4|
+|APS181|Fisika Dasar|R,P|4|
+|MKU012|Logika|R|2|
+|MKU010|Bahasa Inggris|-|2|
 
 **Semester 2** (Total 19 SKS)
 
-*	**Kode :** AMS122  
-	**Nama :** Kalkulus II  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS124  
-	**Nama :** Matematika Diskret  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS126  
-	**Nama :** Aljabar Matriks  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AIF112  
-	**Nama :** Pemrograman Komputer  
-	**APR :** -  
-	**SKS :** 3  
-
-*	**Kode :** MKU011  
-	**Nama :** Estetika  
-	**APR :** -  
-	**SKS :** 2  
-
-*	**Kode :** MKU003  
-	**Nama :** Agama Katolik +  
-	**APR :** -  
-	**SKS :** 2  
-
-*	**Kode :** MKU004  
-	**Nama :** Fenomenologi Agama +  
-	**APR :** -  
-	**SKS :** 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS122|Kalkulus II|-|4|
+|AMS124|Matematika Diskret|-|4|
+|AMS126|Aljabar Matriks|-|4|
+|AIF112|Pemrograman Komputer|-|3|
+|MKU011|Estetika|-|2|
+|MKU003|Agama Katolik +|-|2|
+|MKU004|Fenomenologi Agama +|-|2|
 
 **Semester 3** (Total 18 SKS)
 
-*	**Kode :** AMS221  
-	**Nama :** Kalkulus Vektor  
-	**APR :** Responsi  
-	**SKS :** 4  
-
-*	**Kode :** AMS231  
-	**Nama :** Teori Suku Bunga  
-	**APR :** -  
-	**SKS :** 3  
-
-*	**Kode :** AMS251  
-	**Nama :** Teori Peluang  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS253  
-	**Nama :** Komputasi Statistika  
-	**APR :** -  
-	**SKS :** 2  
-
-*	**Kode :** AMS271  
-	**Nama :** Metoda Matematika  
-	**APR :** -  
-	**SKS :** 3  
-
-*	**Kode :** MKU008  
-	**Nama :** Etika  
-	**APR :** Responsi  
-	**SKS :** 2  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS221|Kalkulus Vektor|R|4|
+|AMS231|Teori Suku Bunga|-|3|
+|AMS251|Teori Peluang|-|4|
+|AMS253|Komputasi Statistika|-|2|
+|AMS271|Metoda Matematika|-|3|
+|MKU008|Etika|R|2|
 
 **Semester 4** (Total 18 SKS)
 
-*	**Kode :** AMS222  
-	**Nama :** Aljabar Linear  
-	**APR :** Responsi  
-	**SKS :** 4  
-
-*	**Kode :** AMS252  
-	**Nama :** Statistika Matematika  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS261  
-	**Nama :** Optimasi  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS272  
-	**Nama :** Persamaan Diferensial Biasa  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS273  
-	**Nama :** Komputasi Matematika  
-	**APR :** -  
-	**SKS :** 2
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS222|Aljabar Linear|R|4|
+|AMS252|Statistika Matematika|-|4|
+|AMS261|Optimasi|-|4|
+|AMS272|Persamaan Diferensial Biasa|-|4|
+|AMS273|Komputasi Matematika|-|2|
 
 **Semester 5** (Total 19 SKS)
 
-*	**Kode :** AMS321  
-	**Nama :** Fungsi Kompleks  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS351  
-	**Nama :** Proses Stokastik  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** AMS373  
-	**Nama :** Metoda Numerik  
-	**APR :** -  
-	**SKS :** 3  
-
-*	**Kode :** MKU002  
-	**Nama :** Pendidikan Kewarganegaraan  
-	**APR :** -  
-	**SKS :** 2  
-
-*	**Kode :** ABCXYZ  
-	**Nama :** Pilihan  
-	**APR :** -  
-	**SKS :** 6  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS321|Fungsi Kompleks|-|4|
+|AMS351|Proses Stokastik|-|4|
+|AMS373|Metoda Numerik|-|3|
+|MKU002|Pendidikan Kewarganegaraan|-|2|
+|ABCXYZ|Pilihan|-|6|
 
 **Semester 6** (Total 18 SKS)
 
-*	**Kode :** AMS322  
-	**Nama :** Analisis Real  
-	**APR :** Responsi  
-	**SKS :** 4  
-
-*	**Kode :** MKU009  
-	**Nama :** Bahasa Indonesia  
-	**APR :** -  
-	**SKS :** 2  
-
-*	**Kode :** ABCXYZ  
-	**Nama :** Pilihan  
-	**APR :** -  
-	**SKS :** 12  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS322|Analisis Real|R|4|
+|MKU009|Bahasa Indonesia|-|2|
+|ABCXYZ|Pilihan|-|12|
 
 **Semester 7** (Total 18 SKS)
 
-*	**Kode :** AMS490  
-	**Nama :** Seminar  
-	**APR :** -  
-	**SKS :** 3  
-
-*	**Kode :** AMS491  
-	**Nama :** Pemodelan Matematika  
-	**APR :** -  
-	**SKS :** 4  
-
-*	**Kode :** MKU001  
-	**Nama :** Pancasila  
-	**APR :** -  
-	**SKS :** 2  
-
-*	**Kode :** ABCXYZ  
-	**Nama :** Pilihan  
-	**APR :** -  
-	**SKS :** 9  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS490|Seminar|-|3|
+|AMS491|Pemodelan Matematika|-|4|
+|MKU001|Pancasila|-|2|
+|ABCXYZ|Pilihan|-|9|
 
 **Semester 8** (Total 15 SKS)
 
-*	**Kode :** AMS499  
-	**Nama :** Skripsi  
-	**APR :** -  
-	**SKS :** 6  
-
-*	**Kode :** ABCXYZ  
-	**Nama :** Pilihan  
-	**APR :** -  
-	**SKS :** 9  
+|Kode|Nama|APR|SKS|
+|:------|:-------------|:-----:|:---------------------|
+|AMS499|Skripsi|-|6|
+|ABCXYZ|Pilihan|-|9|
 
 ###2.5.2 Mata Kuliah Pilihan Program Studi Matematika
 
