@@ -34,75 +34,23 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 
 ###2.3.1 Kuliah Layanan Program Studi Matematika
 
-*	**Kode :** AMS100  
-	**Mata Kuliah :** Matematika Informatika  
-	**SKS :** 4  
-	**Prodi yang dilayani :** Teknik Informatika  
+| Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
+|:------|:-------------|:-----|:---------------------|
+|AMS100|Matematika Informatika|4|Teknik Informatika|
+|AMS200|Probabilitas dan Statistika|3|Teknik Informatika|
+|AMS107|Fisika Matematika|4|Fisika|
+|AMS108|Fisika Matematika II|4|Fisika|
+|AMS103|Kalkulus I|2|Teknik Industri|
+|AMS104|Kalkulus II|2|Teknik Industri|
+|AMS203|Matriks dan Ruang Vektor|3|Teknik Industri|
+|AMS204|Kalkulus Peubah Banyak|2|Teknik Industri|
+|AMS105|Kalkulus I|3|Teknik Kimia|
+|AMS106|Kalkulus II|3|Teknik Kimia|
+|AMS101|Matematika 1|3|Teknik Sipil|
+|AMS102|Matematika 2|3|Teknik Sipil|
+|AMS201|Matematika 3|3|Teknik Sipil|
+|AMS202|Matematika 4|3|Teknik Sipil|
 
-*	**Kode :** AMS200  
-	**Mata Kuliah :** Probabilitas dan Statistika  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Informatika   
-
-*	**Kode :** AMS107  
-	**Mata Kuliah :** Fisika Matematika I  
-	**SKS :** 4  
-	**Prodi yang dilayani :** Fisika  
-	
-*	**Kode :** AMS108  
-	**Mata Kuliah :** Fisika Matematika II  
-	**SKS :** 4  
-	**Prodi yang dilayani :** Fisika  
-
-*	**Kode :** AMS103  
-	**Mata Kuliah :** Kalkulus I  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Industri  
-
-*	**Kode :** AMS104  
-	**Mata Kuliah :** Kalkulus II  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Industri  
-
-*	**Kode :** AMS203  
-	**Mata Kuliah :** Matriks dan Ruang Vektor  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Industri  
-
-*	**Kode :** AMS204  
-	**Mata Kuliah :** Kalkulus Peubah Banyak  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Industri  
-
-*	**Kode :** AMS105  
-	**Mata Kuliah :** Kalkulus I  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Kimia  
-
-*	**Kode :** AMS106  
-	**Mata Kuliah :** Kalkulus II  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Kimia  
-
-*	**Kode :** AMS101  
-	**Mata Kuliah :** Matematika 1  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Sipil  
-
-*	**Kode :** AMS102  
-	**Mata Kuliah :** Matematika 2  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Sipil  
-
-*	**Kode :** AMS201  
-	**Mata Kuliah :** Matematika 3  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Sipil  
-
-*	**Kode :** AMS202  
-	**Mata Kuliah :** Matematika 4  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Sipil
 	
 ###2.3.2 Kuliah Layanan Program Studi Fisika
 
