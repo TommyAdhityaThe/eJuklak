@@ -54,62 +54,25 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 	
 ###2.3.2 Kuliah Layanan Program Studi Fisika
 
-*	**Kode :** APS181  
-	**Mata Kuliah :** Fisika Dasar  
-	**SKS :** 4  
-	**Prodi yang dilayani :** Matematika  
+| Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
+|:------|:-------------|:-----|:---------------------|
+|APS181|Fisika Dasar|4|Matematika|
+|APS182|Fisika Dasar|3|Teknik Sipil|
+|APS183|Fisika Dasar I|2|Teknik Industri|
+|APS184|Fisika Dasar II|2|Teknik Industri|
+|APS185|Fisika Dasar I|2|Teknik Kimia|
+|APS186|Fisika Dasar II|2|Teknik Kimia|
+|APS187|Praktikum Fisika Dasar|1|Matematika|
+|APS188|Praktikum Fisika Dasar|1|Teknik Sipil|
+|APS189|Praktikum Fisika Dasar|1|Teknik Industri|
+|FFT113|Kosmologi|2|Filsafat|
 
-*	**Kode :** APS182  
-	**Mata Kuliah :** Fisika Dasar  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Teknik Sipil  
-
-*	**Kode :** APS183  
-	**Mata Kuliah :** Fisika Dasar I  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Industri  
-
-*	**Kode :** APS184  
-	**Mata Kuliah :** Fisika Dasar II  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Industri  
-
-*	**Kode :** APS185  
-	**Mata Kuliah :** Fisika Dasar I  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Kimia  
-
-*	**Kode :** APS186  
-	**Mata Kuliah :** Fisika Dasar II  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Teknik Kimia  
-
-*	**Kode :** APS187  
-	**Mata Kuliah :** Praktikum Fisika Dasar  
-	**SKS :** 1  
-	**Prodi yang dilayani :** Matematika  
-
-*	**Kode :** APS188  
-	**Mata Kuliah :** Praktikum Fisika Dasar  
-	**SKS :** 1  
-	**Prodi yang dilayani :** Teknik Sipil  
-
-*	**Kode :** APS189  
-	**Mata Kuliah :** Praktikum Fisika Dasar  
-	**SKS :** 1  
-	**Prodi yang dilayani :** Teknik Industri   
-
-*	**Kode :** FFT113  
-	**Mata Kuliah :** Kosmologi  
-	**SKS :** 2  
-	**Prodi yang dilayani :** Filsafat  
 
 ###2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
-*	**Kode :** AKS144  
-	**Mata Kuliah :** Pemrograman Komputer  
-	**SKS :** 3  
-	**Prodi yang dilayani :** Matematika  
+| Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
+|:------|:-------------|:-----|:---------------------|
+|AKS144|Pemrograman Komputer|3|Matematika|
 
 ##2.4 Matakuliah Umum
 
