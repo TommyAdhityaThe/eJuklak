@@ -181,7 +181,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ###3.4.2 Prosedur Cuti Studi
 
 1.	Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi **_rekomendasi dosen wali_** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut. 
-2.	Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah financial, atau (c) masalah pribadi lainnya. 
+2.	Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya. 
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4.	Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5.	Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
@@ -189,8 +189,9 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
    * Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan). 
 6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
    * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
-   * Mendapat ijin dari WR-1.
-   Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan**.
+   * Mendapat ijin dari WR-1.  
+
+   Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan**.  
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi**.
 
 ###3.4.3 Gencat studi  
@@ -205,9 +206,9 @@ Adapun **prosedur pengaktifan kembali status mahasiswa setelah gencat studi** ad
 2. Dekan FTIS dapat mengabulkan atau menolak permohonan mahasiswa tersebut di atas berdasarkan pertimbangan akademik.  
 3. Keputusan Dekan FTIS tersebut diberitahukan pula kepada WR-1, WR-2, Kepala BAA, dan Kepala BIKEU.  
 4. Dalam hal Dekan FTIS mengabulkan permohonan mahasiswa tersebut di atas, mahasiswa yang bersangkutan  
-   a.	Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.  
-   b.	Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.  
-   c.	Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.  
+   *	Dikenakan **sanksi keuangan** berupa pelunasan **200% (dua ratus persen)** Sumbangan Pengembangan sesuai dengan tarif yang berlaku di lingkungan UNPAR untuk semester selama gencat studi.  
+   *	Dikenakan **sanksi akademik** berupa hak tempuh sebanyak **12 SKS** pada semester dimana mahasiswa yang bersangkutan mulai aktif kembali, kecuali jika diijinkan oleh Dekan FTIS untuk menempuh **maksimal 18 SKS** berdasarkan pertimbangan yang sah.  
+   *	Dapat kehilangan status sebagai mahasiswa UNPAR jika tidak memenuhi butir a. di atas.  
 
 ##3.5 Pengunduran Diri Sebagai Mahasiswa  
 Prosedur pengunduran diri sebagai mahasiswa di lingkungan UNPAR adalah sebagai berikut :  
