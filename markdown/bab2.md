@@ -1087,9 +1087,9 @@ Peta dan prasyarat mata kuliah ditunukkan pada gambar di bawah ini.
 	**Prasyarat :** -  
 	**Deskripsi Mata Kuliah :** Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.  
 
-*	**Kode MK :** AIF403 (prasyarat sudah lulus 72 SKS) 
+*	**Kode MK :** AIF403  
 	**Nama Mata Kuliah :** Komputer & Masyarakat (*Computer & Society*)  
-	**Prasyarat :** -  
+	**Prasyarat :** Lulus 72 SKS  
 	**Deskripsi Mata Kuliah :** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK.  
 
 *	**Kode MK :** AIF405  
