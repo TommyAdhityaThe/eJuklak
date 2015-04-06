@@ -154,6 +154,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |MKU011|Estetika|-|2|
 |MKU003|Agama Katolik +|-|2|
 |MKU004|Fenomenologi Agama +|-|2|
+Keterangan: (+) pilih salah satu  
 
 **Semester 3** (Total 18 SKS)
 
@@ -218,60 +219,60 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 
 *	Matematika Asuransi  
 
-|Kode|Nama|SKS|
-|:------|:-------------|:-----:|
-|AMS330|Pengantar Matematika Asuransi|3|
-|AMS331|Matematika Asuransi|3|
-|AMS431|Metoda Statistika Asuransi|3|
-|AMS432|Teori Risiko|3|
-|AMS430|Kapita Selekta Matematika Asuransi|3|
+	|Kode|Nama|SKS|
+	|:------|:-------------|:-----:|
+	|AMS330|Pengantar Matematika Asuransi|3|
+	|AMS331|Matematika Asuransi|3|
+	|AMS431|Metoda Statistika Asuransi|3|
+	|AMS432|Teori Risiko|3|
+	|AMS430|Kapita Selekta Matematika Asuransi|3|
 
 *	Matematika Keuangan  
 
-|Kode|Nama|SKS|
-|:------|:-------------|:-----:|
-|AMS341|Komputasi Keuangan|3|
-|AMS342|Matematika Keuangan|3|
-|AMS343|Analisis Deret Waktu|3|
-|AMS441|Teori Manajemen Investasi|3|
-|AMS442|Ekonometrika Keuangan|3|
-|AMS440|Kapita Selekta Matematika Keuangan|3|
+	|Kode|Nama|SKS|
+	|:------|:-------------|:-----:|
+	|AMS341|Komputasi Keuangan|3|
+	|AMS342|Matematika Keuangan|3|
+	|AMS343|Analisis Deret Waktu|3|
+	|AMS441|Teori Manajemen Investasi|3|
+	|AMS442|Ekonometrika Keuangan|3|
+	|AMS440|Kapita Selekta Matematika Keuangan|3|
 
 *	Optimasi dan Teori Kontrol
 
-|Kode|Nama|SKS|
-|:------|:-------------|:-----:|
-|AMS361|Pemrograman NonLinear|3|
-|AMS461|Kontrol Optimum|3|
-|AMS462|Kontrol Linear|3|
+	|Kode|Nama|SKS|
+	|:------|:-------------|:-----:|
+	|AMS361|Pemrograman NonLinear|3|
+	|AMS461|Kontrol Optimum|3|
+	|AMS462|Kontrol Linear|3|
 
 *	Statistika & Penelitian Operasional  
 
-|Kode|Nama|SKS|
-|:------|:-------------|:-----:|
-|AMS352|Pemrograman Stokastik|3|
-|AMS353|Pengendalian Mutu|3|
-|AMS354|Model Statistika|3|
-|AMS451|Teori Permainan|3|
-|AMS452|Proyek Pemodelan|3|
-|AMS453|Statistika Multivariant|3|      
-|AMS454|Statistika Non Parameter|3|
-|AMS455|Perancangan Percobaan|3|
-|AMS456|Teori Antrian|3|
-|AMS457|Keandalan|3|
-|AMS350|Kapita Selekta Statistika|3|
-|AMS450|Kapita Selekta Penelititan Operasional|3|
+	|Kode|Nama|SKS|
+	|:------|:-------------|:-----:|
+	|AMS352|Pemrograman Stokastik|3|
+	|AMS353|Pengendalian Mutu|3|
+	|AMS354|Model Statistika|3|
+	|AMS451|Teori Permainan|3|
+	|AMS452|Proyek Pemodelan|3|
+	|AMS453|Statistika Multivariant|3|      
+	|AMS454|Statistika Non Parameter|3|
+	|AMS455|Perancangan Percobaan|3|
+	|AMS456|Teori Antrian|3|
+	|AMS457|Keandalan|3|
+	|AMS350|Kapita Selekta Statistika|3|
+	|AMS450|Kapita Selekta Penelititan Operasional|3|
 
 *	Matematika Terapan  
 
-|Kode|Nama|SKS|
-|:------|:-------------|:-----:|
-|AMS471|Sistem Dinamik|3|
-|AMS472|Matematika Biologi|3|
-|AMS371|Persamaan Diferensial Parsial|3|
-|AMS372|Metoda Matematika Lanjut|3|
-|AMS374|Analisis Numerik|3|
-|AMS470|Kapita Selekta Matematika Terapan|3|
+	|Kode|Nama|SKS|
+	|:------|:-------------|:-----:|
+	|AMS471|Sistem Dinamik|3|
+	|AMS472|Matematika Biologi|3|
+	|AMS371|Persamaan Diferensial Parsial|3|
+	|AMS372|Metoda Matematika Lanjut|3|
+	|AMS374|Analisis Numerik|3|
+	|AMS470|Kapita Selekta Matematika Terapan|3|
 
 **Lain - Lain**
 
@@ -479,30 +480,22 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 |APS402|Etika Profesi|-|2|
 |APS498|Tugas Akhir 2|-|4|
 |SAB315|Kewirausahaan|-|3|
-|-|Mata Kuliah Pilihan|-|9|
+|-|Mata Kuliah Pilihan|-|9|  
 
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
-*	**Nomor :** 1  
-	**Kelompok Mata Kuliah :** Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut)
-*	**Nomor :** 2  
-	**Kelompok Mata Kuliah :** Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)
-*	**Nomor :** 3  
-	**Kelompok Mata Kuliah :** Fisika Komputasi, Elektronika, dan Instrumentasi
-*	**Nomor :** 4  
-	**Kelompok Mata Kuliah :** Fisika Material dan Optika
-*	**Nomor :** 5  
-	**Kelompok Mata Kuliah :** Biofisika
-*	**Nomor :** 6  
-	**Kelompok Mata Kuliah :** Fisika Bumi
-*	**Nomor :** 7  
-	**Kelompok Mata Kuliah :** Astrofisika
-*	**Nomor :** 8  
-	**Kelompok Mata Kuliah :** Matakuliah Layanan
-*	**Nomor :** 9  
-	**Kelompok Mata Kuliah :** Seminar dan Skripsi
-*	**Nomor :** 0  
-	**Kelompok Mata Kuliah :** Kuliah Dasar, Keterampilan Umum, Lain-Lain
+| Nomor | Kelompok Mata Kuliah                                                 |
+|-------|----------------------------------------------------------------------|
+| 1     | Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut) |
+| 2     | Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)            |
+| 3     | Fisika Komputasi, Elektronika, dan Instrumentasi                     |
+| 4     | Fisika Material dan Optika                                           |
+| 5     | Biofisika                                                            |
+| 6     | Fisika Bumi                                                          |
+| 7     | Astrofisika                                                          |
+| 8     | Matakuliah Layanan                                                   |
+| 9     | Seminar dan Skripsi                                                  |
+| 0     | Kuliah Dasar, Keterampilan Umum, Lain-Lain                           |
 
 ###2.6.2 Mata Kuliah Pilihan Program Studi Fisika
 
@@ -586,8 +579,8 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 |APS479|Kapita Selekta Astrofisika|3|
 
 Komposisi Kuliah wajib dan pilihan adalah
-*	Kuliah Wajib = 120 sks 
-*	Kuliah Pilihan = 24 sks 
+* Kuliah Wajib = 120 sks 
+* Kuliah Pilihan = 24 sks 
 
 Selain itu, mahasiswa dapat mengambil, baik matakuliah wajib maupun matakuliah pilihan dari Program Studi Teknik Sipil/Arsitektur/Teknik  Industri/Teknik Kimia dan dari Fakultas Ekonomi / Fakultas Hukum /Fakultas Ilmu Sosial dan Ilmu Politik/ Fakultas Filsafat (sejauh masih ada tempat lowong di kelas paralelnya)
 
@@ -625,126 +618,154 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 *	**Kode MK :** APS106  
 	**Nama Mata Kuliah :** Fisika Dasar II (*Physics II*)  
 	**Prasyarat :** APS105  
-	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.
+	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Mekanika (Kinematika, Dinamika, Usaha dan Energi, Momentum dan Impuls, Benda Elastik dan Tegar, Momen Inersia dan Momen Gaya, Fluida), Termodinamika (Kalor dan Perpindahannya, Proses dan Keadaan, Siklus dan Efisiensi, Entropi). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.  
 	Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.  
 
-*	Kode MK : APS107  
-	Nama Mata Kuliah : Fisika Matematika I (*Mathematical Physics I*)  
-	Deskripsi Mata Kuliah : Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.  
+*	**Kode MK :** APS107  
+	**Nama Mata Kuliah :** Fisika Matematika I (*Mathematical Physics I*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini diharapkan mahasiswa mampu menyelesaikan permasalahan dasar dalam turunan dan integral. Secara garis besar materi dalam mata kuliah ini antara lain: Limit dan Kekontinuan, Turunan dan penggunaannya, Integral dan penggunaannya, Teknik Pengintegralan, Fungsi Dua Variabel, Barisan dan Deret Tak Hingga, Persamaan Diferensial Biasa.  
 
-*	Kode MK : APS108 (prasyarat APS107)  
-	Nama Mata Kuliah : Fisika Matematika II (*Mathematical Physics II*)  
-	Deskripsi Mata Kuliah : Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.  
+*	**Kode MK :** APS108  
+	**Nama Mata Kuliah :** Fisika Matematika II (*Mathematical Physics II*)  
+	**Prasyarat :** APS107  
+	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini diharapkan mahasiswa dapat memahami konsep dasar aljabar linier. Dalam mata kuliah ini diajarkan tentang: Sistem Persamaan Linier, Matriks dan Determinan, Vektor dalam 2 Dimensi dan 3 Dimensi, Ruang Vektor, Transformasi Linier, Nilai dan Vektor Eigen, Aplikasi Aljabar Linier.  
 
-*	Kode MK : APS112 (prasyarat APS105, APS107)  
-	Nama Mata Kuliah : Mekanika (*Mechanics*)  
-	Deskripsi Mata Kuliah : Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika.
+*	**Kode MK :** APS112  
+	**Nama Mata Kuliah :** Mekanika (*Mechanics*)  
+	**Prasyarat :** APS105, APS107  
+	**Deskripsi Mata Kuliah :** Mata kuliah ini bertujuan untuk memperdalam konsep kinematika dan dinamika partikel dalam dua dimensi dan tiga dimensi berlandaskan hukum-hukum mekanika (Hukum Newton, konsep kekekalan energi mekanik dan kekekalan momentum). Setelah mengikuti perkuliahan mahasiswa diharapkan dapat menjelaskan gejala-gejala tertentu terkait mekanika partikel serta dapat menyelesaikan masalah-masalah makroskopis terkait mekanika.  
 	Materi perkuliahan terkait kinematika dan dinamika partikel meliputi gerak lurus, gerak melingkar, gerak rotasi, serta diperluas untuk osilasi harmonik, fluida, gravitasi, dan sistem partikel, dengan tinjauan secara fisis maupun matematis. Untuk mengantarkan kepada konsep mekanika kuantum, maka diperkenalkan Metode Langrange-Hamilton, yang diterapkan untuk menyelesaikan permasalahan pada sistem makroskopis.  
 
-*	Kode MK : APS124 (prasyarat APS105, APS107)  
-	Nama Mata Kuliah : Fisika Modern (*Modern Physics*)  
-	Deskripsi Mata Kuliah : Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi. 
-	Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya.  Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas. 
+*	**Kode MK :** APS124  
+	**Nama Mata Kuliah :** Fisika Modern (*Modern Physics*)  
+	**Prasyarat :** APS105, APS107  
+	**Deskripsi Mata Kuliah :** Dalam mata kuliah ini, mahasiswa diberikan wawasan mengenai konsep-konsep baru yang melengkapi konsep-konsep fisika klasik, mulai dari munculnya teori relativitas khusus, kegagalan fisika klasik (Hukum Newton) untuk menjelaskan berbagai fenomena dalam skala mikroskopis, eksperimen-eksperimen terkait fenomena kuantum hingga perkembangannya, yang menjadi dasar penemuan-penemuan mutakhir dalam dunia sains, industri dan komunikasi.  
+	Pada Teori Relativitas Khusus dibahas mengenai konsep-konsep dasar dalam Teori Relativitas Khusus: Postulat Einstein dan konsekuensi-konsekuensinya.  Melalui Transformasi Lorentz diperoleh suatu persamaan bagi relativitas panjang, waktu dan kecepatan. Dalam perkuliahan ini juga disampaikan mengenai Efek Dopler untuk Cahaya, Paradoks Kembar, Kesetaraan Massa dan Energi dalam Relativitas.  
 	Perkembangan fisika modern diawali dengan kegagalan fisika klasik untuk menjelaskan berbagai fenomena dalam skala mikroskopis. Dimulai dari konsep Radiasi Gelombang Elektromagnetik, hingga munculnya konsep dualisme gelombang-partikel melalui berbagai teori dan eksperimen (teori Planck, efek fotolistrik, efek Compton, gelombang de Broglie) yang menjadi awal dari lahirnya fisika kuantum. Dalam aplikasinya dibahas pula fenomena kuantum pada atom Hidrogen. Dalam perkuliahan ini juga diperkenalkan beberapa konsep terkait seperti ketidakpastian Heisenberg, prinsip korespondensi, persamaan gelombang dalam kuantum (persamaan Schrödinger), dan dasar-dasar struktur materi, untuk mengantarkan pada perkuliahan mekanika kuantum.  
 
-*	Kode MK : APS132 (prasyarat AIF111)  
-	Nama Mata Kuliah : Fisika Komputasi (*Computational Physics*)  
-	Deskripsi Mata Kuliah : Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.  
+*	**Kode MK :** APS132  
+	**Nama Mata Kuliah :** Fisika Komputasi (*Computational Physics*)  
+	**Prasyarat :** AIF111  
+	**Deskripsi Mata Kuliah :** Tujuan mata kuliah ini adalah untuk melatih mahasiswa mengungkapkan perangai obyek alam dalam lingkup fisika, yang dirumuskan dalam bentuk rumus-rumus matematika, menjadi simulai visual yang interaktif dalam tampilan komputer. Materi yang diajarkan pada mata kuliah ini adalah: Simulasi Perangai Benda Titik, Benda Pejal, Tumbukan, Getaran dan Gelombang, Modulasi Amplitudo dan Frekuensi, Interferensi dan Difraksi, Garis Gaya Medan Listrik dan Medan Magnet, Gaya Lorentz, Rangkaian LRC, Hamburan Thomas Fermi dan Rutherford.  
 
-*	Kode MK : APS204 (prasyarat APS103)  
-	Nama Mata Kuliah : Proyek Bersama (*Physics Project*)  
-	Deskripsi Mata Kuliah : Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.  
+*	**Kode MK :** APS204  
+	**Nama Mata Kuliah :** Proyek Bersama (*Physics Project*)  
+	**Prasyarat :** APS103  
+	**Deskripsi Mata Kuliah :** Penelitian, evaluasi dan presentasi informasi ilmiah merupakan kemampuan penting mahasiswa program studi Fisika pada tahun ke-2. Projek ini didesain untuk mengembangkan lebih lanjut kemapuan-kemampuan penting tersebut. Dalam pelaksanaannya, mahasiswa dalam satu kelas akan dibagi ke dalam beberapa kelompok yang masing-masing beranggotakan 6 mahasiswa yang mana setiap kelompok akan didampingi oleh staf akademik yang akan berperan sebagai mentor sekaligus penilai. Kemudian setiap kelompok akan diberikan sebuah topik untuk diteliti dan dilaporkan. Setiap minggunya masing-masing kelompok akan bertemu secara reguler untuk menetapkan tugas individu dan menyatukan informasi-informasi yang diperoleh. Menjelang akhir semester setiap mahasiswa harus memberikan presentasi tentang projek yang telah diteliti kepada semua anggota kelompoknya. Kemudian setiap kelompok harus mengatur pembuatan laporan akhir tertulis yang akan dinilai. Penilaian keseluruhan didasarkan pada hasil presentasi dan nilai laporan.  
 
-*	Kode MK : APS207 (prasyarat APS108)  
-	Nama Mata Kuliah : Fisika Matematika III (*Mathematical Physics III*)  
-	Deskripsi Mata Kuliah : Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.  
+*	**Kode MK :** APS207  
+	**Nama Mata Kuliah :** Fisika Matematika III (*Mathematical Physics III*)  
+	**Prasyarat :** APS108  
+	**Deskripsi Mata Kuliah :** Dalam mata kuliah ini mahasiswa diperkenalkan dengan konsep-konsep matematika yang banyak berguna dalam pemecahan masalah fisika. Setelah mengikuti perkuliahan ini diharapkan mahasiswa mampu menyelesaikan permasalahan sederhana yang berkaitan dengan konsep-konsep matematika tersebut. Secara garis besar materi yang diajarkan dalam mata kuliah ini meliputi: Bilangan Kompleks, Diferensiasi Parsial, Integral Lipat dan Penggunaannya, Analisa Vektor (Teorem Green, Divergensi dan Stokes), Deret Fourier, Transformasi Integral.  
 
-*	Kode MK : APS208 (prasyarat APS207)  
-	Nama Mata Kuliah : Fisika Matematika IV (*Mathematical Physics IV*)  
-	Deskripsi Mata Kuliah : Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.  
+*	**Kode MK :** APS208  
+	**Nama Mata Kuliah :** Fisika Matematika IV (*Mathematical Physics IV*)  
+	**Prasyarat :** APS207  
+	**Deskripsi Mata Kuliah :** Kuliah ini dimulai dengan teori transformasi Fourier dan fungsi Delta Dirac. Transformasi Fourier digunakan untuk mentransformasikan fungsi pada semua baris nyata menggunakan kombinasi linier sinus dan cosinus. Transformasi Fourer adalah implemen yang kuat dalam fisika dan aplikasi matematika. Transformasi Fourier akan mengubah persamaan turunan linier ke dalam persamaan aljabar dengan koefisien konstan yang mana secara umum lebih mudah untuk diselesaikan. Berbagai contoh yang digunakan untuk ilustrasi dalam mata kuliah ini akan diambil sebagian besar dari fenomena interferensi dan difraksi optik. Secara garis besar mata kuliah ini membahas tentang: Transformasi Koordinat, Fungsi-fungsi Khusus (Gamma, Betha, Error, Integral Eliptik, Stirling), Persamaan Diferensial dengan Solusi Deret (Legendre, Bessel, Hermite), Fungsi Kompleks, Persamaan Diferensial Parsial. Melalui mata kuliah ini diharapkan mahasiswa dapat mengenal beberapa konsep pemecahan permasalahan matematika yang banyak berguna dalam fisika dan mampu mengungkapkan  contoh-contoh peranannya dalam fisika, serta dapat menyelesaikan permasalahan sederhana yang berkaitan.  
 
-*	Kode MK : APS213 (prasyarat APS112, APS108)  
-	Nama Mata Kuliah : Gelombang (*Waves*)  
-	Deskripsi Mata Kuliah : Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang.  
+*	**Kode MK :** APS213  
+	**Nama Mata Kuliah :** Gelombang (*Waves*)  
+	**Prasyarat :** APS112, APS108  
+	**Deskripsi Mata Kuliah :** Pemahaman mengenai gelombang secara mendalam sangat penting untuk dapat menjelaskan fenomena-fenomena terkait yang dijumpai dalam kehidupan sehari-hari.  Selain itu pendekatan gerak partikel berupa gelombang juga dipelajari dalam perkuliahan lanjut seperti mekanika kuantum. Pada mata kuliah ini, mahasiswa akan mempelajari konsep dasar yang diperlukan untuk memahami fenomena gelombang beserta aplikasinya, seperti gerak harmonik, gelombang mekanik dan elektromagnetik, analisis Fourier paket gelombang; dan beberapa aplikasi dasar fenomena gelombang. Dalam Pembahasan digunakan pendekatan secara matematis untuk mendapatkan makna fisisnya. Melalui mata kuliah ini diharapkan mahasiswa mampu memahami dan menerapkan konsep, prinsip dan  sifat gelombang.  
 	Perkuliahan diawali dengan pendahuluan yaitu gerak harmonik sederhana yang telah diberikan pada mata kuliah Mekanika, kemudian membahas tentang gelombang mekanik yang terdiri dari gelombang transversal dan longitudinal dalam berbagai medium. Dalam perkuliahan ini juga diperluas dengan materi gelombang elektromagnetik (yang akan sejalan dengan mata kuliah listrik magnet) dengan memperkenalkan Persamaan Maxwell yang merupakan dasar untuk memahami sifat-sifat gelombang elektromagnetik. Pada perkuliahan juga diberikan materi analisa Forier untuk meyelesaikan berbagai persoalan dalam paket gelombang, serta fenomena-fenomena lain terkait, Interferensi dan Difraksi.  
 
-*	Kode MK : APS215 (prasyarat APS106, APS108)  
-	Nama Mata Kuliah : Fisika Thermal (*Thermal Physics*)  
-	Deskripsi Mata Kuliah : Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika.  
+*	**Kode MK :** APS215  
+	**Nama Mata Kuliah :** Fisika Thermal (*Thermal Physics*)  
+	**Prasyarat :** APS106, APS108  
+	**Deskripsi Mata Kuliah :** Mata kuliah fisika termal bertujuan untuk memberikan wawasan mengenai konsep termodinamika klasik (hukum-hukum termodinamika) yang disajikan dalam parameter-parameter termal, beserta pengantar mengenai dasar-dasar fisika statistik, baik secara fisis maupun matematis, yang sangat bermanfaat dalam bidang Material, Atom-Inti, dan Astrofisika.  
 		Dalam mata kuliah ini akan diperdalam mengenai konsep termodinamika untuk sistem makroskopis dan mikroskopis dalam kesetimbangan termal, diawali dengan definisi parameter-parameter fisis dalam termodinamika seperti suhu, energi dalam dan entropi, kemudian memperkenalkan hukum-hukum termodinamika dan penerapannya untuk sistem makroskopis.  
 		Dalam mata kuliah ini juga diperkenalkan beberapa istilah dan teori terkait mikrosistem untuk menjelaskan keadaan sistem meliputi persamaan keadaan untuk mikrosistem, fungsi distribusi Boltzmann, Bose-Einstein dan Fermi-Dirac, untuk mengantarkan pada perkuliahan fisika statistik, serta memahami kaitan antara termodinamika klasik dan mekanika statistik.  
 
-*	Kode MK : APS216 (prasyarat APS215, APS207)  
-	Nama Mata Kuliah : Fisika Statistik (*Statistical Physics*)  
-	Deskripsi Mata Kuliah : Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.  
+*	**Kode MK :** APS216  
+	**Nama Mata Kuliah :** Fisika Statistik (*Statistical Physics*)  
+	**Prasyarat :** APS215, APS207  
+	**Deskripsi Mata Kuliah :** Ketidakpastian memainkan peranan esensial di alam. Mekanika statistik merupakan sebuah deskripsi dari peranan yang dimainkan oleh ketidakpastian-ketidakpastian tersebut. Dalam mata kuliah ini akan dipelajari tentang pencarian ”most probable distribution” dengan energi terrendah. Mekanika menurut ungkapan Hamilton, Gas Ideal, distribusi Maxwell-Boltzmann, getaran kisi pada zat padat, paham entropi dari pendekatan statistik. Statistik kuantum Fermi-Dirac dan Bose-Einstein, gas dan zat padat dalam unkapan kuantum. Melalui mata kuliah ini mahasiswa diharapkan bisa menggunakan pendekatan statistik untuk menerangkan perangai gejala fisika termal yang dibahas dalam termodinamika. Menyadarkan bahwa gejala ”non reversible” pada aturan termodinamika gas dan zat padat dapat diterangkan dari statistik kumpulan atom/molekul pembangunnya yang dinamikanya ”reversible”.  
 
-*	Kode MK : APS222 (prasyarat APS106, APS207, APS213)  
-	Nama Mata Kuliah : Listrik Magnet (*Electricity and Magnetism*)  
-	Deskripsi Mata Kuliah : Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.  
+*	**Kode MK :** APS222  
+	**Nama Mata Kuliah :** Listrik Magnet (*Electricity and Magnetism*)  
+	**Prasyarat :** APS106, APS207, APS213  
+	**Deskripsi Mata Kuliah :** Pada mata kuliah ini secara luas fokus dengan perkembangan besar pada listrik dan magnet dalam 2 abad terakhir, yakni menitikberatkan pada medan-medan yang tidak bergantung pada waktu. Sebelum pembahasan medan-medan tersebut di atas, diberikan dasar-dasar analisis vektor beserta arti fisis yang terkandung di dalamnya. Pembahasan pokok meliputi medan listrik statis (konsep medan listrik, potensial listrik, pemecahan persamaan yang berkaitan dengan potensial listrik statis : masalah syarat batas, sifat bahan dielektrik) dan medan magnetik statis (konsep mdan magnetik, potensial magnetik, pemecahan persamaan yang berkaitan dengan potensial magnetik : masalah syarat batas, sifat bahan magnetik). Melalui mata kuliah ini diharapkan mahasiswa mampu memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet statis.  
 
-*	Kode MK : APS225 (prasyarat APS124)  
-	Nama Mata Kuliah : Laboratorium Fisika Modern (*Modern Physics Laboratory*)  
-	Deskripsi Mata Kuliah : Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.  
+*	**Kode MK :** APS225  
+	**Nama Mata Kuliah :** Laboratorium Fisika Modern (*Modern Physics Laboratory*)  
+	**Prasyarat :** APS124  
+	**Deskripsi Mata Kuliah :** Kuliah ini berisi kegiatan ekperimen Fisika Modern yang bertujuan membuka wawasan serta memperkenalkan konsep baru tentang Fisika Modern kepada mahasiswa melalui kegiatan eksperimen. Kegiatan eksperimen ini berisikan berbagai percobaan Fisika Modern seperti percobaan Efek Fotolistrik, percobaan Difraksi Elektron, percobaan Frank-Hertz, percobaan Interferometri Michelson, percobaan tetes minyak Millikan. Selain untuk meningkatkan kemampuan serta keterampilan mahasiswa menggunakan peralatan untuk melakukan pengukuran secara ilmiah, melalui eksperimen ini diharapkan mahasiswa mulai terlatih untuk menulis laporan dengan format penulisan ilmiah.  
 
-*	Kode MK : APS233 (prasyarat APS108, APS132)  
-	Nama Mata Kuliah : Elektronika I (*Electronics I*)  
-	Deskripsi Mata Kuliah : Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.  
+*	**Kode MK :** APS233  
+	**Nama Mata Kuliah :** Elektronika I (*Electronics I*)  
+	**Prasyarat :** APS108, APS132  
+	**Deskripsi Mata Kuliah :** Instrumentasi elektronik digunakan secara luas pada hampir semua area fisika eksperimen. Melalui mata kuliah ini diharapkan mahasiswa dapat menguasai konsep dasar untuk memecahkan permasalahan, analisa rangkaian dan desain rangkaian elektronika. Secara garis besar dalam kuliah ini akan dibahas tentang arus searah, arus bolak-balik, rangkaian filter, rangkaian filter, dioda, transistor dan operasional amplifier.  
 
-*	Kode MK : APS234 (prasyarat APS233, APS207)  
-	Nama Mata Kuliah : Elektronika II (*Electronics II*)  
-	Deskripsi Mata Kuliah : Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.  
+*	**Kode MK :** APS234  
+	**Nama Mata Kuliah :** Elektronika II (*Electronics II*)  
+	**Prasyarat :** APS233, APS207  
+	**Deskripsi Mata Kuliah :** Mata kuliah ini merupakan kelanjutan dari mata kuliah Elektronika 1. Dalam mata kuliah ini dibahas tentang konversi bilangan, logika kombinasi (tabel kebenaran, aljabar boolean, karnaugh map, gerbang logika), Logika sekuensial (flip-flop, register, diagram keadaan, diagram perwaktuan), Aplikasi (pencacah, dekoder, enkoder, multiplekser, adc, dac, komponen opto-elektronika). Mata kuliah ini bertujuan untuk membekali mahasiswa dengan konsep dasar dan pengalaman dalam bidang elektronika digital.  
 
-*	Kode MK : APS304  
-	Nama Mata Kuliah : Teknik Presentasi (*Presentation Skills*)  
-	Deskripsi Mata Kuliah : Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.  
+*	**Kode MK :** APS304  
+	**Nama Mata Kuliah :** Teknik Presentasi (*Presentation Skills*)  
+	**Prasyarat :** APS103  
+	**Deskripsi Mata Kuliah :** Salah satu kemampuan dasar yang wajib dimiliki oleh seorang mahasiswa adalah kemampuan untuk berkomunikasi baik secara lisan maupun tertulis. Di dalam mata kuliah ini mahasiswa akan dilatih untuk membuat laporan ilmiah yang profesional dan dibekali dengan kemampuan untuk dapat memberikan presentasi yang efektif.  
 
-*	Kode MK : APS323  
-	ama Mata Kuliah : Elektrodinamika (*Electrodynamics*)  
-	Deskripsi Mata Kuliah : Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.
+*	**Kode MK :** APS323  
+	**Nama Mata Kuliah :** Elektrodinamika (*Electrodynamics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mata kuliah ini mengembangkan gagasan-gagasan tentang listrik magnet yang telah dipelajari pada semester sebelumnya ke dalam teori Maxwell tentang elektromagnetik. Persamaan Maxwell menarik berbagai macam hukum tentang listrik magnet (Hukum Faraday, Hukum Ampere, Hukum Lenz, Hukum Gauss) ke dalam satu kesatuan teori yang elegan. Penetapan teori elektromagnetik yang komplit telah membuktikan salah satu pencapaian besar dalam fisika. Secara garis besar dalam mata kuliah ini akan dibahas beberapa konsep elektrodinamika yang mengaitkan hubungan antara medan listrik dan medan magnetik (hukum Ohm dan hukum Faraday) dan berujung pada persamaan Maxwell yang menggabungkan deskripsi medan listrik dan medan magnetik. Beberapa sifat gelombang elektromagnetik yang ditimbulkan sebagai solusi persamaan Maxwell dibahas dalam kuliah ini, seperti persamaan gelombang elektromagnetik dan perambatannya dalam medium serta dispersi gelombang elektromagnetik. Beberapa aplikasi sederhana gelombang elektromagnetik diberikan, seperti pandu gelombang dan radiasi elektromagnetik. Masalah invariansi teori elektromagnetik terhadap kerangka inersial dimunculkan, yang pada akhirnya berujung pada ide teori relativitas khusus yang dikembangkan oleh Einstein. Melalui mata kuliah ini diharapkan mahasiswa dapat memahami secara kualitatif dan kuantitatif fenomena medan listrik dan magnet dinamis.
 
-*	Kode MK : APS327 (prasyarat APS208)  
-	Nama Mata Kuliah : Fisika Kuantum (*Quantum Physics*)  
-	Deskripsi Mata Kuliah : Kuliah ini membahas fenomena-fenomena yang ditemukan pada awal lahirnya teori kuantum, seperti fenomena kuantisasi dan dualisme partikel gelombang, dan teori-teori yang dibangun untuk menjelaskan fenomena-fenomena tersebut (prinsip gelombang dalam pemahaman teori kuantum, persamaan Schrodinger). Aplikasi teori kuantum diarahkan pada masalah-masalah yang sederhana dalam aplikasi persamaan Schrodinger, teori perturbasi serta pembahasan tentang momentum sudut dan spin partikel. Pada akhirnya, akan dibahas pula sebuah pandangan alternatif terhadap teori kuantum melalui path integral yang dikembangkan oleh Feynman. Melalui mata kuliah ini mahasiswa diharapkan dapat memahami secara kualitatif dan kuantitatif fenomena kuantum yang sangat berbeda dengan fenomena fisika klasik.  
+*	**Kode MK :** APS327  
+	**Nama Mata Kuliah :** Fisika Kuantum (*Quantum Physics*)  
+	**Prasyarat :** APS208  
+	**Deskripsi Mata Kuliah :** Kuliah ini membahas fenomena-fenomena yang ditemukan pada awal lahirnya teori kuantum, seperti fenomena kuantisasi dan dualisme partikel gelombang, dan teori-teori yang dibangun untuk menjelaskan fenomena-fenomena tersebut (prinsip gelombang dalam pemahaman teori kuantum, persamaan Schrodinger). Aplikasi teori kuantum diarahkan pada masalah-masalah yang sederhana dalam aplikasi persamaan Schrodinger, teori perturbasi serta pembahasan tentang momentum sudut dan spin partikel. Pada akhirnya, akan dibahas pula sebuah pandangan alternatif terhadap teori kuantum melalui path integral yang dikembangkan oleh Feynman. Melalui mata kuliah ini mahasiswa diharapkan dapat memahami secara kualitatif dan kuantitatif fenomena kuantum yang sangat berbeda dengan fenomena fisika klasik.  
 
-*	Kode MK : APS328 (prasyarat APS327, APS208)  
-	Nama Mata Kuliah : Mekanika Kuantum (*Quantum Mechanics*)  
-	Deskripsi Mata Kuliah : Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.  
+*	**Kode MK :** APS328  
+	**Nama Mata Kuliah :** Mekanika Kuantum (*Quantum Mechanics*)  
+	**Prasyarat :** APS327, APS208  
+	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini mahasiswa akan diperkenalkan struktur matematika mekanika kuantum dan menjelaskan bagaimana untuk menghitung nilai harapan untuk jumlah yang diamati dari suatu sistem. Selain itu untuk menunjukkan bagaimana teori perhitungan kuantum dari sifat atom, partikel dasar, inti dan padatan. Secara umum dalam mata kuliah ini akan dibahas lebih lanjut tentang Revisi fungsi gelombang, kepadatan probabilitas dan persamaan Schrödinger dalam 1 dimensi. Atom Hidrogen: momentum sudut orbital, bilangan kuantum, distribusi probabilitas. Spektrum atom dan efek Zeeman. Elektron berputar: Stern-Gerlach, kuantum spin angka, spin-orbit kopling, prinsip pengecualian dan tabel periodik. X-ray spektrum.  
 
-*	Kode MK : APS335 (prasyarat APS234)  
-	Nama Mata Kuliah : Lab. Fisika Instrumentasi (*Instrumentation Physics Laboratory*)  
-	Deskripsi Mata Kuliah : Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi.  
+*	**Kode MK :** APS335  
+	**Nama Mata Kuliah :** Lab. Fisika Instrumentasi (*Instrumentation Physics Laboratory*)  
+	**Prasyarat :** APS234  
+	**Deskripsi Mata Kuliah :** Pada kuliah ini materi dipelajari dengan menerapkannya pada robot agar proses pembelajaran menarik dan langsung diterapkan. Isi kuliah meliputi sensor, pengkondisian sinyal, ADC, DAC, Pengolahan data, Fourier, Sistem tertutup. Tujuan mata kuliah ini untuk membekali mahasiswa dengan pengalaman antarmuka dalam instrumentasi.  
 
-*	Kode MK : APS341 (prasyarat APS208, APS106)  
-	Nama Mata Kuliah : Pengantar Fisika Nuklir (*Introduction to Nuclear Physics*)  
-	Deskripsi Mata Kuliah : Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.  
+*	**Kode MK :** APS341  
+	**Nama Mata Kuliah :** Pengantar Fisika Nuklir (*Introduction to Nuclear Physics*)  
+	**Prasyarat :** APS208, APS106  
+	**Deskripsi Mata Kuliah :** Dasar penyusun materi diklasifikasikan menjadi tiga generasi Quarks dan Leptons (elektron dan neutrino), yang saling berinteraksi melalui gaya elektromagnetik, gaya lemah dan gaya kuat. Pada mata kuliah ini dipelajari cara mengklasifikasikan partikel-partikel dasar dan interaksinya serta deskripsi beberapa alat eksperimen yang digunakan untuk memahami sifat-sifat partikel tersebut. Modul pada mata kuliah ini diawali dengan mendiskusikan hubungan antara gaya konservatif dengan sifat simetris dari partikel-partikel dasar. Pemahaman akan hubungan ini menjadi kunci pengetahuan mengenai perilaku partikel-partikel dasar. Selain itu juga dibahas mengenai partikel-partikel yang dipelajari secara eksperimen dan mendeskripsikan pengoperasian beberapa peralatan meliputi tabung sinar katoda, spectrometer massa dan akselerator partikel. Di akhir kuliah akan dipelajari interaksi partikel dengan materi.  
 
-*	Kode MK : APS342 (prasyarat APS106, APS208)  
-	Nama Mata Kuliah : Pengantar Fisika Material (*Introduction to Material Physics*)  
-	Deskripsi Mata Kuliah : Kuliah ini berisi pengenalan material dimulai dengan struktur atom, struktur kristal ideal dan tak ideal, proses difusi, mekasnisme dislokasi, failure, diagram fasa dan transformasi fasa, material processing, sifat dan aplikasi material logam, alloys, keramik, polimer, material fotonik dan contoh-contoh devaisnya. Kuliah ini dimaksudkan untuk memberikan gambaran secara lengkap mengenai material dalam kehidupan sehari-hari sampai dengan penerapannya pada teknologi mutakhir.  
+*	**Kode MK :** APS342  
+	**Nama Mata Kuliah :** Pengantar Fisika Material (*Introduction to Material Physics*)  
+	**Prasyarat :** APS106, APS208  
+	**Deskripsi Mata Kuliah :** Kuliah ini berisi pengenalan material dimulai dengan struktur atom, struktur kristal ideal dan tak ideal, proses difusi, mekasnisme dislokasi, failure, diagram fasa dan transformasi fasa, material processing, sifat dan aplikasi material logam, alloys, keramik, polimer, material fotonik dan contoh-contoh devaisnya. Kuliah ini dimaksudkan untuk memberikan gambaran secara lengkap mengenai material dalam kehidupan sehari-hari sampai dengan penerapannya pada teknologi mutakhir.  
 
-*	Kode MK : APS348 (prasyarat APS106, APS208)  
-	Nama Mata Kuliah : Optika (*Optics*)  
-	Deskripsi Mata Kuliah : Kuliah ini berisikan konsep-konsep dasar dalam Optika dan aplikasinya serta perkembangan terkini dalam bidang Optika baik itu Optika klasik hingga Optika modern. Kuliah ini terbagi atas 4 bagian besar yaitu konsep dasar yang merupakan tools untuk dapat memahami Optika, sifat dan perilaku sumber cahaya laser, sistem optik (material, pandu gelombang, optika nonlinear, optika Fourier), dan sistem detektor (optional). Kuliah ini bertujuan untuk memperluas cakrawala dan wawasan serta pemahaman mahasiswa mengenai konsep-konsep dasar dan aplikasinya serta perkembangan terkini dalam bidang Optika.  
+*	**Kode MK :** APS348  
+	**Nama Mata Kuliah :** Optika (*Optics*)  
+	**Prasyarat :** APS106, APS208  
+	**Deskripsi Mata Kuliah :** Kuliah ini berisikan konsep-konsep dasar dalam Optika dan aplikasinya serta perkembangan terkini dalam bidang Optika baik itu Optika klasik hingga Optika modern. Kuliah ini terbagi atas 4 bagian besar yaitu konsep dasar yang merupakan tools untuk dapat memahami Optika, sifat dan perilaku sumber cahaya laser, sistem optik (material, pandu gelombang, optika nonlinear, optika Fourier), dan sistem detektor (optional). Kuliah ini bertujuan untuk memperluas cakrawala dan wawasan serta pemahaman mahasiswa mengenai konsep-konsep dasar dan aplikasinya serta perkembangan terkini dalam bidang Optika.  
 
-*	Kode MK : APS392 (prasyarat APS204)  
-	Nama Mata Kuliah : Seminar (*Seminar*)  
-	Deskripsi Mata Kuliah : Dalam mata kuliah ini mahasiswa akan berlatih memahami artikel-artikel fisika hasil karya orang lain yang tersedia di internet, maupun buku pustaka. Disisni mahasiswa memilih sendiri topik untuk berlatih menyampaikan gagasan sendiri dalam lingkup fisika yang dipahaminya dalam wujud tulisan. Adapun tujuan mata kuliah ini adalah Melatih peserta dalam kemahiran berkomunikasi dalam lingkup fisika yang melibatkan lambang-lambang matematika untuk melukiskan gejala-gejala alam.  
+*	**Kode MK :** APS392  
+	**Nama Mata Kuliah :** Seminar (*Seminar*)  
+	**Prasyarat :** APS204  
+	**Deskripsi Mata Kuliah :** Dalam mata kuliah ini mahasiswa akan berlatih memahami artikel-artikel fisika hasil karya orang lain yang tersedia di internet, maupun buku pustaka. Disisni mahasiswa memilih sendiri topik untuk berlatih menyampaikan gagasan sendiri dalam lingkup fisika yang dipahaminya dalam wujud tulisan. Adapun tujuan mata kuliah ini adalah Melatih peserta dalam kemahiran berkomunikasi dalam lingkup fisika yang melibatkan lambang-lambang matematika untuk melukiskan gejala-gejala alam.  
 
-*	Kode MK : APS402    
-	Nama Mata Kuliah : Etika Profesi (*Professional Ethics*)  
-	Deskripsi Mata Kuliah : Melalui mata kuliah ini mahasiswa akan mendapatkan wawasan tentang peran etika di bidang profesi. Pembahasan tentang etika profesi ini mengacu pada referensi tentang kode etik ilmuwan, tetapi sebetulnya penerapannya sangatlah luas termasuk untuk bidang keprofesian lain. Nilai dan hakikat dari kode etik yang berlaku di bidang ilmiah berguna pula untuk diterapkan oleh mahasiswa di segala bidang pekerjaan yang akan ditekuni. Dengan berlandaskan pada nilai-nilai etika itulah diharapkan mahasiswa dapat menjadi seorang manusia yang etis dalam menjalani profesinya.  
+*	**Kode MK :** APS402    
+	**Nama Mata Kuliah :** Etika Profesi (*Professional Ethics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini mahasiswa akan mendapatkan wawasan tentang peran etika di bidang profesi. Pembahasan tentang etika profesi ini mengacu pada referensi tentang kode etik ilmuwan, tetapi sebetulnya penerapannya sangatlah luas termasuk untuk bidang keprofesian lain. Nilai dan hakikat dari kode etik yang berlaku di bidang ilmiah berguna pula untuk diterapkan oleh mahasiswa di segala bidang pekerjaan yang akan ditekuni. Dengan berlandaskan pada nilai-nilai etika itulah diharapkan mahasiswa dapat menjadi seorang manusia yang etis dalam menjalani profesinya.  
 
-*	Kode MK : APS497 (prasyarat APS392)  
-	Nama Mata Kuliah : Tugas Akhir 1 (*Final Project 1*)  
-	Deskripsi Mata Kuliah : Melalui Tugas Akhir 1 ini diharapkan mahasiswa dapat mempunyai kemampuan menelaah suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 1 ini merupakan bagian pertama dari tugas akhir dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.  
+*	**Kode MK :** APS497  
+	**Nama Mata Kuliah :** Tugas Akhir 1 (*Final Project 1*)  
+	**Prasyarat :** APS392  
+	**Deskripsi Mata Kuliah :** Melalui Tugas Akhir 1 ini diharapkan mahasiswa dapat mempunyai kemampuan menelaah suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 1 ini merupakan bagian pertama dari tugas akhir dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.  
 
-*	Kode MK : APS498 (prasyarat APS497)  
-	Nama Mata Kuliah : Tugas Akhir 2 (*Final Project 2*)  
-	Deskripsi Mata Kuliah : Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.  
+*	**Kode MK :** APS498  
+	**Nama Mata Kuliah :** Tugas Akhir 2 (*Final Project 2*)  
+	**Prasyarat :** APS497  
+	**Deskripsi Mata Kuliah :** Tujuan dari Tugas Akhir 2 adalah untuk Memberi kemampuan menyelesaikan telaahan suatu topik terbatas dalam bidang fisika dan/atau aplikasinya, secara cukup mandiri di bawah bimbingan seorang dosen, dan menuliskannya dalam bentuk karya ilmiah. Tugas Akhir 2 merupakan bagian kedua dari tugas akhir. Pada Tugas Akhir 2 ini lebih fokus dengan pendalaman dari topik dan menyajikan hasil kerja lengkap dalam bentuk tulisan yang baik dan standar, juga secara lisan. Topik tugas akhir ditentukan bersama dengan dosen pembimbing.  
 
-*	Kode MK : SAB315  
-	Nama Mata Kuliah : Kewirausahaan (*Entrepreneurship*)  
-	Deskripsi Mata Kuliah : Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.  
+*	**Kode MK :** SAB315  
+	**Nama Mata Kuliah :** Kewirausahaan (*Entrepreneurship*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mata kuliah ini membahas pengertian Kewirausahaan serta bagaimana sebaiknya mengembangkan usaha agar dapat menjadi wirausaha yang berhasil dan beretika. Pembahasan mengenai inti dan hakekat kewirausahaan, disiplin ilmu, obyek studi dan perkembangannya, karakteristik dan ciri umum kewirausahaan, faktor-faktor pemicu, model, proses, tahapan, keberhasilan dan kegagalan, ide dan sumber wirausaha, cara memasuki dunia usaha, pengelolaan dunia usaha, kompetisi dan strategi, pembuatan studi kelayakan dan etika bisnis dan prinsip-prinsip usaha yang baik. Selain itu juga dipresentasikan hasil kunjungan ke perusahaan agar dapat membedakan dunia nyata dengan teori, sehingga mahasiswa diharapkan memiliki kemampuan soft skill.  
 
 ##2.7 Kurikulum Program Studi Teknik Informatika
 ###2.7.1 Susunan Mata Kuliah
