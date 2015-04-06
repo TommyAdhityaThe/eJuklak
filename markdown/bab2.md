@@ -152,9 +152,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 |AMS126|Aljabar Matriks|-|4|
 |AIF112|Pemrograman Komputer|-|3|
 |MKU011|Estetika|-|2|
-|MKU003|Agama Katolik +|-|2|
-|MKU004|Fenomenologi Agama +|-|2|
-Keterangan: (+) pilih salah satu  
+|MKU003 / MKU004|Agama Katolik / Fenomenologi Agama|-|2|
 
 **Semester 3** (Total 18 SKS)
 
@@ -791,7 +789,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 
 ##2.7 Kurikulum Program Studi Teknik Informatika
 ###2.7.1 Susunan Mata Kuliah
-Semester 1 (Total 18 SKS)
+**Semester 1** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
@@ -802,7 +800,7 @@ Semester 1 (Total 18 SKS)
 |MKU008|Etika|-|2|
 |MKU010|Bahasa Inggris|-|2|
 
-Semester 2 (Total 18 SKS)
+**Semester 2** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
@@ -813,7 +811,7 @@ Semester 2 (Total 18 SKS)
 |MKU009|Bahasa Indonesia|-|2|
 |MKU011|Estetika|-|2|
 
-Semester 3 (Total 18 SKS)
+**Semester 3** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
@@ -824,7 +822,7 @@ Semester 3 (Total 18 SKS)
 |MKU003 / MKU004|Agama Katolik / Fenomenologi Agama|-|2|
 |MKU012|Logika|-|2|
 
-Semester 4 (Total 18 SKS)
+**Semester 4** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
@@ -834,43 +832,43 @@ Semester 4 (Total 18 SKS)
 |AIF208|Rekayasa Perangkat Lunak|-|4|
 |AIF210|Interaksi Manusia Komputer|-|2|
 
-Semester 5 (Total 18 SKS)
+**Semester 5** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
 |AIF301|Pengantar Sistem Cerdas|-|3|
 |AIF303|Pengantar Sistem Informasi|-|3|
 |AIF305|Jaringan Komputer|-|2|
-|AIF311 (^)|Pemrograman Fungsional|R|2|
-|AIF313 (^)|Grafika Komputer|R|2|
-|AIF315 (^)|Pemrograman Berbasis Web|R|2|
-|AIF317 (^)|Desain Antarmuka Grafis|R|2|
+|AIF311|Pemrograman Fungsional [1]|R|2|
+|AIF313|Grafika Komputer [1]|R|2|
+|AIF315|Pemrograman Berbasis Web [1]|R|2|
+|AIF317|Desain Antarmuka Grafis [1]|R|2|
 |AIFXXX|Mata Kuliah Pilihan|-|2|
 |MKU002|Kewarganegaraan|-|2|
 
-Semester 6 (Total 18 SKS)
+**Semester 6** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
 |AIF302|Penulisan Ilmiah|-|2|
-|AIF304 (*)|Proyek Sistem Informasi 1|-|3|
-|AIF306 (*)|Proyek Informatika|-|6|
-|AIF312 (^)|Keamanan Informasi|R|2|
-|AIF314 (^)|Pemrograman Basisdata|R|2|
-|AIF316 (^)|Komputasi Paralel|R|2|
-|AIF318 (^)|Pemrograman Aplikasi Bergerak|R|2|
+|AIF304|Proyek Sistem Informasi 1 [2]|-|3|
+|AIF306|Proyek Informatika [2]|-|6|
+|AIF312|Keamanan Informasi [1]|R|2|
+|AIF314|Pemrograman Basisdata [1]|R|2|
+|AIF316|Komputasi Paralel [1]|R|2|
+|AIF318|Pemrograman Aplikasi Bergerak [1]|R|2|
 |AIFXXX|Mata Kuliah Pilihan|-|6| 
 
-Semester 7 (Total 18 SKS)
+**Semester 7** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
 |AIF401|Skripsi 1|-|4|
 |AIF403|Komputer dan Masyarakat|-|3|
-|AIF405 (*)|Proyek Sistem Informasi 2|-|2|
+|AIF405|Proyek Sistem Informasi 2 [2]|-|2|
 |AIFXXX|MK Pilihan|-|12|
 
-Semester 8 (Total 18 SKS)
+**Semester 8** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
 |:------|:-------------|:-----:|:---------------------:|
@@ -879,20 +877,21 @@ Semester 8 (Total 18 SKS)
 |APS402|Etika Profesi|-|2|
 
 Keterangan :
-*	Mata kuliah pilihan wajib(^)  
+*	[1] Mata kuliah pilihan wajib   
 	Mahasiswa harus lulus minimal 4 dari 8 mata kuliah tersebut.
-*	Mata kuliah proyek (*)
+*	[2] Mata kuliah proyek  
 	Mahasiswa harus lulus salah satu dari :
 	* Proyek Informatika, atau
 	* Proyek Sistem Informasi 1 dan Proyek Sistem Informasi 2  
 	
-Aturan Tambahan :
-*	Mata kuliah pilihan dari luar jurusan  
+Aturan Tambahan :  
+
+1.	Mata kuliah pilihan dari luar jurusan  
 	Banyaknya matakuliah pilihan dari luar jurusan yang dapat diperhitungkan dalam kelulusan adalah sebanyak-banyaknya 4 (empat) matakuliah.  
 	Catatan: Kuliah EAA101 - Akuntansi Keuangan Dasar 1 dan EAA102 - Akuntansi Keuangan Dasar 2 yang diasuh oleh Fakultas Ekonomi dianggap sebagai matakuliah pilihan dari dalam jurusan  
-*	Skor Coding  
-	Beberapa matakuliah memiliki skor coding antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor coding > 0.  
-*	Nilai minimum kuliah jalur pemrograman/algoritma  
+2.	Skor *Coding*  
+	Beberapa matakuliah memiliki skor *coding* antara 1 s.d. 4. Dosen wali wajib untuk menghimbau/mengingatkan mahasiswa wali tingkat 1 s.d. 3 agar dalam pengambilan matakuliah setiap semester, memiliki jumlah skor *coding* > 0.  
+3.	Nilai minimum kuliah jalur pemrograman/algoritma  
 	Untuk mahasiswa yang ingin mengambil matakuliah jalur pemrograman/algoritma yang tidak diadakan di semester yang seharusnya, yaitu:
 	* Pemrograman Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
 	* Desain & Analisis Berorientasi Objek yang dibuka di Sem. Genap atau Sem. Pendek
@@ -972,114 +971,138 @@ Aturan Tambahan :
 
 ###2.7.3 Peta dan Prasyarat Matakuliah
 
-Peta dan prasyarat mata kuliah ditunukkan pada Gambar 3.
+Peta dan prasyarat mata kuliah ditunukkan pada gambar di bawah ini.  
+
+![Gambar 2. Peta dan Prasyarat Mata Kuliah Program Studi Teknik Informatika](images/2_3.jpg)
 
 ###2.7.4 Deskripsi Matakuliah
 
-*	Kode MK : AIF101  
-	Nama Mata Kuliah : Pemrograman Berorientasi Objek (*Object Oriented Programming*)  
-	Deskripsi Mata Kuliah : Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.  
+*	**Kode MK :** AIF101  
+	**Nama Mata Kuliah :** Pemrograman Berorientasi Objek (*Object Oriented Programming*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memperkenalkan konsep-konsep dasar pemrograman dari perspektif berorientasi objek dan membangun dasar-dasar ketrampilan membuat program dengan menggunakan bahasa pemrograman berorientasi objek.  
 
-*	Kode MK : AIF102  
-	Nama Mata Kuliah : Algoritma & Struktur Data (*Algorithms & Data Structures*)  
-	Deskripsi Mata Kuliah : Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.  
+*	**Kode MK :** AIF102  
+	**Nama Mata Kuliah :** Algoritma & Struktur Data (*Algorithms & Data Structures*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memperkenalkan konsep–konsep dasar algoritma, analisis algoritma, beberapa algoritma tingkat dasar (searching dan sorting) dan konsep penting mengenai struktur data (list) serta algoritma untuk memprosesnya.  
 
-*	Kode MK : AIF103  
-	Nama Mata Kuliah : Matematika Diskret (*Discrete Mathematics*)  
-	Deskripsi Mata Kuliah : Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.  
+*	**Kode MK :** AIF103  
+	**Nama Mata Kuliah :** Matematika Diskret (*Discrete Mathematics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memberikan dasar pengetahuan tentang matematika diskret yang banyak digunakan pada bidang informatika, misalnya himpunan, fungsi dan relasi, dan matematika kombinatorial. Memberikan dasar pengetahuan bagaimana menggunakan matematika diskret untuk memodelkan dan menyelesaikan permasalahan.  
 
-*	Kode MK : AIF104  
-	Nama Mata Kuliah : Logika Informatika (*Logics for Informatics*)  
-	Deskripsi Mata Kuliah : Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.  
+*	**Kode MK :** AIF104  
+	**Nama Mata Kuliah :** Logika Informatika (*Logics for Informatics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memberikan pengetahuan dasar kalkulus kepada mahasiswa, yang nanti digunakan di bidang informatika, misalnya tentang sistem bilangan real, limit, turunan, dan integral. Memberi pengetahuan dasar aljabar matriks yang berkaitan dengan jenis-jenis matriks, operasi matriks, dan sistem persamaan linier. Memberikan pengetahuan kepada mahasiswa bagaimana menyelesaikan masalah dengan menggunakan metode yang telah dijelaskan.  
 
-*	Kode MK : AIF105  
-	Nama Mata Kuliah : Pengantar Informatika (*Introduction to Informatics*)  
-	Deskripsi Mata Kuliah : Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.  
+*	**Kode MK :** AIF105  
+	**Nama Mata Kuliah :** Pengantar Informatika (*Introduction to Informatics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mengenal terminologi umum dalam informatika,mampu menggunakan kakas umum dalam informatika seperti MS Excel,mengenal cakupan ilmu informatika.  
 
-![](images/2_3.jpg)
+*	**Kode MK :** AIF106  
+	**Nama Mata Kuliah :** Sistem Dijital (*Digital Systems*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.
 
-Gambar 3. Peta dan Prasyarat Matakuliah
+*	**Kode MK :** AIF201  
+	**Nama Mata Kuliah :** Analisis dan Desain Berorientasi Objek (*Object-Oriented Analysis & Design*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.  
 
-*	Kode MK : AIF106  
-	Nama Mata Kuliah : Sistem Dijital (*Digital Systems*)  
-	Deskripsi Mata Kuliah : Memberi pengetahuan dasar kepada mahasiswa tentang struktur komputer dan fungsi masing-masing pembentuknya, memberi pengetahuan kepada mahasiswa tentang representasi data di dalam computer serta operasi-operasi aritmatika yang terkait, memberi pengetahuan kepada mahasiswa tentang arsitektur perancangan beberapa bagian penting di dalam komputer.
+*	**Kode MK :** AIF202  
+	**Nama Mata Kuliah :** Desain & Analisis Algoritma (*Design & Analysis of Algorithms*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.  
 
-*	Kode MK : AIF201  
-	Nama Mata Kuliah : Analisis dan Desain Berorientasi Objek (*Object-Oriented Analysis & Design*)  
-	Deskripsi Mata Kuliah : Mempelajari dasar-dasar serta beberapa prinsip dalam perancangan program berorientasi objek. Mempelajari diagram UML (Unified Modeling Language) untuk mengkomunikasikan desain secara visual. Mempelajari beberapa design pattern dari Gang of Four untuk membantu mempercepat menyelesaikan masalah desain.  
+*	**Kode MK :** AIF203  
+	**Nama Mata Kuliah :** Struktur Diskret (*Discrete Structures*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.  
 
-*	Kode MK : AIF202  
-	Nama Mata Kuliah : Desain & Analisis Algoritma (*Design & Analysis of Algorithms*)  
-	Deskripsi Mata Kuliah : Menggunakan dan merancang algoritma dan struktur data sederhana untuk menyelesaikan masalah-masalah komputasi tertentu  dan mengimplementasikannya menggunakan bahasa pemrograman berorientasi obyek.  
+*	**Kode MK :** AIF205  
+	**Nama Mata Kuliah :** Arsitektur & Organisasi Komputer (*Computer Architectures & Organisation*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.  
 
-*	Kode MK : AIF203  
-	Nama Mata Kuliah : Struktur Diskret (*Discrete Structures*)  
-	Deskripsi Mata Kuliah : Memberikan dasar pengetahuan tentang struktur diskret yang banyak digunakan pada bidang informatika, khususnya graph, pohon dan finite state machine. Memberikan dasar pengetahuan bagaimana menggunakan struktur diskret untuk memodelkan dan menyelesaikan permasalahan.  
+*	**Kode MK :** AIF206  
+	**Nama Mata Kuliah :** Sistem Operasi (*Operating Systems*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.  
 
-*	Kode MK : AIF205  
-	Nama Mata Kuliah : Arsitektur & Organisasi Komputer (*Computer Architectures & Organisation*)  
-	Deskripsi Mata Kuliah : Mempelajari cara kerja antar bagian komputer dan arsitektur komputer, cara kerja dari komponen-komponen komputer, dan perkembangan arsitektur komputer modern.  
+*	**Kode MK :** AIF208  
+	**Nama Mata Kuliah :** Rekayasa Perangkat Lunak (*Rekayasa Perangkat Lunak*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management.*  
 
-*	Kode MK : AIF206  
-	Nama Mata Kuliah : Sistem Operasi (*Operating Systems*)  
-	Deskripsi Mata Kuliah : Mempelajari pengertian sistem operasi, peran dan fungsinya dalam sebuah sistem perangkat keras, khususnya komputer. Mempelajari prinsip-prinsip, teknik dan algoritma yang digunakan di dalam sebuah sistem operasi, penjadwalan, dan aspek keamanan dalam sistem operasi. Memperkenalkan dan menggunakan lebih dalam beberapa sistem operasi yang umum.  
+*	**Kode MK :** AIF210  
+	**Nama Mata Kuliah :** Interaksi Manusia Komputer (*Human-Computer Interaction*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).  
 
-*	Kode MK : AIF208  
-	Nama Mata Kuliah : Rekayasa Perangkat Lunak (*Rekayasa Perangkat Lunak*)  
-	Deskripsi Mata Kuliah : Mempelajari terminologi, definisi, Software Process Model, review paradigma berorientasi objek, kebutuhan perangkat lunak, *use case modeling, class modelling, dynamic modelling: state transition diagram, sequence diagram, activity diagram, reusability dan design pattern, data flow diagram, testing, software process management.*  
+*	**Kode MK :** AIF294  
+	**Nama Mata Kuliah :** Manajemen Informasi & Basis Data (*Information Management & Databases*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D,implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.  
 
-*	Kode MK : AIF210  
-	Nama Mata Kuliah : Interaksi Manusia Komputer (*Human-Computer Interaction*)  
-	Deskripsi Mata Kuliah : Mempelajari konsep-konsep interaksi manusia dan komputer serta mengimplementasikan dalam bentuk pemrograman di lingkungan GUI dan event driven).  
+*	**Kode MK :** AIF301  
+	**Nama Mata Kuliah :** Pengantar Sistem Cerdas (*Introduction to Intelligent Systems*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari definisi, karakteristikagen cerdas, *blind search*, *informed search*, *local search*, *adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin  
 
-*	Kode MK : AIF294  
-	Nama Mata Kuliah : Manajemen Informasi & Basis Data (*Information Management & Databases*)  
-	Deskripsi Mata Kuliah : Mengajarkan konsep dan macam-macam Sistem Manajemen Basis Data (DBMS), pengenalan basis data sederhana mulai dari spreadsheet, merancang dan memodelkan basis data menggunakan ER-D,implementasi tabel, penyimpanan data multimedia, serta cara penggunaan sintaks-sintaks SQL pada DBMS.  
+*	**Kode MK :** AIF302  
+	**Nama Mata Kuliah :** Penulisan Ilmiah (*Scientific Writing*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.  
 
-*	Kode MK : AIF301  
-	Nama Mata Kuliah : Pengantar Sistem Cerdas (*Introduction to Intelligent Systems*)  
-	Deskripsi Mata Kuliah : Mempelajari definisi, karakteristikagen cerdas, *blind search*, *informed search*, *local search*, *adversarial search*, representasi pengetahuan dengan *Propositional Logic* dan First Order Logic, agen cerdas berbasis logika, planning, penanganan ketidakpastian, pembelajaran mesin  
+*	**Kode MK :** AIF303  
+	**Nama Mata Kuliah :** Pengantar Sistem Informasi (*Introduction to Information Systems*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/e-commerce, pengantar Business Intelligence, pengantar, EIS, DSS, cloud computing dan mobile applications.  
 
-*	Kode MK : AIF302  
-	Nama Mata Kuliah : Penulisan Ilmiah (*Scientific Writing*)  
-	Deskripsi Mata Kuliah : Mempersiapkan mahasiswa untuk mulai melakukan penelitian. Memberikan penjelasan tentang penelitian dan jenis-jenisnya.  
+*	**Kode MK :** AIF304  
+	**Nama Mata Kuliah :** Proyek Informasi 1 (*Information System Project 1*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).  
 
-*	Kode MK : AIF303  
-	Nama Mata Kuliah : Pengantar Sistem Informasi (*Introduction to Information Systems*)  
-	Deskripsi Mata Kuliah : Mempelajaritrend Teknologi Informasi, konsep Sistem Informasi Terkomputerisasi (SIT) dan komponen SI, pemanfaatan SI bagi organisasi, pengantar pembangunan SIT, perumusan prosedur-prosedur bisnis, keamanan informasi, pengantar e-bisnis/e-commerce, pengantar Business Intelligence, pengantar, EIS, DSS, cloud computing dan mobile applications.  
+*	**Kode MK :** AIF305  
+	**Nama Mata Kuliah :** Jaringan Komputer (*Computer Networks*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*;Memperkenalkan keamanan jaringan; *Social Networking*;  Membangun dan administrasi jaringan LAN.  
 
-*	Kode MK : AIF304  
-	Nama Mata Kuliah : Proyek Informasi 1 (*Information System Project 1*)  
-	Deskripsi Mata Kuliah : Mempelajari pendalaman manajemen projek (penyusunan *Project Implementation Plan*), perumusan lingkup projek untuk organisasi studi kasus, analisis kebutuhan dengan pembuatan prototype penyusunan dokumen spesifikasi sistem (SRS).  
+*	**Kode MK :** AIF306  
+	**Nama Mata Kuliah :** Proyek Informatika (*Informatics Project*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.  
 
-*	Kode MK : AIF305  
-	Nama Mata Kuliah : Jaringan Komputer (*Computer Networks*)  
-	Deskripsi Mata Kuliah : Memperkenalkan organisasi yang berkaitan dengan internet; topologi jaringan;*layering*; komponen-komponen jaringan; aplikasi jaringan; Membangun aplikasi jaringan; lapisan transport – TCP; *Reliable data delivery*; Lapisan jaringan; *Local Area Network*; *Resource Allocation*; *Mobility*; *Multimedia Networking*;Memperkenalkan keamanan jaringan; *Social Networking*;  Membangun dan administrasi jaringan LAN.  
+*	**Kode MK :** AIF401  
+	**Nama Mata Kuliah :** Skripsi 1 (*Undergraduate Thesis 1*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.  
 
-*	Kode MK : AIF306  
-	Nama Mata Kuliah : Proyek Informatika (*Informatics Project*)  
-	Deskripsi Mata Kuliah : Mempelajari dan mempraktekkan tahap-tahap rekayasa perangkat lunak termasuk manajemen projek pada sebuah projek perangkat lunak nyata pada skala menengah.  
+*	**Kode MK :** AIF402  
+	**Nama Mata Kuliah :** Skripsi 2 (*Undergraduate Thesis 2*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.  
 
-*	Kode MK : AIF401  
-	Nama Mata Kuliah : Skripsi 1 (*Undergraduate Thesis 1*)  
-	Deskripsi Mata Kuliah : Skripsi 1 merupakan bagian pertama skripsi dengan titik berat pada studi pustaka, pemahaman, pelaporan hasil kerja secara tertulis dan lisan. Topik ditentukan bersama dosen pembimbing.  
+*	**Kode MK :** AIF403 (prasyarat sudah lulus 72 SKS) 
+	**Nama Mata Kuliah :** Komputer & Masyarakat (*Computer & Society*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK.  
 
-*	Kode MK : AIF402  
-	Nama Mata Kuliah : Skripsi 2 (*Undergraduate Thesis 2*)  
-	Deskripsi Mata Kuliah : Skripsi 2 merupakan bagian kedua skripsi, Pendalaman topik dan hasil kerja lengkap bentuk tulisan yang baik dan standar, juga secara lisan. Topik ditentukan bersama dosen pembimbing.  
+*	**Kode MK :** AIF405  
+	**Nama Mata Kuliah :** Proyek Sistem Informasi 2 (*Information System Project 2*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual,pengujian modul, integrasi dan penerimaan user (UAT).  
 
-*	Kode MK : AIF403 (prasyarat sudah lulus 72 SKS) 
-	Nama Mata Kuliah : Komputer & Masyarakat (*Computer & Society*)  
-	Deskripsi Mata Kuliah : Menganalisis dan mengkritisi peran, kedudukan dan peluang dalam bidang TIK. Memberi pemahaman mengenai pentingnya peran TIK sebagai “process enabler” dan “process improvement driver”, serta memperkenalkan isu-isu teknologi & non-teknologi yang penting dalam bidang TIK.  
+*	**Kode MK :** AMS100  
+	**Nama Mata Kuliah :** Matematika Informatika (*Mathematics for Informatics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.  
 
-*	Kode MK : AIF405  
-	Nama Mata Kuliah : Proyek Sistem Informasi 2 (*Information System Project 2*)  
-	Deskripsi Mata Kuliah : Mempelajari perancangan sistem informasi untuk organisasi studi kasus, implementasi sistem secara gadual,pengujian modul, integrasi dan penerimaan user (UAT).  
-
-*	Kode MK : AMS100  
-	Nama Mata Kuliah : Matematika Informatika (*Mathematics for Informatics*)  
-	Deskripsi Mata Kuliah : Mempelajari pengetahuan dasar matematika yang diperlukan dalama menyelesaikan masalah informatika yang terdiri dari: Sistem Bilangan Real dan Nilai Mutlak, Fungsi dan Limit,  Turunan, Integral, Sistem Persamaan Linear dan Matriks, Determinan, Vektor 2 dan 3 Dimensi.  
-
-*	Kode MK : AMS200  
-	Nama Mata Kuliah : Probabilitas & Statistika (*Probability & Statistics*)  
-	Deskripsi Mata Kuliah : Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.  
+*	**Kode MK :** AMS200  
+	**Nama Mata Kuliah :** Probabilitas & Statistika (*Probability & Statistics*)  
+	**Prasyarat :** -  
+	**Deskripsi Mata Kuliah :** Mempelajari konsep-konsep dasar dalam teori peluang dan statistika.  
