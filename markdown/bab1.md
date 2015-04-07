@@ -100,7 +100,7 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 *  **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
 *  **KaLab. Fisika Dasar** : Risti Suryantari, S.Si., M.Si.  
-*  **KaLab. Elektronika & Fisika Lanju**t : Janto V. Sulungbudi, Drs.  
+*  **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.  
     
 **Program Studi Teknik Informatika**  
 
