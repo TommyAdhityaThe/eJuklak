@@ -97,10 +97,9 @@ Syarat untuk mengikuti UTS dan UAS:
 ###3.3.2 Tata Tertib Ujian
 
 **A.  Kehadiran**  
-
-1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit** sebelum ujian dimulai.  
-2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.  
-3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
+ 1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit** sebelum ujian dimulai.  
+ 2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.  
+ 3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
 
 **B.  Perlengkapan**  
  1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.  
@@ -155,6 +154,7 @@ Mahasiswa yang terbukti melakukan **pelanggaran norma kejujuran** pada saat meng
 3.	Untuk kali selanjutnya: sanksi yang lebih berat, yang akan ditetapkan melalui rapat pimpinan fakultas.
 
 ###3.3.4 Lain-Lain  
+
 1. **Tidak ada ujian khusus** untuk perbaikan nilai ujian.  
 2.	Tidak ada ujian khusus bagi mahasiswa yang tidak hadir dalam ujian. Apabila mahasiswa yang bersangkutan mengalami hal-hal di bawah ini saat ujian matakuliah mahasiswa yang bersangkutan sedang berlangsung:
    * Sakit, yang diperkuat oleh *surat keterangan rawat inap* dari rumah sakit.  
