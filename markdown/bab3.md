@@ -17,11 +17,11 @@ Kegiatan Akademik di lingkungan FTIS, dan UNPAR pada umumnya, terdiri atas:
 Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, pada setiap semester seorang mahasiswa perlu menyusun **rencana studi** bagi dirinya. Rencana studi ini memuat daftar matakuliah yang akan diikuti pada semester yang bersangkutan.  
 Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:  
 
-1.    Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.  
-2.	   Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.  
-3.	   Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.  
-4.	   Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.  
-5.    Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :  
+1. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.  
+2. Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.  
+3. Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.  
+4. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.  
+5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :  
 
    | IPS         | Hak Tempuh pada Semester Berikutnya |
    |-------------|-------------------------------------|
@@ -98,36 +98,36 @@ Syarat untuk mengikuti UTS dan UAS:
 
 **A.  Kehadiran**  
  1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit** sebelum ujian dimulai.  
- 2.	Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.  
- 3.	Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
+ 2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.  
+ 3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
 
 **B.  Perlengkapan**  
- 1.	Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.  
- 2.	Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.  
- 3.	Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.  
- 4.	**Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus  dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.  
- 5.	Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.  
- 6.	Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.  
- 7.	Peserta ujian dilarang merokok di ruang ujian.  
+ 1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.  
+ 2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.  
+ 3. Peserta ujian **dilarang** membawa catatan/buku/rumus/tabel dan kalkulator dalam bentuk dan untuk tujuan apapun ke tempat duduk, kecuali pada mata ujian yang diijinkan oleh dosen yang bersangkutan.  
+ 4. **Alat atau media komunikasi** dalam bentuk apapun (*handphone*, PDA, dan sebagainya) **harus  dimatikan/dinonaktifkan** (bukan di-*silent*/menggunakan nada getar) dan dilarang untuk digunakan selama ujian berlangsung dengan alasan dan tujuan apapun.  
+ 5. Peserta ujian **dilarang** membawa makanan/minuman ke tempat duduk.  
+ 6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.  
+ 7. Peserta ujian dilarang merokok di ruang ujian.  
 
 **C. Pakaian**  
  1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.  
  2. Peserta ujian **wajib** memakai sepatu.  
 
 **D. Tempat Duduk**  
- 1.	Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.  
- 2.	Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.  
+ 1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.  
+ 2. Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.  
 
 **E. Pelaksanaan**  
  1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.  
- 2.	Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.  
- 3.	Sejak ujian dimulai peserta ujian **wajib** menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.  
- 4.	Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.  
- 5.	Peserta ujian **wajib** menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.  
- 6.	Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.  
- 7.	Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.  
- 8.	Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.  
- 9.	Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:  
+ 2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.  
+ 3. Sejak ujian dimulai peserta ujian **wajib** menjaga ketertiban di ruang ujian dan dilarang berkomunikasi dan bekerjasama dengan peserta lain. Hal yang belum jelas mengenai pelaksanaan ujian harus ditanyakan langsung kepada pengawas ujian.  
+ 4. Kertas yang boleh digunakan hanya lembar jawab ujian dan kertas buram resmi (bercap FTIS). Semua kertas buram yang digunakan diberi NPM dan dikumpulkan kembali bersama-sama lembar jawab ujian.  
+ 5. Peserta ujian **wajib** menandatangani daftar hadir yang telah disediakan dan wajib memberitahu pengawas jika sampai ujian berakhir belum menandatangani daftar hadir.  
+ 6. Peserta ujian yang meninggalkan ruang ujian selama ujian berlangsung tanpa ijin pengawas dianggap telah menyelesaikan ujian.  
+ 7. Peserta ujian menyerahkan lembar jawab kepada pengawas setelah menyelesaikan ujian atau tepat setelah waktu ujian berakhir. **Kertas buram** terisi atau tidak harus **dikumpulkan kembali** bersama dengan lembar jawab.  
+ 8. Peserta ujian yang telah menyelesaikan ujian diperkenankan untuk meninggalkan ruang ujian paling cepat **30 menit** setelah ujian dimulai.  
+ 9. Dilarang keras **melakukan kecurangan** dalam bentuk apapun selama ujian berlangsung. Hal-hal berikut ini dianggap sebagai perbuatan curang:  
    *  **Melihat** berkas ujian milik peserta ujian lain;  
    *	**Memperlihatkan** atau **memberikan** berkas ujian milik sendiri kepada peserta ujian lain;  
    *	**Memberikan** atau **menerima** petunjuk atau jawaban ujian dengan cara dan media apapun;  
