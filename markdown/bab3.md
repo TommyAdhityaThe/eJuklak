@@ -43,7 +43,7 @@ Masa perwalian juga merupakan kesempatan bagi mahasiswa yang ingin mendiskusikan
 
 ###3.1.2 Pendaftaran Mata Kuliah  
 
-Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url https://mhs.akad.unpar/), login menggunakan *username* dari *account* student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
+Setelah menentukan matakuliah apa saja yang akan diambil, maka mahasiswa harus mendaftarkan matakuliah-matakuliah dengan cara mengisi Form Rencana Studi (FRS). Pengisian FRS ini dilakukan secara online dengan menggunakan portal mahasiswa (masuk ke url https://studentportal.unpar.ac.id/), login menggunakan *username* dari *account* student masing-masing. Pengisian FRS ini dapat dilakukan oleh mahasiswa sendiri atau bersama-sama dengan dosen wali pada saat perwalian (tergantung aturan dari masing-masing prodi).
 Dosen wali akan memeriksa FRS yang telah diisi oleh mahasiswa walinya. Jika dosen wali merasa tidak ada masalah dengan rencana studi mahasiswa walinya, maka dosen wali akan memberikan persetujuan.  
 
 Mahasiswa akan menerima email yang berisi informasi tentang hasil registrasi matakuliah (yang sudah disetujui dosen wali). Mahasiswa **wajib** memeriksa email konfirmasi ini. Jika ada kesalahan atau perbedaan yang terjadi, mahasiswa harus segera melaporkannya ke dosen wali. 
@@ -98,13 +98,13 @@ Syarat untuk mengikuti UTS dan UAS:
 
 ###3.3.2 Tata Tertib Ujian
 
-**A.  Kehadiran**  
+**Kehadiran**  
 
 1. Peserta ujian harus telah hadir di ruang ujian selambat-lambatnya **15 menit** sebelum ujian dimulai.  
 2. Peserta ujian yang **terlambat setelah ujian dimulai** tidak diperkenankan mengikuti ujian yang bersangkutan.  
 3. Ketidakhadiran peserta ujian pada saat ujian berakibat komponen ujian terkait **bernilai 0 (nol).**  
 
-**B.  Perlengkapan**  
+**Perlengkapan**  
 
 1. Peserta ujian **wajib** membawa **Kartu Tanda Mahasiswa (KTM)** yang sah, dan diletakkan di atas meja ujian masing-masing selama ujian.  
 2. Peserta ujian **wajib** menyediakan sendiri alat tulis dan dilarang keras saling meminjam atau bertukar alat tulis dengan peserta ujian lain.  
@@ -114,17 +114,17 @@ Syarat untuk mengikuti UTS dan UAS:
 6. Semua barang yang tidak diijinkan dibawa ke tempat duduk, harus diletakkan di bagian depan kelas atau tempat lain yang ditetapkan pengawas ujian.  
 7. Peserta ujian dilarang merokok di ruang ujian.  
 
-**C. Pakaian**  
+**Pakaian**  
 
 1. Peserta ujian **wajib** mengenakan pakaian yang sopan dan rapi.  
 2. Peserta ujian **wajib** memakai sepatu.  
 
-**D. Tempat Duduk**  
+**Tempat Duduk**  
 
 1. Peserta ujian harus menempati **ruang ujian** dan **tempat duduk sesuai dengan nomor ujian**. Nomor ujian dapat dilihat pada papan pengumuman akademik fakultas.  
 2. Pergantian tempat duduk duduk harus sepengetahuan dan ijin pengawas ujian.  
 
-**E. Pelaksanaan**  
+**Pelaksanaan**  
 
 1. Peserta ujian dilarang membuka dan membaca soal ujian sebelum diperbolehkan oleh pengawas ujian.  
 2. Sebelum mulai mengerjakan soal ujian, peserta ujian **wajib** mengisi nama, NPM sesuai dengan yang diminta pada lembar jawab ujian dan menandatanganinya, serta menandatangani pernyataan akan taat pada tata tertib ujian. Lembar ujian tanpa NPM, nama, dan tandatangan dianggap tidak sah.  
