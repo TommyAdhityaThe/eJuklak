@@ -184,16 +184,21 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ###3.4.2 Prosedur Cuti Studi
 
 1.	Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi **_rekomendasi dosen wali_** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut. 
+
 2.	Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya. 
+
 3.	Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
+
 4.	Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
+
 5.	Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
    * Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
    * Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
 6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
    * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
-   * Mendapat ijin dari WR-1.  
-   * Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan**.  
+   * Mendapat ijin dari WR-1.
+   
+   Dalam hal ini, biaya yang telah dibayarkan mahasiswa pada semester yang terkait dengan cuti tersebut **tidak dapat dikembalikan** dan sisa kewajiban keuangan yang belum dilunasi **harus diselesaikan**.  
 7. Mahasiswa yang telah memperoleh cuti studi dari Dekan FTIS namun melanggar ketentuan masa cuti dalam surat ijin tersebut, maka pada semester berikutnya di luar masa cuti yang diijinkan, mahasiswa akan dikenakan peraturan **gencat studi**.
 
 ###3.4.3 Gencat studi  
