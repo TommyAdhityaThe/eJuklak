@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="unpar.ftis.ejuklak.MainActivity" >
+
+    <item
+        android:id="@+id/visit"
+        android:title="Visit unpar.ac.id"
+        android:icon="@drawable/unpar"
+        android:showAsAction="withText|ifRoom"/>
+	
+</menu>

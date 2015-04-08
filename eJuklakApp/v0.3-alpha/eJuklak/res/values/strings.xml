@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">eJuklak</string>
+    <string-array name="chapters_array">
+        <item>Cover</item>
+        <item>Bab I</item>
+        <item>Bab II</item>
+        <item>Bab III</item>
+        <item>Bab IV</item>
+        <item>Lampiran</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
