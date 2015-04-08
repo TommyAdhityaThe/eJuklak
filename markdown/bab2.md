@@ -618,23 +618,28 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 	**Nama Mata Kuliah :** Pemrograman Komputer (*Computer Programming*)  
 	**Prasyarat :** -  
 	**Deskripsi Mata Kuliah :** Mata kuliah ini bertujuan untuk mengenalkan dan membekali mahasiswa kepada konsep-konsep dasar pemrograman.  
+
 *	**Kode MK :** APS101  
 	**Nama Mata Kuliah :** Pengenalan Program Studi Fisika (*Introduction to Physics Studies*)  
 	**Prasyarat :** -  
 	**Deskripsi Mata Kuliah :** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga membahas tujuan dan struktur program studi, melatih penggunaan metode ilmiah, serta peluasan wawasan tentang fisika dan ilmu-ilmu umum, dengan melibatkan keaktifan mahasiswa.  
+
 *	**Kode MK :** APS103  
 	**Nama Mata Kuliah :** Ketrampilan Fisika (*Key Skills for Physics*)  
 	**Prasyarat :** -  
 	**Deskripsi Mata Kuliah :** Mata kuliah ini bertujuan untuk mengajarkan kemampuan dasar yang wajib dimiliki seorang ilmuwan, yang meliputi: kemampuan untuk menganalisa, memecahkan masalah dan membuat kesimpulan. Selain itu, mata kuliah ini juga melatih mahasiswa untuk mengetahui bagaimana mengukur ketidak pastian dalam suatu percobaan, membuat laporan ilmiah yang profesional dan mempresentasikannya.  
+
 *	**Kode MK :** ICE109  
 	**Nama Mata Kuliah :** Kimia Dasar (*Chemistry*)  
 	**Prasyarat :** -  
 	**Deskripsi Mata Kuliah :** Tujuan dari mata kuliah ini adalah untuk membekali mahasiswa dengan pengetahuan kimia dasar agar dapat memahami proses-proses kimia yang dijumpai dalam kehidupan sehari-hari.  
+
 *	**Kode MK :** APS105  
 	**Nama Mata Kuliah :** Fisika Dasar I (*Physics I*)  
 	**Prasyarat :** -  
 	**Deskripsi Mata Kuliah :** Melalui mata kuliah ini diharapkan mahasiswa mampu menguasai konsep dan prinsip dasar fisika serta mampu menjelaskan berbagai fenomena fisika. Kuliah ini membahas Optika (Gejala dan Sifat Warna, Optika Geometris, Gejala Polarisasi), Bunyi (Getaran dan Gelombang, Interferensi dan Difraksi), Listrik (Elektrostatik dan Elektrodinamika), dan Magnet (Gejala Kemagnetan dan Elektromagnet serta aplikasinya). Perkuliahan menggunakan demonstrasi untuk menjelaskan berbagai konsep.  
 	Kuliah ini juga dilengkapi praktikum yang berorientasi pemecahan masalah (bukan prosedural) untuk menunjang penguasaan materi kuliah secara terpadu melalui kegiatan kelompok. Penggunaan komputer dalam praktikum membekali mahasiswa dengan kemampuan pemodelan untuk berbagai fenomena fisika.  
+
 *	**Kode MK :** APS106  
 	**Nama Mata Kuliah :** Fisika Dasar II (*Physics II*)  
 	**Prasyarat :** APS105  
