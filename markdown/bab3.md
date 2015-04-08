@@ -18,8 +18,11 @@ Sebelum mengikuti kegiatan akademik seperti matakuliah, responsi dan praktikum, 
 Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:  
 
 1. Pada umumnya, mahasiswa mengambil **semua** mata kuliah yang terkait dengan semester yang akan dijalani sesuai dengan kurikulum program studinya.  
+
 2. Memprioritaskan matakuliah semester lebih awal yang **belum lulus**. Hal ini penting demi kokohnya landasan studi, dan agar tidak menjadi penghalang bagi matakuliah yang memprasyaratkannya.  
+
 3. Memprioritaskan matakuliah menjadi **prasyarat** (baik prasyarat tempuh atau pun prasyarat lulus) bagi matakuliah lain.  
+
 4. Memperhatikan jadwal kuliah dan ujian yang telah ditetapkan pada semester tersebut (diumumkan sejak saat masa perencanaan studi), sehingga pemilihan matakuliah-matakuliah dapat dilakukan tanpa terjadi bentrokan jadwal kuliah atau ujian.  
 5. Ketentuan beban studi diatur dalam Keputusan Rektor Universitas Katolik Parahyangan No. III/PRT/2011-11/211 sebagai berikut :  
 
@@ -187,8 +190,8 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 4.	Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5.	Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
    * Mengisi Formulir Rencana Studi dengan beban **0 (nol)** sks, dan didaftarkan sesuai dengan **prosedur yang ada**.
-   * Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).  
-6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila  
+   * Membayar **100% (seratus persen)** Tarif Biaya Registrasi (sesuai dengan Peraturan Pengurus Yayasan UNPAR no. 06 th. 2008 tentang Pemisahan Tarif Biaya Registrasi dan Biaya Pengembangan).
+6. Dalam hal mahasiswa mengajukan permohonan cuti studi **setelah masa PRS berakhir**, ijin cuti hanya dapat diberikan oleh Dekan FTIS apabila
    * Memiliki alasan yang sangat kuat dan tidak dapat dihindarkan.
    * Mendapat ijin dari WR-1.  
 
