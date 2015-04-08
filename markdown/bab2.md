@@ -35,7 +35,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ###2.3.1 Kuliah Layanan Program Studi Matematika
 
 | Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
-|:------|:-------------|:-----:|:---------------------|
+|:------:|:-------------|:-----:|:---------------------|
 |AMS100|Matematika Informatika|4|Teknik Informatika|
 |AMS200|Probabilitas dan Statistika|3|Teknik Informatika|
 |AMS107|Fisika Matematika|4|Fisika|
@@ -55,7 +55,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ###2.3.2 Kuliah Layanan Program Studi Fisika
 
 | Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
-|:------|:-------------|:-----:|:---------------------|
+|:------:|:-------------|:-----:|:---------------------|
 |APS181|Fisika Dasar|4|Matematika|
 |APS182|Fisika Dasar|3|Teknik Sipil|
 |APS183|Fisika Dasar I|2|Teknik Industri|
@@ -71,7 +71,7 @@ Matakuliah layanan adalah matakuliah yang dibina oleh prodi yang ada di FTIS unt
 ###2.3.3 Kuliah Layanan Program Studi Teknik Informatika
 
 | Kode | Mata Kuliah | SKS | Prodi Yang dilayani |
-|:------|:-------------|:-----:|:---------------------|
+|:------:|:-------------|:-----:|:---------------------|
 |AKS144|Pemrograman Komputer|3|Matematika|
 
 ##2.4 Matakuliah Umum
@@ -80,7 +80,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 
 ###2.4.1 Susunan Matakuliah Umum
 | Kode | Mata Kuliah | SKS |
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |MKU001|Pendidikan Pancasila|2|
 |MKU002|Pendidikan Kewarganegaraan|2|
 |MKU003|Agama Katolik|2|
@@ -135,7 +135,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 1** (Total 19 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS121|Kalkulus I|R|4|
 |AMS123|Pemecahan Masalah Matematika|-|3|
 |AMS151|Statistika Elementer|-|4|
@@ -146,7 +146,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 2** (Total 19 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS122|Kalkulus II|-|4|
 |AMS124|Matematika Diskret|-|4|
 |AMS126|Aljabar Matriks|-|4|
@@ -157,7 +157,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 3** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS221|Kalkulus Vektor|R|4|
 |AMS231|Teori Suku Bunga|-|3|
 |AMS251|Teori Peluang|-|4|
@@ -168,7 +168,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 4** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS222|Aljabar Linear|R|4|
 |AMS252|Statistika Matematika|-|4|
 |AMS261|Optimasi|-|4|
@@ -178,7 +178,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 5** (Total 19 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS321|Fungsi Kompleks|-|4|
 |AMS351|Proses Stokastik|-|4|
 |AMS373|Metoda Numerik|-|3|
@@ -188,7 +188,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 6** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS322|Analisis Real|R|4|
 |MKU009|Bahasa Indonesia|-|2|
 |ABCXYZ|Pilihan|-|12|
@@ -196,7 +196,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 7** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS490|Seminar|-|3|
 |AMS491|Pemodelan Matematika|-|4|
 |MKU001|Pancasila|-|2|
@@ -205,7 +205,7 @@ Matakuliah Umum (MKU) adalah matakuliah kepribadian yang diselenggarakan oleh Le
 **Semester 8** (Total 15 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AMS499|Skripsi|-|6|
 |ABCXYZ|Pilihan|-|9|
 
@@ -218,7 +218,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 *	Matematika Asuransi  
 
 	|Kode|Nama|SKS|
-	|:------|:-------------|:-----:|
+	|:------:|:-------------|:-----:|
 	|AMS330|Pengantar Matematika Asuransi|3|
 	|AMS331|Matematika Asuransi|3|
 	|AMS431|Metoda Statistika Asuransi|3|
@@ -228,7 +228,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 *	Matematika Keuangan  
 
 	|Kode|Nama|SKS|
-	|:------|:-------------|:-----:|
+	|:------:|:-------------|:-----:|
 	|AMS341|Komputasi Keuangan|3|
 	|AMS342|Matematika Keuangan|3|
 	|AMS343|Analisis Deret Waktu|3|
@@ -239,7 +239,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 *	Optimasi dan Teori Kontrol
 
 	|Kode|Nama|SKS|
-	|:------|:-------------|:-----:|
+	|:------:|:-------------|:-----:|
 	|AMS361|Pemrograman NonLinear|3|
 	|AMS461|Kontrol Optimum|3|
 	|AMS462|Kontrol Linear|3|
@@ -247,7 +247,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 *	Statistika & Penelitian Operasional  
 
 	|Kode|Nama|SKS|
-	|:------|:-------------|:-----:|
+	|:------:|:-------------|:-----:|
 	|AMS352|Pemrograman Stokastik|3|
 	|AMS353|Pengendalian Mutu|3|
 	|AMS354|Model Statistika|3|
@@ -264,7 +264,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 *	Matematika Terapan  
 
 	|Kode|Nama|SKS|
-	|:------|:-------------|:-----:|
+	|:------:|:-------------|:-----:|
 	|AMS471|Sistem Dinamik|3|
 	|AMS472|Matematika Biologi|3|
 	|AMS371|Persamaan Diferensial Parsial|3|
@@ -275,7 +275,7 @@ Mata kuliah pilihan dibagi kedalam tiga kelompok, yaitu kelompok bidang kajian R
 **Lain - Lain**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |AMS323|Geometri|3|
 |AMS324|Teori Bilangan|3|
 |AMS344|Komputasi Saintifik|3|
@@ -419,7 +419,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 1** (Total 19 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS101|Pengenalan Program Studi|-|3|
 |APS103|Keterampilan Fisika|-|2|
 |APS105|Fisika Dasar I|R,P|3|
@@ -431,7 +431,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 2** (Total 19 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS106|Fisika Dasar II|R,P|3|
 |APS108|Fisika Matematika II|R|4|
 |APS112|Mekanika|R|3|
@@ -442,7 +442,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 3** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS207|Fisika Matematika III|R|4|
 |APS213|Gelombang|R|3|
 |APS215|Fisika Thermal|R|3|
@@ -453,7 +453,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 4** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS204|Proyek Bersama|-|2|
 |APS208|Fisika Matematika IV|R|4|
 |APS216|Fisika Statistik|R|3|
@@ -464,7 +464,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 5** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS323|Elektrodinamika|R|3|
 |APS327|Fisika Kuantum|R|4|
 |APS335|Lab. Fisika Instrumentasi|P|3|
@@ -475,7 +475,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 6** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS304|Teknik Presentasi|-|2|
 |APS328|Mekanika Kuantum|-|3|
 |APS342|Pengantar Fisika Material|-|3|
@@ -487,7 +487,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 7** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS497|Tugas Akhir I|-|4|
 |MKU001|Pancasila|-|2|
 |MKU002|Kewarganegaraan|-|2|
@@ -496,7 +496,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 8** (Total 15 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |APS402|Etika Profesi|-|2|
 |APS498|Tugas Akhir 2|-|4|
 |SAB315|Kewirausahaan|-|3|
@@ -505,7 +505,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 
 | Nomor | Kelompok Mata Kuliah                                                 |
-|-------|----------------------------------------------------------------------|
+|:-------:|----------------------------------------------------------------------|
 | 1     | Fisika Teoretik (Mekanika, Thermodinamika, Fisika Matematika Lanjut) |
 | 2     | Fisika Teoretik (Fisika Modern, Elektromagnetik, Kuantum)            |
 | 3     | Fisika Komputasi, Elektronika, dan Instrumentasi                     |
@@ -522,7 +522,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Lain-lain**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS301|Filsafat Sains|2|
 |APS302|Dunia Digital dan Sains|2|
 |APS303|Didaktika Umum|3|
@@ -530,7 +530,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Teoretik**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS311|Dinamika Fluida|3|
 |APS411|Mekanika Hamiltonian|3|
 |APS317|Fisika Matematika Lanjut|3|
@@ -545,7 +545,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Komputasi, Elektronika dan Instrumentasi**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS331|Pemodelan Matematika Gejala Alam|3|
 |APS332|KapSel. Fisika Komputasi|3|
 |APS336|Instrumentasi Berbasis Komputer|3|
@@ -555,7 +555,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Biofisika**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS350|Fisika Instrumentasi Medis|3|
 |APS351|Biofisika|3|
 |APS352|Fisika Kedokteran|3|
@@ -565,7 +565,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Material dan Optika**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS343|Struktur Materi|3|
 |APS441|Reologi|3|
 |APS442|Fisika Polimer|3|
@@ -580,7 +580,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Fisika Bumi**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS361|Geofisika|3|
 |APS362|Oseanografi Fisis|3|
 |APS363|Pemanasan Global|3|
@@ -591,7 +591,7 @@ Kode kelompok matakuliah (digit numerik kedua dalam kode kuliah):
 **Kelompok Astrofisika**
 
 |Kode|Nama|SKS|
-|:------|:-------------|:-----:|
+|:------:|:-------------|:-----:|
 |APS371|Tata Surya|3|
 |APS372|Bintang|3|
 |APS373|Kosmologi|3|
@@ -792,7 +792,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 1** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF101|Pemrograman Berorientasi Objek|-|6|
 |AIF103|Matematika Diskret|-|3|
 |AIF105|Pengantar Informatika|-|3|
@@ -803,7 +803,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 2** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF102|Algoritma dan Struktur Data|-|4|
 |AIF104|Logika Informatika|-|3|
 |AIF106|Sistem Dijital|-|3|
@@ -814,7 +814,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 3** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF201|Analisis dan Desain Berorientasi Objek|-|4|
 |AIF203|Struktur Diskret|-|4|
 |AIF205|Arsitektur dan Organisasi Komputer|-|3|
@@ -825,7 +825,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 4** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF202|Desain dan Analisis Algoritma|-|4|
 |AIF204|Manajemen Informasi dan Basisdata|-|4|
 |AIF206|Sistem Operasi|-|4|
@@ -835,7 +835,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 5** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF301|Pengantar Sistem Cerdas|-|3|
 |AIF303|Pengantar Sistem Informasi|-|3|
 |AIF305|Jaringan Komputer|-|2|
@@ -849,7 +849,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 6** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF302|Penulisan Ilmiah|-|2|
 |AIF304|Proyek Sistem Informasi 1 [2]|-|3|
 |AIF306|Proyek Informatika [2]|-|6|
@@ -862,7 +862,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 7** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF401|Skripsi 1|-|4|
 |AIF403|Komputer dan Masyarakat|-|3|
 |AIF405|Proyek Sistem Informasi 2 [2]|-|2|
@@ -871,7 +871,7 @@ Peta dan prasyarat mata kuliah ditunjukkan pada gambar di bawah ini.
 **Semester 8** (Total 18 SKS)
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF402|Skripsi 2|-|6|
 |AIFXXX|Mata Kuliah Pilihan|-|10|
 |APS402|Etika Profesi|-|2|
@@ -903,7 +903,7 @@ Aturan Tambahan :
 ###2.7.2 Matakuliah Pilihan Program Studi Teknik Informatika
 
 |Kode|Nama|APR|SKS|
-|:------|:-------------|:-----:|:---------------------:|
+|:------:|:-------------|:-----:|:---------------------:|
 |AIF330|Kerja Praktek 1|-|2|
 |AIF331|Topik Khusus Informatika 1|-|2|
 |AIF332|Topik Khusus Informatika 2|-|3|
