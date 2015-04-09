@@ -10,7 +10,7 @@ Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belaja
 
 Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas. 
 
-Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan,** yang masing-masing memiliki **Komponen Kegiata**n dan **Komponen Evaluasi** sebagai berikut :
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan,** yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
 |     Bentuk Kegiatan     |                       Komponen Kegiatan                      |        Komponen Evaluasi / Angka        |        Komponen Evaluasi / Bobot        |
 |:-----------------------:|:------------------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
