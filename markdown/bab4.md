@@ -10,7 +10,7 @@ Evaluasi keberhasilan belajar mata kuliah adalah penilaian terhadap hasil belaja
 
 Keberhasilan belajar mata kuliah ditetapkan segera setelah mahasiswa **menyelesaikan seluruh Komponen Kegiatan** yang disyaratkan dalam suatu mata kuliah. Kriteria keberhasilan belajar mahasiswa dalam suatu mata kuliah ditetapkan oleh dosen pembina mata kuliah, dengan menaati rambu-rambu dalam SK Rektor dan SK Dekan tersebut di atas. 
 
-Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan,** yang masing-masing memiliki **Komponen Kegiata**n dan **Komponen Evaluasi** sebagai berikut :
+Evaluasi keberhasilan belajar mata kuliah dilakukan terhadap hasil belajar mahasiswa dalam berbagai **Bentuk Kegiatan,** yang masing-masing memiliki **Komponen Kegiatan** dan **Komponen Evaluasi** sebagai berikut :
 
 |     Bentuk Kegiatan     |                       Komponen Kegiatan                      |        Komponen Evaluasi / Angka        |        Komponen Evaluasi / Bobot        |
 |:-----------------------:|:------------------------------------------------------------:|:---------------------------------------:|:---------------------------------------:|
@@ -136,10 +136,12 @@ Untuk mahasiswa Program Sarjana, Skor TOEFL minimal atau skor IELTS minimal ters
 
 #LAMPIRAN 3
 
-**SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015**
-
-
-**-------------------------------HARUSNYA ADA TABEL TAPI BELUM DIMASUKKIN---------------------------**
+| Kegiatan                               |      Periode LIX     |      Periode LX     |     Periode LXI     |
+|----------------------------------------|:--------------------:|:-------------------:|:-------------------:|
+| Batas akhir pendaftaran Sidang Sarjana | Jumat, 26 Sept. 2014 | Jumat, 16 Jan. 2015 | Jumat, 12 Jun. 2015 |
+| Sidang Sarjana                         |  Jumat, 3 Okt. 2014  | Jumat, 23 Jan. 2015 | Jumat, 19 Jun. 2015 |
+| Batas akhir pendaftaran wisuda         |  Senin, 6 Okt. 2014  |  Senin, 2 Feb. 2015 | Kamis, 25 Jun. 2015 |
+| Wisuda                                 |  Sabtu, 1 Nov. 2014  | Sabtu, 28 Feb. 2015 |  Sabtu, 8 Agt. 2015 |
 
 #LAMPIRAN 4
 
