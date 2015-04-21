@@ -29,10 +29,10 @@ Dalam menentukan matakuliah yang akan diambil, dapat digunakan pedoman berikut:
     | 2,50 - 2,99 | Maksimum 21 SKS                     |
     | <= 2,49     | Maksimum 18 SKS                     |
 
-  Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :  
- * 1 jam kuliah  
- * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)  
- * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, rumah, dsb)  
+    Dengan penjelasan **Satu SKS (Satuan Kredit Semester)** bermakna belajar 3 jam seminggu, dengan perincian :  
+    * 1 jam kuliah  
+    * 1 jam kegiatan terstruktur (mengikuti asistensi, membuat pekerjaan rumah, dsb)  
+    * 1 jam belajar mandiri (belajar mandiri atau bersama rekan di perpustakaan, rumah, dsb)  
     
 Untuk menentukan matakuliah apa saja yang akan diambil, mahasiswa dapat/wajib berkonsultasi dengan dosen wali (tergantung dari aturan prodi masing-masing). Bersama dosen wali, mahasiswa dapat merundingkan penerapan pedoman di atas ini bagi dirinya, dengan memperhatikan berbagai keadaan yang berlaku.
 
@@ -181,7 +181,7 @@ Pengaduan peserta ujian atas tindakan yang dinilai tidak wajar atau penyalahguna
 ###3.4.2 Prosedur Cuti Studi
 
 1. Mahasiswa wajib mengisi **Surat Permohonan Cuti Studi Mahasiswa** yang dapat diperoleh di Tata Usaha FTIS, dengan dilengkapi **_rekomendasi dosen wali_** mahasiswa yang bersangkutan, dan menyerahkannya kembali ke Tata Usaha FTIS **selambat-lambatnya sebelum berakhirnya masa PRS** semester terkait dengan cuti tersebut.
-2. Kriteria untuk memberi ijin tersebut adalah :  (a) masalah kesehatan, (b) masalah finansial, atau (c) masalah pribadi lainnya.
+2. Kriteria untuk memberi ijin tersebut adalah : masalah kesehatan, masalah finansial, atau masalah pribadi lainnya.
 3. Ijin pengambilan cuti studi diberikan oleh Dekan FTIS dan dinyatakan dalam bentuk surat resmi, dan diberitahukan kepada WR-1, WR-2, Kepala Biro Administrasi Akademik dan Kemahasiswaan (BAA) dan Kepala Biro Administrasi Keuangan (BIKEU).
 4. Masa cuti studi **tidak diperhitungkan** sebagai masa studi terpakai dalam evaluasi tahap studi.
 5. Bagi mahasiswa yang mendapat ijin cuti dari Dekan FTIS, wajib
