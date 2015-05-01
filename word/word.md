@@ -1,1 +1,1 @@
-ini word
+Berikut adalah Juklak dalam bentuk dokumen Microsoft Word
