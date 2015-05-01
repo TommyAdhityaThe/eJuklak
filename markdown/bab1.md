@@ -9,8 +9,8 @@ Perubahan nama FMIPA menjadi Fakultas Teknologi Informasi dan Sains (FTIS) terja
 Ketiga program studi tersebut saat ini telah memperoleh status akreditasi dari Badan Akreditasi Nasional Perguruan Tinggi (BAN-PT) dengan rincian sebagai berikut :
 
 * Program Studi Matematika memperoleh status akreditasi dengan peringkat A (Amat baik) berdasarkan Keputusan BAN-PT Nomor 029/BAN-PT/Ak-XIII/S1/XI/2010 tertanggal 3 Desember 2010 dengan masa berlaku hingga 3 Desember 2015
-* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 036/BAN-PT/AK/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016
-* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PTNomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
+* Program Studi Fisika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PT Nomor 036/BAN-PT/AK/S1/I/2011 tertanggal 7 Januari 2011 dengan masa berlaku hingga 7 Januari 2016
+* Program Studi Teknik Informatika memperoleh status akreditasi dengan peringkat B (Baik) berdasarkan Keputusan BAN-PT Nomor 042/BAN-PT/Ak-XIII/S1/I/2011 tertanggal 21 Januari 2011 dengan masa berlaku hingga 21 Januari 2016
 	
 Ketiga program studi yang sekarang berada dalam naungan FTIS ini dilaksanakan berdasarkan suatu kurikulum yang berbobot 144 sks (satuan kredit semester) dengan rincian selanjutnya akan diuraikan pada bagian berikutnya.
 
@@ -81,42 +81,42 @@ Sejak tahun 2000, FTIS secara rutin mengirim tim untuk mengikuti kompetisi pemro
 
 **Senat FTIS**  
 
-*  **Ketua** : Agus Sukmana, SSi, MSc  
-*  **Sekretaris** : Philips Nicolas Gunawidjaja, BSc, PhD
+*  **Ketua:** Agus Sukmana, SSi, MSc  
+*  **Sekretaris:** Philips Nicolas Gunawidjaja, BSc, PhD
 
 **Dekanat**  
 
-*  **Dekan** : Paulus Cahyono Tjiang, SSi, PhD.  
-*  **WD I (Akademik)** : Dr. Thomas Anung Basuki  
-*  **WD II (Keuangan dan Sumberdaya)** : Maria Anestasia, SSi, MSi  
-*  **WD III (Kemahasiswaan dan Alumni)** : Dr.rer.nat. Cecilia E. Nugraheni, ST,MT  
+*  **Dekan:** : Paulus Cahyono Tjiang, SSi, PhD.  
+*  **WD I (Akademik):** Dr. Thomas Anung Basuki  
+*  **WD II (Keuangan dan Sumberdaya):** Maria Anestasia, SSi, MSi  
+*  **WD III (Kemahasiswaan dan Alumni):** Dr.rer.nat. Cecilia E. Nugraheni, ST,MT  
 
 **Program Studi Matematika**  
 
-*  **Ketua** : Dr. Ferry Jaya Permana  
-*  **Sekretaris** : Livia Owen, SSi, Msi
+*  **Ketua:** Dr. Ferry Jaya Permana  
+*  **Sekretaris:** Livia Owen, SSi, Msi
     
 **Program Studi Fisika**  
 
-*  **Ketua** : Philips Nicolas Gunawidjaja, BSc, PhD  
-*  **KaLab. Fisika Dasar** : Risti Suryantari, S.Si., M.Si.  
-*  **KaLab. Elektronika & Fisika Lanjut** : Janto V. Sulungbudi, Drs.  
+*  **Ketua:** Philips Nicolas Gunawidjaja, BSc, PhD  
+*  **KaLab. Fisika Dasar:** Risti Suryantari, S.Si., M.Si.  
+*  **KaLab. Elektronika & Fisika Lanjut:** Janto V. Sulungbudi, Drs.  
     
 **Program Studi Teknik Informatika**  
 
-*  **Ketua** : Dr. Thomas Anung Basuki  
-*  **Sekretaris** : Lionov, SKom, MSc  
-*  **KaLab. Komputasi** : Chandra Wijaya, ST, MT  
+*  **Ketua:** Dr. Thomas Anung Basuki  
+*  **Sekretaris:** Lionov, SKom, MSc  
+*  **KaLab. Komputasi:** Chandra Wijaya, ST, MT  
     
 **Tata Usaha**  
 
-*  **Kepala** : Pranyoto Teguh Imanto  
-*  **Kasubag Akademik** : Petrus Purnomo  
-*  **Kasubag Keuangan & Kepegawaian** : Budi Santoso  
-*  **Kasubag Kemahasiswaan & Alumni** : Fransiscus Sudarno  
-*  **Kasubag Umum & Perlengkapan** : Walip, A.Md  
-*  **Staf Akademik** : Rikie Setiawan, S.AB.  
-*  **Staf Keuangan & Kepegawaian** : Filifo Zebua, Dwina Irlistriarti, Dra.  
+*  **Kepala:** Pranyoto Teguh Imanto  
+*  **Kasubag Akademik:** Petrus Purnomo  
+*  **Kasubag Keuangan & Kepegawaian:** Budi Santoso  
+*  **Kasubag Kemahasiswaan & Alumni:** Fransiscus Sudarno  
+*  **Kasubag Umum & Perlengkapan:** Walip, A.Md  
+*  **Staf Akademik:** Rikie Setiawan, S.AB.  
+*  **Staf Keuangan & Kepegawaian:** Filifo Zebua, Dwina Irlistriarti, Dra.  
 
 ##1.5. Daftar Dosen FTIS
 
