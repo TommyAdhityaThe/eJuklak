@@ -243,54 +243,54 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 				//no anchor
 			} else if(sectionN == 1) { //Bab 1
 				url = "file:///android_asset/bab1.html";
-				if (child == 0) {//1.1
-					url = "file:///android_asset/bab1.html#bab-1-pendahuluan";
-				} else if (child == 1) {//1.2
+				if (child == 1) {//1.1
+					url = "file:///android_asset/bab1.html#sejarah-fakultas-teknologi-informasi-dan-sains";
+				} else if (child == 2) {//1.2
 					url = "file:///android_asset/bab1.html#visi-misi-tujuan-dan-sasaran-ftis";
-				} else if (child == 2) {//1.3
+				} else if (child == 3) {//1.3
 					url = "file:///android_asset/bab1.html#keberhasilan-ftis";
-				} else if (child == 3) {//1.4
+				} else if (child == 4) {//1.4
 					url = "file:///android_asset/bab1.html#pengelola-fakultas";
-				} else if (child == 4) {//1.5
+				} else if (child == 5) {//1.5
 					url = "file:///android_asset/bab1.html#daftar-dosen-ftis";
 				}
 			} else if(sectionN == 2) { //Bab 2
 				url = "file:///android_asset/bab2.html";
-				if (child == 0) {//2.1
-					url = "file:///android_asset/bab2.html#bab-2-penyelenggaraan-mata-kuliah";
-				} else if (child == 1) {//2.2
+				if (child == 1) {//2.1
+					url = "file:///android_asset/bab2.html#matakuliah-pilihan";
+				} else if (child == 2) {//2.2
 					url = "file:///android_asset/bab2.html#matakuliah-prasyarat";
-				} else if (child == 2) {//2.3
+				} else if (child == 3) {//2.3
 					url = "file:///android_asset/bab2.html#matakuliah-layanan";
-				} else if (child == 3) {//2.4
+				} else if (child == 4) {//2.4
 					url = "file:///android_asset/bab2.html#matakuliah-umum";
-				} else if (child == 4) {//2.5
+				} else if (child == 5) {//2.5
 					url = "file:///android_asset/bab2.html#kurikulum-program-studi-matematika";
-				} else if (child == 5) {//2.6
+				} else if (child == 6) {//2.6
 					url = "file:///android_asset/bab2.html#kurikulum-program-studi-fisika";
-				} else if (child == 6) {//2.7
+				} else if (child == 7) {//2.7
 					url = "file:///android_asset/bab2.html#kurikulum-program-studi-teknik-informatika";
 				}
 			} else if(sectionN == 3) { //Bab 3
 				url = "file:///android_asset/bab3.html";
-				if (child == 0) {//3.1
-					url = "file:///android_asset/bab3.html#bab-3-kegiatan-akademik";
-				} else if (child == 1) {//3.2
+				if (child == 1) {//3.1
+					url = "file:///android_asset/bab3.html#penyusunan-rencana-studi";
+				} else if (child == 2) {//3.2
 					url = "file:///android_asset/bab3.html#kegiatan-perkuliahan";
-				} else if (child == 2) {//3.3
+				} else if (child == 3) {//3.3
 					url = "file:///android_asset/bab3.html#tata-cara-ujian";
-				} else if (child == 3) {//3.4
+				} else if (child == 4) {//3.4
 					url = "file:///android_asset/bab3.html#cuti-dan-gencat-studi";
-				} else if (child == 4) {//3.5
+				} else if (child == 5) {//3.5
 					url = "file:///android_asset/bab3.html#pengunduran-diri-sebagai-mahasiswa";
 				}
 			} else if(sectionN == 4) { //Bab 4
 				url = "file:///android_asset/bab4.html";
-				if (child == 0) {//4.1
-					url = "file:///android_asset/bab4.html#bab-4-evaluasi-keberhasilan-belajar";
-				} else if (child == 1) {//4.2
+				if (child == 1) {//4.1
+					url = "file:///android_asset/bab4.html#evaluasi-keberhasilan-belajar-tiap-mata-kuliah";
+				} else if (child == 2) {//4.2
 					url = "file:///android_asset/bab4.html#evaluasi-keberhasilan-belajar-dalam-suatu-tahap-belajar";
-				} else if (child == 2) {//4.3
+				} else if (child == 3) {//4.3
 					url = "file:///android_asset/bab4.html#kemampuan-bahasa-inggris-mahasiswa-unpar";
 				}
 			} else if(sectionN == 5) { //Lampiran 1

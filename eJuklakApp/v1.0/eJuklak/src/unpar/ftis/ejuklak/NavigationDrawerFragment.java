@@ -144,11 +144,12 @@ public class NavigationDrawerFragment extends Fragment {
 		
 		DrawerItem bab0 = new DrawerItem();
 		bab0.name = "Cover";
-		bab0.innerList.add("Kata Pengantar");
+		bab0.innerList.add("KATA PENGANTAR");
 		al.add(bab0);
 		
 		DrawerItem bab1 = new DrawerItem();
-		bab1.name = "Bab 1:\nPendahuluan";
+		bab1.name = "Bab 1";
+		bab1.innerList.add("PENDAHULUAN");
 		bab1.innerList.add("1.1:\nSejarah Fakultas Teknologi Informasi dan Sains");
 		bab1.innerList.add("1.2:\nVisi, Misi, Tujuan, dan Sasaran FTIS");
 		bab1.innerList.add("1.3:\nKeberhasilan FTIS");
@@ -157,7 +158,8 @@ public class NavigationDrawerFragment extends Fragment {
 		al.add(bab1);
 		
 		DrawerItem bab2 = new DrawerItem();
-		bab2.name = "Bab 2:\nPenyelenggaraan Mata Kuliah";
+		bab2.name = "Bab 2";
+		bab2.innerList.add("PENYELENGGARAAN MATA KULIAH");
 		bab2.innerList.add("2.1:\nMatakuliah Pilihan");
 		bab2.innerList.add("2.2:\nMatakuliah Prasyarat");
 		bab2.innerList.add("2.3:\nMatakuliah Layanan");
@@ -168,7 +170,8 @@ public class NavigationDrawerFragment extends Fragment {
 		al.add(bab2);
 		
 		DrawerItem bab3 = new DrawerItem();
-		bab3.name = "Bab 3:\nKegiatan Akademik";
+		bab3.name = "Bab 3";
+		bab3.innerList.add("KEGIATAN AKADEMIK");
 		bab3.innerList.add("3.1:\nPenyusunan Rencana Studi");
 		bab3.innerList.add("3.2:\nKegiatan Perkuliahan");
 		bab3.innerList.add("3.3:\nTata Cara Ujian");
@@ -177,7 +180,8 @@ public class NavigationDrawerFragment extends Fragment {
 		al.add(bab3);
 		
 		DrawerItem bab4 = new DrawerItem();
-		bab4.name = "Bab 4:\nEvaluasi Keberhasilan Belajar";
+		bab4.name = "Bab 4";
+		bab4.innerList.add("EVALUASI KEBERHASILAN BELAJAR");
 		bab4.innerList.add("4.1:\nEvaluasi Keberhasilan Belajar Tiap Mata Kuliah");
 		bab4.innerList.add("4.2:\nEvaluasi Keberhasilan Belajar Dalam Suatu Tahap Belajar");
 		bab4.innerList.add("4.3:\nKemampuan Bahasa Inggris Mahasiswa UNPAR");
@@ -185,43 +189,43 @@ public class NavigationDrawerFragment extends Fragment {
 		
 		DrawerItem lam1 = new DrawerItem();
 		lam1.name = "Lampiran 1";
-		lam1.innerList.add("Jadwal Akademik Tahun Akademik 2014/2015");
+		lam1.innerList.add("JADWAL AKADEMIK TAHUN AKADEMIK 2014/2015");
 		al.add(lam1);
 		
 		DrawerItem lam2 = new DrawerItem();
 		lam2.name = "Lampiran 2";
-		lam2.innerList.add("Jadwal Pembayaran Biaya Studi Tahun Akademik 2014/2015");
+		lam2.innerList.add("JADWAL PEMBAYARAN BIAYA STUDI TAHUN AKADEMIK 2014/2015");
 		al.add(lam2);
 		
 		DrawerItem lam3 = new DrawerItem();
 		lam3.name = "Lampiran 3";
-		lam3.innerList.add("Sidang Sarjana dan Wisuda Tahun Akademik 2014/2015");
+		lam3.innerList.add("SIDANG SARJANA DAN WISUDA TAHUN AKADEMIK 2014/2015");
 		al.add(lam3);
 		
 		DrawerItem lam4 = new DrawerItem();
 		lam4.name = "Lampiran 4";
-		lam4.innerList.add("Keputusan Rektor UNPAR Tentang Evaluasi Keberhasilan Belajar Dalam Mata "
-				+ "Kuliah dan Evaluasi Tahap Keberhasilan Belajar Pada Program Sarjana dan Diploma III "
-				+ "di Lingkungan Universitas Katolik Parahyangan");
+		lam4.innerList.add("KEPUTUSAN REKTOR UNPAR TENTANG EVALUASI KEBERHASILAN BELAJAR DALAM MATA "
+				+ "KULIAH DAN EVALUASI TAHAP KEBERHASILAN BELAJAR PADA PROGRAM SARJANA DAN DIPLOMA III "
+				+ "DI LINGKUNGAN UNIVERSITAS KATOLIK PARAHYANGAN");
 		al.add(lam4);
 		
 		DrawerItem lam5 = new DrawerItem();
 		lam5.name = "Lampiran 5";
-		lam5.innerList.add("Keputusan Rektor UNPAR Tentang Standar Kemampuan Bahasa Inggris Mahasiswa "
-				+ "Universitas Katolik Parahyangan");
+		lam5.innerList.add("KEPUTUSAN REKTOR UNPAR TENTANG STANDAR KEMAMPUAN BAHASA INGGRIS MAHASISWA "
+				+ "UNIVERSITAS KATOLIK PARAHYANGAN");
 		al.add(lam5);
 		
 		DrawerItem lam6 = new DrawerItem();
 		lam6.name = "Lampiran 6";
-		lam6.innerList.add("Keputusan Rektor UNPAR Tentang Aturan Bagi Mahasiswa yang Cuti Studi dan "
-				+ "Mahasiswa yang Tidak Aktif Pada Program Sarjana dan Program Diploma III di "
-				+ "Universitas Katolik Parahyangan");
+		lam6.innerList.add("KEPUTUSAN REKTOR UNPAR TENTANG ATURAN BAGI MAHASISWA YANG CUTI STUDI DAN "
+				+ "MAHASISWA YANG TIDAK AKTIF PADA PROGRAM SARJANA DAN PROGRAM DIPLOMA III DI "
+				+ "UNIVERSITAS KATOLIK PARAHYANGAN");
 		al.add(lam6);
 		
 		DrawerItem lam7 = new DrawerItem();
 		lam7.name = "Lampiran 7";
-		lam7.innerList.add("Keputusan Rektor UNPAR Tentang Peraturan Tata Tertib Mahasiswa dan "
-				+ "Prosedur Penjatuhan Sanksi");
+		lam7.innerList.add("KEPUTUSAN REKTOR UNPAR TENTANG PERATURAN TATA TERTIB MAHASISWA DAN "
+				+ "PROSEDUR PENJATUHAN SANKSI");
 		al.add(lam7);
 		
 		/**
