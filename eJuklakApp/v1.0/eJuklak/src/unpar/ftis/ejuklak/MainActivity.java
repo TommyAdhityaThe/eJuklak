@@ -70,7 +70,7 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 		setContentView(R.layout.activity_main);
 		
 		/**
-		 * set up the fragment navigation drawer
+		 * initialize the fragment navigation drawer
 		 */
 		mNavigationDrawerFragment = (NavigationDrawerFragment) getFragmentManager().findFragmentById(R.id.navigation_drawer);
 		mNavigationDrawerFragment.setActivity(this);
@@ -82,7 +82,6 @@ public class MainActivity extends Activity implements NavigationDrawerFragment.N
 
 		// Set up the drawer.
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,(DrawerLayout) findViewById(R.id.drawer_layout));
-		
 	}
 
 	@Override

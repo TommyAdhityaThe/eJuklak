@@ -84,18 +84,14 @@ public class NavigationDrawerFragment extends Fragment {
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		
-		
-
 		// Read in the flag indicating whether or not the user has demonstrated
 		// awareness of the
 		// drawer. See PREF_USER_LEARNED_DRAWER for details.
-		SharedPreferences sp = PreferenceManager
-				.getDefaultSharedPreferences(getActivity());
+		SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(getActivity());
 		mUserLearnedDrawer = sp.getBoolean(PREF_USER_LEARNED_DRAWER, false);
 
 		if (savedInstanceState != null) {
-			mCurrentSelectedPosition = savedInstanceState
-					.getInt(STATE_SELECTED_POSITION);
+			mCurrentSelectedPosition = savedInstanceState.getInt(STATE_SELECTED_POSITION);
 			mFromSavedInstanceState = true;
 		}
 
@@ -344,14 +340,6 @@ public class NavigationDrawerFragment extends Fragment {
 		if (mCallbacks != null) {
 			mCallbacks.onNavigationDrawerItemSelected(groupPosition);
 		}
-//		WebView display = (WebView) getView().findViewById(R.id.webViewContent);
-//		
-//		WebSettings ws = display.getSettings();
-//		ws.setDefaultTextEncodingName("UTF-8");
-//		String url = "file:///android_asset/pendahuluan.html";
-//		display.loadUrl(url);
-//		Toast.makeText(getActivity(), "GroupPosition - " + groupPosition+", "
-//				+ "ChildPosition - "+childPosition, Toast.LENGTH_SHORT).show();
 		
 	}
 
@@ -403,12 +391,6 @@ public class NavigationDrawerFragment extends Fragment {
 		if (mDrawerToggle.onOptionsItemSelected(item)) {
 			return true;
 		}
-
-//		if (item.getItemId() == R.id.action_visit) {
-//			Toast.makeText(getActivity(), "Example action.", Toast.LENGTH_SHORT)
-//					.show();
-//			return true;
-//		}
 
 		return super.onOptionsItemSelected(item);
 	}
