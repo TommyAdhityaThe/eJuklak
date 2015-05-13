@@ -1,7 +1,7 @@
 eJuklak
 =======
 
-Petunjuk Pelaksanaan Kegiatan Akademi FTIS Unpar Versi Elektronik
+Petunjuk menggunakan aplikasi dan penjelasan eJuklak FTIS Unpar Versi Elektronik
 
 Dibuat oleh:  
 2012730004 Henry Bagus Hermawan  
