@@ -30,6 +30,7 @@ Berikut adalah panduan manual cara menggunakan aplikasi :
   **Gambar 5** : tampilan utama eJuklak.
 
 6. Untuk melakukan perpindahan halaman secara cepat, user bisa menggunakan fitur navigasi yang berada di kiri atas layar utama. Perpindahan halaman dapat dilakukan tiap bab maupun sub-bab eJuklak,
+
   ![](images/Application_6.1.png)
   ![](images/Application_6.2.png)
   **Gambar 6.1** : perpindahan tiap bab dengan fitur navigasi.
