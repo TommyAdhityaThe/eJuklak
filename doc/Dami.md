@@ -33,5 +33,5 @@ Berikut adalah panduan manual cara menggunakan aplikasi :
 
   ![](images/Application_6.1.png)
   ![](images/Application_6.2.png)
-  **Gambar 6.1** : perpindahan tiap bab dengan fitur navigasi.
+  **Gambar 6.1** : perpindahan tiap bab dengan fitur navigasi.  
   **Gambar 6.2** : perpindahan tiap sub-bab dengan fitur navigasi.
